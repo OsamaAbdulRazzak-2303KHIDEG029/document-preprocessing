@@ -6,9 +6,9 @@ August, 2025
 
 Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
 
-# Alfalah Asset Management Limited
+Alfalah Asset Management Limited
 
-## RISK PROFILE OF ISLAMIC COLLECTIVE INVESTMENT SCHEMES/PLANS
+RISK PROFILE OF ISLAMIC COLLECTIVE INVESTMENT SCHEMES/PLANS
 
 | S.No | Fund Name                                      | Category                                        | Risk Profile | Risk of Principal Erosion |
 | ---- | ---------------------------------------------- | ----------------------------------------------- | ------------ | ------------------------- |
@@ -40,85 +40,107 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Rozana Amdani Fund
 
-## Fund Stability Rating: "AA(f)" by PACRA 17 -Jun -25
+Fund Stability Rating: "AA(f)" by PACRA 17 -Jun -25
 
-## AMC Rating: "AM1" by VIS 02-Jan-25
+AMC Rating: "AM1" by VIS 02-Jan-25
 
-## AMC Rating: "AM1" by PACRA 29-Aug-25
+AMC Rating: "AM1" by PACRA 29-Aug-25
 
-### Investment Objective
+## Investment Objective
 
 The objective of Alfalah Islamic Rozana Amdani Fund (AIRAF) is to provide competitive returns and to meet liquidity needs of investors by providing investors a daily dividend by investing in low risk and highly liquid Shari’ah Compliant money market instruments.
 
 ## Basic Information
 
-| Category                | Shariah Complaint Money Market    |
-| ----------------------- | --------------------------------- |
-| Fund Type               | Open Ended                        |
-| Benchmark               | 90% three (3) months PKISRV rates |
-| Min. Initial Investment | PKR 500/-                         |
-| Min. Subseq. Investment | PKR 100/-                         |
-| Trustee                 | CDC Pakistan Limited              |
-| Auditor                 | Yousuf Adil Chartered Accountants |
-| Listing                 | Pakistan Stock Exchange           |
-| Launch Date             | September 18, 2020                |
-| Dealing Days            | Monday - Friday                   |
-| Par Value               | PKR 100                           |
-| Pricing                 | Forward Day                       |
-| Sales Load              | Up to 2%                          |
-| Risk Profile            | Low                               |
+| Field                       | Detail                                                                                                                                                                                                               |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **Category**                | Shariah Complaint Money Market                                                                                                                                                                                       |
+| **Fund Type**               | Open Ended                                                                                                                                                                                                           |
+| **Benchmark**               | 90% three (3) months PKISRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **Launch Date**             | September 18, 2020                                                                                                                                                                                                   |
+| **Par Value**               | PKR 100                                                                                                                                                                                                              |
+| **Pricing**                 | Forward Day                                                                                                                                                                                                          |
+| **Sales Load**              | Up to 2%                                                                                                                                                                                                             |
+| **Risk Profile**            | Low                                                                                                                                                                                                                  |
+| **Management Fee\*\***      | Up to 1.25% per annum of the average net daily net assets of the scheme                                                                                                                                              |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                                                                                            |
+| **Min. Subseq. Investment** | PKR 100/-                                                                                                                                                                                                            |
+| **Trustee**                 | CDC Pakistan Limited                                                                                                                                                                                                 | --> |
+| **Auditor**                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                    |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                                                                                              |
+| **Dealing Days**            | Monday - Friday                                                                                                                                                                                                      |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                                                                                                    |
+| **Leverage**                | Nil                                                                                                                                                                                                                  |
+
+## Investment Committee
+
+| Name                             | Title                           |
+| :------------------------------- | :------------------------------ |
+| **Khaidoon Bin Latif**           | Chief Executive Officer         |
+| **Ayub Khuhro**                  | Chief Investment Officer        |
+| **Faisal Ali Khan**              | Chief Financial Officer         |
+| **Shariq Mukhtar Hashmi**        | Chief Compliance Officer        |
+| **Imad Ansari**                  | Chief Risk Officer              |
+| **Muddasir Ahmed Shaikh**        | Head of Equities                |
+| **Mustafa Kamal**                | Head of Fixed Income            |
+| **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
+| **Salman Jawaid**                | Fund Manager Fixed Income Funds |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
+
+## Fund Statistics
+
+| Metric                                                | Value   |
+| :---------------------------------------------------- | :------ |
+| **Fund Size** (PKr mn; as on Aug 31, 2025)            | 8,608.4 |
+| **Fund size including fund of fund schemes** (PKr mn) | 8,697.3 |
+| **NAV** (PKr)                                         | 100.03  |
+| **Information Ratio**                                 | 0.46    |
+| **Portfolio Turnover Ratio**                          | 63.0%   |
+| **Wtd. Average Maturity** (Days)                      | 65.70   |
+| **YTM**                                               | 10.66%  |
+| **Duration**                                          | 0.089   |
+| **Modified Duration**                                 | 0.082   |
 
 ### Fund Performance
 
-| Month                  | AIRAF (%) | BM (%) |
-| ---------------------- | --------- | ------ |
-| Since Inception Return | 6.96%     | 13.94% |
-| 3 Year                 | 8.87%     | 17.34% |
-| 365 Days               | 10.87%    | 9.83%  |
-| YTD                    | 9.87%     | 9.43%  |
+| Month                  | BM (%) | AIRAF (%) |
+| ---------------------- | ------ | --------- |
+| Since Inception Return | 6.96%  | 13.94%    |
+| 3 Year                 | 8.87%  | 17.34%    |
+| 365 Days               | 10.87% | 9.83%     |
+| YTD                    | 9.87%  | 9.43%     |
+| Month                  | 9.66%  | 10.16%    |
 
-### Credit Quality (as % of Total Assets)
+Avg. Peer Group Return for August 2025 was 9.32%
+5-Year Peer Group Return For August 2025 - 14.24%
 
-| Rating                       | Percentage (%) |
-| ---------------------------- | -------------- |
-| Govt. Guaranteed (Rated AAA) | 11.78%         |
-| AAA                          | 13.06%         |
-| AA+                          | 68.69%         |
-| AA                           | 0.20%          |
-| A1+                          | 2.27%          |
-| A-                           | 0.00%          |
-| BBB+                         | 0.00%          |
-| BBB                          | 0.00%          |
-| AA-                          | 0.00%          |
-| Below IG                     | 0.00%          |
-| A+                           | 0.00%          |
-| NR/UR/MTS                    | 1.18%          |
-| A1                           | 2.83%          |
+## Credit Quality (as % of Total Assets)
 
-### TFC/Sukuk Holdings (% of Total Assets)
+| Rating                           | Percentage | Rating        | Percentage |
+| :------------------------------- | :--------- | :------------ | :--------- |
+| **Govt. Guaranteed (Rated AAA)** | 11.78%     | **A1+**       | 2.27%      |
+| **AAA**                          | 13.06%     | **A-**        | 0.00%      |
+| **AA+**                          | 68.69%     | **BBB+**      | 0.00%      |
+| **AA**                           | 0.20%      | **BBB**       | 0.00%      |
+| **AA-**                          | 0.00%      | **Below IG**  | 0.00%      |
+| **A+**                           | 0.00%      | **NR/UR/MTS** | 1.18%      |
+| **A1**                           | 2.83%      |               |            |
+
+## TFC/Sukuk Holdings (% of Total Assets)
 
 | Name                                                    | Percentage (%) |
 | ------------------------------------------------------- | -------------- |
 | Ismail Industries Limited - SUKUK-12-Aug-2025           | 2.83%          |
 | Pakistan Telecommunication Company Limited - SUKUK XIII | 2.27%          |
 
-### Monthly Returns
+## Monthly Returns
 
-| Month  | AIRAF (%) | BM (%) |
-| ------ | --------- | ------ |
-| Aug-24 | 17.85%    | 10.75% |
-| Sep-24 | 17.79%    | 10.14% |
-| Oct-24 | 17.16%    | 9.41%  |
-| Nov-24 | 14.44%    | 8.43%  |
-| Dec-24 | 12.89%    | 7.68%  |
-| Jan-25 | 9.04%     | 10.17% |
-| Feb-25 | 9.17%     | 10.05% |
-| Mar-25 | 9.09%     | 10.21% |
-| Apr-25 | 9.59%     | 10.42% |
-| May-25 | 10.29%    | 10.32% |
-| Jun-25 | 10.57%    | 10.45% |
-| Jul-25 | 8.61%     | 10.07% |
-| Aug-25 | 10.16%    | 9.66%  |
+## Monthly Returns
+
+|           | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 |
+| :-------- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| **ADRAF** | 17.85% | 17.79% | 17.16% | 14.44% | 12.89% | 9.04%  | 9.17%  | 9.09%  | 9.59%  | 10.29% | 10.57% | 8.61%  | 10.16% |
+| **BM**    | 10.75% | 10.14% | 9.61%  | 8.43%  | 7.60%  | 10.17% | 10.05% | 10.21% | 10.42% | 10.32% | 10.45% | 10.07% | 9.66%  |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -144,20 +166,20 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Money Market Fund
 
-## Fund Stability Rating: "AA(f)" by PACRA 22-Aug-25
+Fund Stability Rating: "AA(f)" by PACRA 22-Aug-25
 
-## AMC Rating: "AM1" by VIS 02-Jan-25
+AMC Rating: "AM1" by VIS 02-Jan-25
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
-### Investment Objective
+## Investment Objective
 
 The investment objective of the Fund is to generate regular and stable returns by investing primarily in Shariah Compliant Banks and windows of conventional Banks and any other Shariah compliant money market instruments.
 
 ## Basic Information
 
 | Category                | Shariah Compliant Money Market                                                                                                                                                                                        |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Risk Profile            | Low                                                                                                                                                                                                                   |
 | Management Fee\*\*\*\*  | upto. 1.25% per annum of the average daily net assets of the Scheme                                                                                                                                                   |
 | Fund Type               | Open Ended                                                                                                                                                                                                            |
@@ -173,28 +195,36 @@ The investment objective of the Fund is to generate regular and stable returns b
 | Par Value               | PKR 100                                                                                                                                                                                                               |
 | Pricing                 | Backward Day                                                                                                                                                                                                          |
 | Sales Load              | upto 2.00%                                                                                                                                                                                                            |
+| Leverage                | Nil                                                                                                                                                                                                                   |     |
 
-## Asset Allocation (as % of Total Assets)
+## Investment Committee
 
-| Asset Class      | Percentage |
-| ---------------- | ---------- |
-| Cash             | 100        |
-| Banks/DFIs       | 0          |
-| Govt. Guaranteed | 0          |
-| Sukuks/ICPs      | 0          |
-| Others           | 0          |
+| Name                             | Title                           |
+| :------------------------------- | :------------------------------ |
+| **Khaidoon Bin Latif**           | Chief Executive Officer         |
+| **Ayub Khuhro**                  | Chief Investment Officer        |
+| **Faisal Ali Khan**              | Chief Financial Officer         |
+| **Shariq Mukhtar Hashmi**        | Chief Compliance Officer        |
+| **Imad Ansari**                  | Chief Risk Officer              |
+| **Muddasir Ahmed Shaikh**        | Head of Equities                |
+| **Mustafa Kamal**                | Head of Fixed Income            |
+| **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
+| **Salman Jawaid**                | Fund Manager Fixed Income Funds |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
 
 ## Fund Statistics
 
-| Fund Size (PkR mn; as on Aug 31, 2025) | 70,090 |
-| Fund size including fund of fund schemes (PkR mn) | 70,174 |
-| NAV (PkR) | 101.99 |
-| Information Ratio | -0.02 |
-| Portfolio Turnover Ratio | 55.8% |
-| Wtd. Average Maturity (Days) | 65.32 |
-| YTM | 10.63% |
-| Duration | 0.094 |
-| Modified Duration | 0.087 |
+| Metric                                                | Value  |
+| :---------------------------------------------------- | :----- |
+| **Fund Size** (PKr mn; as on Aug 31, 2025)            | 70,090 |
+| **Fund size including fund of fund schemes** (PKr mn) | 70,174 |
+| **NAV** (PKr)                                         | 101.99 |
+| **Information Ratio**                                 | -0.02  |
+| **Portfolio Turnover Ratio**                          | 55.8%  |
+| **Wtd. Average Maturity** (Days)                      | 65.32  |
+| **YTM**                                               | 10.63% |
+| **Duration**                                          | 0.094  |
+| **Modified Duration**                                 | 0.087  |
 
 ## Fund Performance
 
@@ -209,15 +239,15 @@ The investment objective of the Fund is to generate regular and stable returns b
 
 ## Credit Quality (as % of Total Assets)
 
-| Rating                       | Percentage |
-| ---------------------------- | ---------- |
-| Govt. Securities (Rated AAA) | 8.56%      |
-| AAA                          | 18.34%     |
-| AA+                          | 55.02%     |
-| AA                           | 0.47%      |
-| AA-                          | 0.00%      |
-| A+                           | 0.00%      |
-| A1                           | 4.30%      |
+| Rating                           | Percentage | Rating       | Percentage |
+| :------------------------------- | :--------- | :----------- | :--------- |
+| **Govt. Securities (Rated AAA)** | 8.56%      | **A1+**      | 11.51%     |
+| **AAA**                          | 18.34%     | **A-**       | 0.00%      |
+| **AA+**                          | 55.02%     | **BBB+**     | 0.00%      |
+| **AA**                           | 0.47%      | **Below IG** | 0.00%      |
+| **AA-**                          | 0.00%      | **NR/UR**    | 1.79%      |
+| **A+**                           | 0.00%      |              |            |
+| **A1**                           | 4.30%      |              |            |
 
 ## TFC/Sukuk Holdings (% of Total Assets)
 
@@ -277,20 +307,20 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah GHP Islamic Income Fund
 
-## Fund Stability Rating: "AA-(f)" by PACRA 17-Jun-25
+Fund Stability Rating: "AA-(f)" by PACRA 17-Jun-25
 
-## AMC Rating: "AM1" by VIS 02-Jan-2025
+AMC Rating: "AM1" by VIS 02-Jan-2025
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
-### Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimize risk, construct a liquid portfolio of shariah approved fixed income investments and provide competitive returns to the Unit Holders. The management team shall ensure the active implementation of prudent investment practices, the highest professional standards and compliance with applicable laws.
 
 ## Basic Information
 
 | Category                | Shariah Compliant Income Scheme                                                                                                                                                                                  |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Fund Type               | Open Ended                                                                                                                                                                                                       |
 | Benchmark               | 75% six (6) months PKISRV rates + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
 | Management Fee\*\*\*    | up to 1.5% per annum of the average daily net assets of the Scheme.                                                                                                                                              |
@@ -305,21 +335,7 @@ The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimi
 | Sales Load              | up to 2.00%                                                                                                                                                                                                      |
 | Risk Profile            | Medium                                                                                                                                                                                                           |
 | Leverage                | Nil                                                                                                                                                                                                              |
-
-## Asset Allocation (as % of Total Assets)
-
-| 100 |                                           |
-| --- | ----------------------------------------- |
-| 90  | July August                               |
-| 80  |                                           |
-| 70  |                                           |
-| 60  |                                           |
-| 50  | 35.25 36.14                               |
-| 40  | 30.03 25.72 32.25                         |
-| 30  | 14.38                                     |
-| 20  |                                           |
-| 10  |                                           |
-| 0   | Cash TFCs/Sukuks Others Month 9.29% 8.73% |
+| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                                |     |
 
 ## Fund Statistics
 
@@ -361,6 +377,21 @@ The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimi
 | BBB                          | 0.00%             |
 | A+                           | 1.10%             |
 | NR/UR/MTS                    | 3.04%             |
+
+## TFC/Sukuk Holdings (% of Total Assets)
+
+| Issuer/Instrument                                           | Percentage of Total Assets |
+| :---------------------------------------------------------- | :------------------------- |
+| Mughal Iron & Steel Industries Limited 21-04-2020S          | 5.29%                      |
+| Lucky Electric Power Company Limited-SUKUK-22 (18-Aug-2025) | 4.28%                      |
+| Pakistan Telecommunication Company Limited - SUKUK 14 Issue | 3.34%                      |
+| DIB-Sukuk-{02-12-2022}                                      | 3.16%                      |
+| Air Link Communication Limited Sukuk -21-July-2025          | 2.82%                      |
+| Pakistan Energy Sukuk - II                                  | 1.62%                      |
+| Sunridge Foods Pvt Ltd -Sukuk 20-05-2025                    | 1.41%                      |
+| Mughal-SUKUK-{02-03-2021}                                   | 0.63%                      |
+| OBS AGP (PRIVATE) LIMITED - SUKUK                           | 0.35%                      |
+| KEL-SUKUK-{03-08-2020}                                      | 0.33%                      |
 
 ## Monthly Returns
 
@@ -447,23 +478,18 @@ Alfalah GHP Islamic Stock Fund (AGISF) is an Open Ended Shariah Compliant Islami
 - Salman Jawaid Fund Manager Fixed Income Funds
 - Anil Kumar, CFA Fund Manager Equity Funds
 
-## Asset Allocation (as % of Total Assets)
-
-| Month  | Cash | Stocks/Equities | Securities/Instruments | Shariah-Compliant Private Equity | Others |
-| ------ | ---- | --------------- | ---------------------- | -------------------------------- | ------ |
-| July   | 9.7  | 87.8            | 3.9                    | 0.2                              | 0.0    |
-| August | 0.0  | 95.9            | 0.0                    | 0.0                              | 0.0    |
-
 ## Fund Statistics
 
-| Fund Size (PkR mn; as on Aug 31, 2025) | 5,711.3 |
-| -------------------------------------- | ------- |
-| NAV (PkR)                              | 65.2042 |
-| Sharpe Ratio\*                         | 0.03    |
-| Standard Deviation\*                   | 1.19%   |
-| Information Ratio\*                    | -0.01   |
-| Portfolio Turnover Ratio               | 22.2%   |
-| Beta\*                                 | 0.94    |
+| Metric                                                | Value   |
+| :---------------------------------------------------- | :------ |
+| **Fund Size** (F (PKr mn; as on Aug 31, 2025))        | 5,711.3 |
+| **Fund size including fund of fund schemes** (PKr mn) | 5,711.3 |
+| **NAV** (PKR)                                         | 65.2042 |
+| **Sharpe Ratio\***                                    | 0.03    |
+| **Standard Deviation\***                              | 1.19%   |
+| **Information Ratio\***                               | -0.01   |
+| **Portfolio Turnover Ratio**                          | 22.2%   |
+| **Beta\***                                            | 0.94    |
 
 ## Fund Performance
 
@@ -542,21 +568,21 @@ This publication is for informational purposes only and nothing herein should be
 
 ## Total Expense Ratio Breakup
 
-| M.F | Regulatory Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
-| --- | ---------------------- | ---------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
-| MTD | 3.00%                  | 0.09%            | 0.12%                | 0.60%                | 0.91%          | 4.77%                 | 4.17%                    |
-| YTD | 3.00%                  | 0.09%            | 0.12%                | 0.59%                | 0.79%          | 4.64%                 | 4.06%                    |
+|         | M.F   | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
+| :------ | :---- | :------------- | :---------- | :--------------- | :------------------- | :------------------- | :------------- | :-------------------- | :----------------------- |
+| **MTD** | 3.00% | 0.09%          | 0.12%       | 0.60%            | 0.91%                | 0.05%                | 0.00%          | 4.77%                 | 4.17%                    |
+| **YTD** | 3.00% | 0.09%          | 0.12%       | 0.59%            | 0.79%                | 0.05%                | 0.00%          | 4.64%                 | 4.06%                    |
 
 - Calculated on 5-year average
   ** Since Inception return is calculated on Compound Annual Growth Rate (CAGR) \*** Management fee of the fund has been amended from Jul 01, 2025 through 11th supplemental OD with consent of the SECP
 
 ---
 
-Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
+## Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-# Fund Managers' Report
+Fund Managers' Report
 
-## August 2025
+August 2025
 
 ### Alfalah GHP Islamic Dedicated Equity Fund
 
@@ -569,20 +595,25 @@ Alfalah GHP Islamic Dedicated Equity Fund (AGIDEF) is an Open-end Shariah Compli
 
 ## Basic Information
 
-| Category     | Shariah Compliant Dedicated Equity Scheme |
-| ------------ | ----------------------------------------- |
-| Fund Type    | Open Ended                                |
-| Benchmark    | KMI 30 Index                              |
-| Launch Date  | May 23, 2017                              |
-| Par Value    | PKR 100/-                                 |
-| Pricing      | Forward Day                               |
-| Sales Load\* | 1.50%                                     |
-| Risk profile | High                                      |
-| Leverage     | Nil                                       |
-| Trustee      | CDC Pakistan Limited                      |
-| Auditor      | Yousuf Adil Chartered Accountants         |
-| Dealing Days | Monday - Friday                           |
-| Cut-off Time | 9:00 am - 4:00 pm                         |
+| Field                       | Detail                                                            |
+| :-------------------------- | :---------------------------------------------------------------- |
+| **Category**                | Shariah Compliant Dedicated Equity Scheme                         |
+| **Fund Type**               | Open Ended                                                        |
+| **Benchmark**               | KMI 30 Index                                                      |
+| **Launch Date**             | May 23, 2017                                                      |
+| **Par Value**               | PKR 100/-                                                         |
+| **Pricing**                 | Forward Day                                                       |
+| **Sales Load\***            | 1.50%                                                             |
+| **Risk Profile**            | High                                                              |
+| **Leverage**                | Nil                                                               |
+| **Management Fee\*\*\***    | Up to 3% per annum of the average daily net assets of the Scheme. |
+| **Min. Initial Investment** | PKR 10,000/-                                                      |
+| **Min. Subseq. Investment** | PKR 1,000/-                                                       |
+| **Trustee**                 | CDC Pakistan Limited                                              |
+| **Auditor**                 | Yousuf Adil Chartered Accountants                                 |
+| **Listing**                 | Pakistan Stock Exchange                                           |
+| **Dealing Days**            | Monday - Friday                                                   |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                 |
 
 ## Investment Committee
 
@@ -613,7 +644,7 @@ Alfalah GHP Islamic Dedicated Equity Fund (AGIDEF) is an Open-end Shariah Compli
 
 ## Fund Performance
 
-| BM                  | AGIDEF |        |
+| BM                  | BM     | AGIDEF |
 | ------------------- | ------ | ------ |
 | Since Inception\*\* | 11.06% | 9.83%  |
 | 5-Year              | 26.45% | 23.24% |
@@ -622,9 +653,9 @@ Alfalah GHP Islamic Dedicated Equity Fund (AGIDEF) is an Open-end Shariah Compli
 | YTD                 | 14.87% | 12.28% |
 | Month (Aug 2025)    | 7.85%  | 8.11%  |
 
-## Avg. Peer Group Return for August 2025 was 8.23%
+Avg. Peer Group Return for August 2025 was 8.23%
 
-## 5 Year Avg. Peer Group Return for August 2025 was 2.31%
+5 Year Avg. Peer Group Return for August 2025 was 2.31%
 
 ## Asset Allocation (Sector Wise as a % of Total Assets)
 
@@ -696,9 +727,9 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah GHP Islamic Value Fund
 
-## AMC Rating: "AM1" by VIS 02-Jan-2025
+AMC Rating: "AM1" by VIS 02-Jan-2025
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
 ### Investment Objective
 
@@ -706,35 +737,42 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 
 ## Basic Information
 
-| Category                | Shariah Comp. Asset Alloc. Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Launch Date             | October 12, 2017                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Fund Type               | Open Ended                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Par Value               | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| New Benchmark           | Daily weighted return of KMI-30 Index for equity portion &#x26; 75% six (6) months PKISRV rates + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP for fixed income portion &#x26; 90% three (3) months PKISRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP for Money Market portion, based on Fund's actual allocation. |
-| Pricing                 | Forward Day                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Sales Load              | up to 2.00%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Risk Profile            | High                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Management Fee\*\*\*\*  | Upto 3% p.a. equity portion, upto 1.5% p.a for fixed income fund, up to 1.25% of money market portion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Min. Initial Investment | PKR 500/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Min. Subseq. Investment | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Trustee                 | CDC Pakistan Limited                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Auditor                 | Grant Thornton Pakistan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Listing                 | Pakistan Stock Exchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Dealing Days            | Monday - Friday                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Leverage                | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Field                        | Detail                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                 | Shariah Comp. Asset Alloc. Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Fund Type**                | Open Ended                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **New Benchmark**            | Daily weighted return of KMI-30 Index for equity portion & 75% six (6) months PKISRV rates + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP for fixed income portion & 90% three (3) months PKISRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP for Money Market portion, based on Fund's actual allocation. |
+| **Launch Date**              | October 12, 2017                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Par Value**                | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Pricing**                  | Forward Day                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Sales Load**               | up to 2.00%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Risk Profile**             | High                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Management Fee\*\*\*\*\*** | Up to 3% p.a. equity portion, upto 1.5% p.a for fixed income fund, up to 1.25% of money market portion                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Min. Initial Investment**  | PKR 500/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Min. Subseq. Investment**  | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Trustee**                  | CDC Pakistan Limited                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Auditor**                  | Grant Thornton Pakistan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Listing**                  | Pakistan Stock Exchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Dealing Days**             | Monday - Friday                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Cut-off Time**             | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Leverage**                 | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-### Asset Allocation (as % of Total Assets)
+## Investment Committee
 
-| Month      | July  | August |
-| ---------- | ----- | ------ |
-| Cash       | 50.00 | 44.44  |
-| GOP Ijarah | 43.57 | 43.57  |
-| Others     | 26.03 | 27.20  |
-| Sukuk      | 26.07 | 25.79  |
+| Name                             | Title                           |
+| :------------------------------- | :------------------------------ |
+| **Khaidoon Bin Latif**           | Chief Executive Officer         |
+| **Ayub Khuhro**                  | Chief Investment Officer        |
+| **Faisal Ali Khan**              | Chief Financial Officer         |
+| **Shariq Mukhtar Hashmi**        | Chief Compliance Officer        |
+| **Imad Ansari**                  | Chief Risk Officer              |
+| **Muddasir Ahmed Shaikh**        | Head of Equities                |
+| **Mustafa Kamal**                | Head of Fixed Income            |
+| **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
+| **Salman Jawaid**                | Fund Manager Fixed Income Funds |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
 
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Aug 31, 2025)            | 850    |
 | ------------------------------------------------- | ------ |
@@ -748,7 +786,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Duration                                          | 1.924  |
 | Modified Duration                                 | 1.858  |
 
-### Fund Performance
+## Fund Performance
 
 | Period                 | BM     | AGIVF  |
 | ---------------------- | ------ | ------ |
@@ -759,7 +797,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | YTD                    | 1.83%  | 1.90%  |
 | Month (Aug 2025)       | 0.91%  | 0.96%  |
 
-### Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                               | % of Total Assets |
 | ------------------------------------ | ----------------- |
@@ -812,7 +850,7 @@ Investors may lodge their complaints to our Investor Services Department through
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-### Total Expense Ratio Break up
+## Total Expense Ratio Break up
 
 | Type                     | MTD   | YTD   |
 | ------------------------ | ----- | ----- |
@@ -870,46 +908,52 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Sovereign plan-1
 
-## Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
+Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
 
-## AMC Rating: "AM1" by VIS 02-Jan-2025
+AMC Rating: "AM1" by VIS 02-Jan-2025
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
-### Investment Objective
+## Investment Objective
 
 The Investment Objective of the plan is to generate a competitive return with low risk, by investing primarily in Shariah Compliant Government Securities, Shariah Compliant Short term Sukuks / commercial papers and Islamic Banks and licensed Islamic Banking Windows of Conventional Banks.
 
 ## Basic Information
 
-| Category                | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fund Type               | Open Ended                                                                                                                                                                                                       |
-| Management Fee\*\*\*    | Accrued remuneration equal to an amount not more than 1.50% of average Annual Net Assets within allowed expense ratio limit.                                                                                     |
-| Benchmark               | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
-| Min. Initial Investment | PKR 500/-                                                                                                                                                                                                        |
-| Min. Subseq. Investment | PKR 100/-                                                                                                                                                                                                        |
-| Trustee                 | CDC Pakistan Limited                                                                                                                                                                                             |
-| Auditor                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                |
-| Launch Date             | September 26, 2023                                                                                                                                                                                               |
-| Listing                 | Pakistan Stock Exchange                                                                                                                                                                                          |
-| Par Value               | PKR 100                                                                                                                                                                                                          |
-| Dealing Days            | Monday - Friday                                                                                                                                                                                                  |
-| Pricing                 | Forward Day                                                                                                                                                                                                      |
-| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
-| Sales Load              | Up to 3.00%                                                                                                                                                                                                      |
-| Leverage                | Nil                                                                                                                                                                                                              |
-| Risk Profile            | Medium                                                                                                                                                                                                           |
+| Field                       | Detail                                                                                                                                                                                                           |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
+| **Fund Type**               | Open Ended                                                                                                                                                                                                       |
+| **Benchmark**               | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **Launch Date**             | September 26, 2023                                                                                                                                                                                               |
+| **Par Value**               | PKR 100                                                                                                                                                                                                          |
+| **Pricing**                 | Forward Day                                                                                                                                                                                                      |
+| **Sales Load**              | Up to 3.00%                                                                                                                                                                                                      |
+| **Risk Profile**            | Medium                                                                                                                                                                                                           |
+| **Management Fee\*\*\***    | Accrued remuneration equal to an amount not more than 1.50% of average Annual Net Assets within allowed expense ratio limit.                                                                                     |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                                                                                        |
+| **Min. Subseq. Investment** | PKR 100/-                                                                                                                                                                                                        |
+| **Trustee**                 | CDC Pakistan Limited                                                                                                                                                                                             |
+| **Auditor**                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                                                                                          |
+| **Dealing Days**            | Monday - Friday                                                                                                                                                                                                  |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
+| **Leverage**                | Nil                                                                                                                                                                                                              |
 
-### Asset Allocation (as % of Total Assets)
+## Investment Committee
 
-| Asset Type                    | July | August |
-| ----------------------------- | ---- | ------ |
-| Cash                          | 83%  | 59%    |
-| Govt. Backed/ Gov. Guaranteed | 25%  | 15%    |
-| Plac. with Baimujjal          | 8%   | 1%     |
-| TFCs/Sukuks                   | 1%   | 1%     |
-| Others                        | 0%   | 0%     |
+| Name                             | Title                           |
+| :------------------------------- | :------------------------------ |
+| **Khaldoun Bin Latif**           | Chief Executive Officer         |
+| **Ayub Khuhro**                  | Chief Investment Officer        |
+| **Faisal Ali Khan**              | Chief Financial Officer         |
+| **Shariq Mukhtar Hashmi**        | Chief Compliance Officer        |
+| **Imad Ansari**                  | Chief Risk Officer              |
+| **Muddasir Ahmed Shaikh**        | Head of Equities                |
+| **Mustafa Kamal**                | Head of Fixed Income            |
+| **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
+| **Salman Jawaid**                | Fund Manager Fixed Income Funds |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
 
 ## Fund Statistics
 
@@ -926,33 +970,27 @@ The Investment Objective of the plan is to generate a competitive return with lo
 
 ## Fund Performance
 
-|                                                 | BM     | AISF - I |
-| ----------------------------------------------- | ------ | -------- |
-| Since Inception Return\*                        | 15.71% | 17.31%   |
-| 365 Days                                        | 11.82% | 11.03%   |
-| YTD                                             | 10.14% | 9.20%    |
-| Month                                           | 9.68%  | 8.28%    |
-| Avg. Peer Group Return for August 2025 was      | 8.64%  |          |
-| 5 - Year Avg. Peer Group Return for August 2025 | 13.81% |          |
+|                                                  | BM     | AISF - I |
+| ------------------------------------------------ | ------ | -------- |
+| Since Inception Return\*                         | 15.71% | 17.31%   |
+| 365 Days                                         | 11.82% | 11.03%   |
+| YTD                                              | 10.14% | 9.20%    |
+| Month                                            | 9.68%  | 8.28%    |
+| Avg. Peer Group Return for August 2025 was 8.64% |
+
+| 5 - Year Avg. Peer Group Return for August 2025 - 13.81%
 
 ## Credit Quality (as % of Total Assets)
 
-| Rating                       | % of Total Assets |
-| ---------------------------- | ----------------- |
-| Govt. Guaranteed (Rated AAA) | 58.63%            |
-| AAA                          | 15.22%            |
-| AA+                          | 14.89%            |
-| AA                           | 10.12%            |
-| AA-                          | 0.00%             |
-| A                            | 0.00%             |
-| A-                           | 0.00%             |
-
-## Historical Performance (%)
-
-| Historical Performance | AISF - I | BM  |
-| ---------------------- | -------- | --- |
-|                        |          |     |
-|                        |          |     |
+| Rating                           | Percentage | Rating    | Percentage |
+| :------------------------------- | :--------- | :-------- | :--------- |
+| **Govt. Guaranteed (Rated AAA)** | 58.63%     | **BBB+**  | 0.00%      |
+| **AAA**                          | 15.22%     | **NR/UR** | 1.15%      |
+| **AA+**                          | 14.89%     |           |            |
+| **AA**                           | 10.12%     |           |            |
+| **AA-**                          | 0.00%      |           |            |
+| **A**                            | 0.00%      |           |            |
+| **A-**                           | 0.00%      |           |            |
 
 ## Monthly Returns
 
@@ -1003,29 +1041,39 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Sovereign Plan-2
 
-## Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
+Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
 
-## AMC Rating: "AM1" by VIS 02-Jan-2025
+AMC Rating: "AM1" by VIS 02-Jan-2025
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
-### Investment Objective
+## Investment Objective
 
 The Investment Objective of the plan is to generate a competitive return with low risk, by investing primarily in Shariah Compliant Government Securities, Shariah Compliant Short term Sukuks / commercial papers and Islamic Banks and licensed Islamic Banking Windows of Conventional Banks.
 
 ## Basic Information
 
-| Category     | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fund Type    | Open Ended                                                                                                                                                                                                       |
-| Benchmark    | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
-| Launch Date  | December 13, 2023                                                                                                                                                                                                |
-| Par Value    | PKR 100                                                                                                                                                                                                          |
-| Pricing      | Forward Day                                                                                                                                                                                                      |
-| Sales Load   | Up to 3.00%                                                                                                                                                                                                      |
-| Risk Profile | Medium                                                                                                                                                                                                           |
+| Field                       | Detail                                                                                                                                                                                                           |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
+| **Fund Type**               | Open Ended                                                                                                                                                                                                       |
+| **Benchmark**               | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **Launch Date**             | December 13, 2023                                                                                                                                                                                                |
+| **Par Value**               | PKR 100                                                                                                                                                                                                          |
+| **Pricing**                 | Forward Day                                                                                                                                                                                                      |
+| **Sales Load**              | Up to 3.00%                                                                                                                                                                                                      |
+| **Risk Profile**            | Medium                                                                                                                                                                                                           |
+| **Management Fee\*\*\***    | Upto 1.5% of average Annual Net Assets within allowed expense ratio limit.                                                                                                                                       |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                                                                                        |
+| **Min. Subseq. Investment** | PKR 100/-                                                                                                                                                                                                        |
+| **Trustee**                 | CDC Pakistan Limited                                                                                                                                                                                             |
+| **Auditor**                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                                                                                          |
+| **Dealing Days**            | Monday - Friday                                                                                                                                                                                                  |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
+| **Leverage**                | Nil                                                                                                                                                                                                              |
 
-### Investment Committee
+## Investment Committee
 
 | Name                         | Position                        |
 | ---------------------------- | ------------------------------- |
@@ -1040,20 +1088,21 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-### Asset Allocation(as % of Total Assets)
+## Fund Statistics
 
-| Fund Size (PkR mn; as on Aug 31, 2025)            | 3,642  |
-| ------------------------------------------------- | ------ |
-| Fund size including fund of fund schemes (PkR mn) | 3,642  |
-| NAV (PkR)                                         | 111.89 |
-| Information Ratio                                 | 0.003  |
-| Portfolio Turnover Ratio                          | 15.4%  |
-| Wtd. Average Maturity (Years)                     | 1.24   |
-| YTM                                               | 9.82%  |
-| Duration                                          | 1.020  |
-| Modified Duration                                 | 0.970  |
+| Metric                                                | Value  |
+| :---------------------------------------------------- | :----- |
+| **Fund Size** (PKr mn; as on Aug 31, 2025)            | 3,642  |
+| **Fund size including fund of fund schemes** (PKr mn) | 3,642  |
+| **NAV** (PKr)                                         | 111.89 |
+| **Information Ratio**                                 | 0.003  |
+| **Portfolio Turnover Ratio**                          | 15.4%  |
+| **Wtd. Average Maturity** (Years)                     | 1.24   |
+| **YTM**                                               | 9.82%  |
+| **Duration**                                          | 1.020  |
+| **Modified Duration**                                 | 0.970  |
 
-### Fund Performance
+## Fund Performance
 
 | Period                   | AISF - II | BM     |
 | ------------------------ | --------- | ------ |
@@ -1062,7 +1111,10 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | YTD                      | 10.14%    | 10.10% |
 | Month                    | 9.68%     | 8.33%  |
 
-### Credit Quality (as % of Total Assets)
+Avg. Peer Group Return for August 2025 was 8.64%
+5 - Year Avg. Peer Group Return for August 2025 - 13.81%
+
+## Credit Quality (as % of Total Assets)
 
 | Type                         | Percentage |
 | ---------------------------- | ---------- |
@@ -1071,17 +1123,12 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | AA+                          | 11.10%     |
 | AA                           | 0.00%      |
 | AA-                          | 0.00%      |
+| A                            | 0.00%      |
 | A-                           | 0.00%      |
 | BBB+                         | 0.00%      |
 | NR/UR                        | 1.61%      |
 
-### Historical Performance (%)
-
-| Period | AISF - II | BM  |
-| ------ | --------- | --- |
-| FY25   |           |     |
-
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AISF - II | BM     |
 | ------ | --------- | ------ |
@@ -1099,15 +1146,15 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Jul-25 | 11.79%    | 10.59% |
 | Aug-25 | 8.33%     | 9.68%  |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-### Total Expense Ratio Break up
+## Total Expense Ratio Break up
 
 | Type                     | MTD   | YTD   |
 | ------------------------ | ----- | ----- |
@@ -1132,11 +1179,11 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Sovereign plan-3
 
-## Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
+Fund Stability Rating: "AA+(f)" by PACRA 22-Aug-25
 
-## AMC Rating: "AM1" by VIS 02-Jan-2024
+AMC Rating: "AM1" by VIS 02-Jan-2024
 
-## AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
 ## Investment Objective
 
@@ -1144,15 +1191,25 @@ The Investment Objective of the plan is to generate a competitive return with lo
 
 ## Basic Information
 
-| Category     | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Fund Type    | Open Ended                                                                                                                                                                                                       |
-| Benchmark    | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
-| Launch Date  | August 22, 2024                                                                                                                                                                                                  |
-| Par Value    | PKR 100                                                                                                                                                                                                          |
-| Pricing      | Forward Day                                                                                                                                                                                                      |
-| Sales Load   | Up to 3.00%                                                                                                                                                                                                      |
-| Risk Profile | Medium                                                                                                                                                                                                           |
+| Field                       | Detail                                                                                                                                                                                                           |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | Shariah Complaint Sovereign Income Scheme                                                                                                                                                                        |
+| **Fund Type**               | Open Ended                                                                                                                                                                                                       |
+| **Benchmark**               | 90% six (6) months PKISRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **Launch Date**             | August 22, 2024                                                                                                                                                                                                  |
+| **Par Value**               | PKR 100                                                                                                                                                                                                          |
+| **Pricing**                 | Forward Day                                                                                                                                                                                                      |
+| **Sales Load**              | Up to 3.00%                                                                                                                                                                                                      |
+| **Risk Profile**            | Medium                                                                                                                                                                                                           |
+| **Management Fee\*\*\***    | Upto 1.5% of average Annual Net Assets within allowed expense ratio limit.                                                                                                                                       |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                                                                                        |
+| **Min. Subseq. Investment** | PKR 100/-                                                                                                                                                                                                        |
+| **Trustee**                 | CDC Pakistan Limited                                                                                                                                                                                             |
+| **Auditor**                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                                                                                          |
+| **Dealing Days**            | Monday - Friday                                                                                                                                                                                                  |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
+| **Leverage**                | Nil                                                                                                                                                                                                              |
 
 ## Investment Committee
 
@@ -1168,15 +1225,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Shams-ud-din Shah, CFA, FCCA | Head of Research                |
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
-
-## Asset Allocation (as % of Total Assets)
-
-| Month                     | July | August |
-| ------------------------- | ---- | ------ |
-| Cash                      | 100% | 89%    |
-| Baimujjal                 |      |        |
-| Govt. Backed/ TFCs/Sukuks |      |        |
-| Others                    |      |        |
 
 ## Fund Statistics
 
@@ -1200,6 +1248,9 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | YTD                      | 10.14%     | 10.20% |
 | Month                    | 9.68%      | 9.29%  |
 
+Avg. Peer Group Return for August 2025 was 8.64%
+5 - Year Avg. Peer Group Return for August 2025 - 13.81%
+
 ## Credit Quality (as % of Total Assets)
 
 | Rating                       | Percentage |
@@ -1210,6 +1261,8 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | AA                           | 0.00%      |
 | AA-                          | 0.00%      |
 | A                            | 0.00%      |
+| A-                           | 0.001%     |
+| BBB+                         | 0.00%%     |
 | NR/UR                        | 38.72%     |
 
 ## Details of Non-Compliant Investments\*\*\*\*
@@ -1252,7 +1305,7 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-Investment Plans Summary Report for August 2025
+# Investment Plans Summary Report for August 2025
 
 # Alfalah Islamic Stable Return Fund Plan
 
@@ -1291,39 +1344,38 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah Islamic Stable Return Plan - V Fund
 
-## Fund Stability Rating: Not Yet Rated
+Fund Stability Rating: Not Yet Rated
 
-## AMC Rating: "AM1" by VIS 02-Jan-25
+AMC Rating: "AM1" by VIS 02-Jan-25
 
-## AMC Rating: "AM1" by PACRA 29-Aug-25
+AMC Rating: "AM1" by PACRA 29-Aug-25
 
-### Investment Objective
+## Investment Objective
 
 The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide a fixed return to Unit Holders who hold their investment until maturity by investing in Authorized Investable Avenues.
 
-### Basic Information of the plan
+## Basic Information of the plan
 
-| Category     | FIxed Rate / Return Scheme.                                                                                                              |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| Fund Type    | Open Ended                                                                                                                               |
-| Benchmark    | Three (3) months average deposit rates of three (3) AA rated Islamic Banks or Islamic windows of Conventional Banks as selected by MUFAP |
-| Launch Date  | 27 August, 2025                                                                                                                          |
-| Par Value    | PKR 100                                                                                                                                  |
-| Pricing      | Forward Day                                                                                                                              |
-| Sales Load   | upto 0%                                                                                                                                  |
-| Risk Profile | Low to Moderate                                                                                                                          |
+| Field                       | Detail                                                                                                                                   |
+| :-------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | Fixed Rate / Return Scheme.                                                                                                              |
+| **Fund Type**               | Open Ended                                                                                                                               |
+| **Benchmark**               | Three (3) months average deposit rates of three (3) AA rated Islamic Banks or Islamic windows of Conventional Banks as selected by MUFAP |
+| **Launch Date**             | 27 August, 2025                                                                                                                          |
+| **Par Value**               | PKR 100                                                                                                                                  |
+| **Pricing**                 | Forward Day                                                                                                                              |
+| **Sales Load**              | upto 0%                                                                                                                                  |
+| **Risk Profile**            | Low to Moderate                                                                                                                          |
+| **Management Fee\*\*\***    | upto. 1%                                                                                                                                 |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                |
+| **Min. Subseq. Investment** | PKR 0/-                                                                                                                                  |
+| **Auditor**                 | A.F Ferguson & Co. Pakistan                                                                                                              |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                  |
+| **Dealing Days**            | Monday - Friday                                                                                                                          |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                        |
+| **Leverage**                | Nil                                                                                                                                      |
 
-| Management Fee\*\*\*    | upto. 1%                         |
-| ----------------------- | -------------------------------- |
-| Min. Initial Investment | PKR 500/-                        |
-| Min. Subseq. Investment | PKR 0/-                          |
-| Auditor                 | A.F Ferguson &#x26; Co. Pakistan |
-| Listing                 | Pakistan Stock Exchange          |
-| Dealing Days            | Monday - Friday                  |
-| Cut-off Time            | 9:00 am - 4:00 pm                |
-| Leverage                | Nil                              |
-
-### Investment Committee
+## Investment Committee
 
 | Name                         | Position                        |
 | ---------------------------- | ------------------------------- |
@@ -1338,13 +1390,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-### Asset Allocation (as % of Total Assets)
-
-| July  | August |
-| ----- | ------ |
-| 99.33 |        |
-
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Aug 31, 2025)            | 10,071   |
 | ------------------------------------------------- | -------- |
@@ -1357,7 +1403,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Duration                                          | -        |
 | Modified Duration                                 | -        |
 
-### Fund Performance
+## Fund Performance
 
 |                          | AISRF-V | BM     |
 | ------------------------ | ------- | ------ |
@@ -1365,7 +1411,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | YTD                      | 9.92%   | 10.77% |
 | Month (Aug 2025)         | 9.92%   | 10.77% |
 
-### Credit Quality (as % of Total Assets)
+## Credit Quality (as % of Total Assets)
 
 | Type                         | Percentage |
 | ---------------------------- | ---------- |
@@ -1376,25 +1422,17 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | AA-                          | 0.00%      |
 | A                            | 0.00%      |
 | A-                           | 0.00%      |
+| BBB+                         | 0.00%      |
 | Below IG                     | 0.00%      |
 | NR/UR                        | 0.00%      |
 | A+                           | 0.00%      |
 
-### Historical Performance (%)
-
-| Year                         | FY18 | FY19 | FY20 | FY21 | FY22 |
-| ---------------------------- | ---- | ---- | ---- | ---- | ---- |
-| Govt. Guaranteed (Rated AAA) |      |      |      |      |      |
-| NR/UR/MTS                    |      |      |      |      |      |
-| Govt. Securities (Rated AAA) |      |      |      |      |      |
-| AAA                          |      |      |      |      |      |
-
-### Details of Non-Compliant Investments
+## Details of Non-Compliant Investments
 
 | Name | Type | Value before Provisioning | Provisioning | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------ | ------------------------ | -------------- | ------------ |
 
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AISRF-V | BM    |
 | ------ | ------- | ----- |
@@ -1412,18 +1450,18 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Jul-25 | -       | -     |
 | Aug-25 | 10.77%  | 9.92% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\*\*Actual Management fee charged: 0.00% of net assets
 
-### Total Expense Ratio Break
+## Total Expense Ratio Break
 
 |                       | MTD   | YTD   |
 | --------------------- | ----- | ----- |
@@ -1476,7 +1514,7 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah GHP Islamic Prosperity Planning Fund
 
-## Fund: Not Yet Rated
+Fund: Not Yet Rated
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 29-August-25
@@ -1487,20 +1525,19 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 
 ## Basic Information
 
-### Basic Information
-
+| Field                           | Detail                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Category**                    | Shariah Complaint Fund of Funds Scheme                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Fund Type**                   | Open Ended                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| **Benchmark**                   | **AGIPPF-BAP:** Weighted Avg. of KMI30 index and avg. return on 6M deposit rate of 3 (three) A or above rated Islamic bank as selected by MUFAP. On the basis of actual investments in underlying schemes.<br>**AGIPPF-MAP, AAP2:** Weighted Avg. of KMI30 index and avg. return on 6M deposit rate of 3 (three) A or above rated Islamic bank as selected by MUFAP, based on actual proportion of investment in equity and income/money market component made by the allocation plan. |
+| **Benchmark**                   | AGIPFP-BAP: Weighted Avg. of KMI30 Index and avg. return on 6M deposit rate of 3 (three) A or above rated Islamic bank as selected by MUFAP. On the basis of actual investments in underlying schemes. **\*\*** 1AGIPFP-MAP, AAP2: Weighted Avg. of KMI30 Index and avg. return on 6M deposit rate of 3 (three) A or above rated Islamic bank as selected by MUFAP, based on actual proportion of investment in equity and income/ money market component made by the allocation plan. |
 | **Pricing**                     | Forward Day                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **AGIPPF-BAP Front-end Load**   | 1.25%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **AGIPPF-MAP Front-end Load**   | 1.5%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **AGIPPF-AAP 2 Front-end Load** | 2.5%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **AGIPFP-BAP Front-end Load**   | 1.25%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **AGIPFP-MAP Front-end Load**   | 1.5%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **AGIPFP-AAP 2 Front-end Load** | 2.5%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Risk Profile**                | Plan Specific                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Management Fee**              | Up to 3.00% per annum for the equity portion, up to 1.50% per annum for the fixed income portion, and up to 1.25% per annum for the money market portion based on actual allocation of the net assets.                                                                                                                                                                                                                                                                                 |
 | **Min. Initial Investment**     | PKR 500/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Min. Subsequent Investment**  | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Min. Subseq. Investment**     | PKR 100/-                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Trustee**                     | CDC Pakistan Limited                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Launch Date**                 | June 09, 2016                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **AAP2 Launch Date**            | Nov 01, 2016                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -1510,9 +1547,9 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **Listing**                     | Pakistan Stock Exchange                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Cut-off Time**                | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Leverage**                    | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **AGIPPF-BAP Back-end Load**    | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **AGIPPF-MAP Back-end Load**    | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **AGIPPF-AAP 2 Back-end Load**  | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **AGIPFP-BAP Back-end Load**    | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **1AGIPFP-MAP Back-end Load**   | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **AGIPFP-AAP 2 Back-end Load**  | 0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ## Investment Committee
 
@@ -1537,69 +1574,98 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 
 ## Alfalah GHP Islamic Prosperity Planning Fund - Islamic Balanced Allocation Plan (Holdings as % of Total Assets)
 
-| Holdings     | July   | August | Portfolio Credit Quality | Fund Size (PkR mn; as on Aug 31, 2025) | NAV (PkR) | Portfolio Turnover Ratio |
-| ------------ | ------ | ------ | ------------------------ | -------------------------------------- | --------- | ------------------------ |
-| Cash         | 8.84%  | 37.96% | 3 Star                   | 146.71                                 | 104.8713  | 5.74%                    |
-| Equity       | 17.54% | 12.63% | 2 Star                   |                                        |           |                          |
-| Income       | 41.21% | 27.65% | AA                       |                                        |           |                          |
-| Money Market | 30.75% | 20.65% | AA-                      |                                        |           |                          |
-| Others       | 1.66%  | 1.10%  | A+                       |                                        |           |                          |
-| Total        | 100%   | 100%   |                          |                                        |           |                          |
+| Holdings         | July   | August |
+| :--------------- | :----- | :----- |
+| **Cash**         | 8.84%  | 37.96% |
+| **Equity**       | 17.54% | 12.63% |
+| **Income**       | 41.21% | 27.65% |
+| **Money Market** | 30.75% | 20.65% |
+| **Others**       | 1.66%  | 1.10%  |
+| **Total**        | 100%   | 100%   |
+| Total            | 100%   | 100%   |
 
-## Performance
+## Alfalah GHP Islamic Balanced Allocation Plan
 
-| BM                       | AGIBAP | AGIMAP | AGIAAP2 |
-| ------------------------ | ------ | ------ | ------- |
-| Since Inception Return\* | 7.53%  | 8.70%  | 9.87%   |
-| 5-Year                   | 10.38% | 12.60% | 17.63%  |
-| 3-Year                   | 15.03% | 18.19% | 27.45%  |
-| 365D                     | 20.27% | 28.75% | 50.01%  |
-| YTD                      | 4.48%  | 8.20%  | 5.06%   |
-| Month - Jul 2025         | 2.35%  | 3.64%  | 2.79%   |
+| Metric                                     | Value    |
+| :----------------------------------------- | :------- |
+| **Fund Size** (PKr mn; as on Aug 31, 2025) | 146.71   |
+| **NAV** (PKR)                              | 104.8713 |
+| **Portfolio Turnover Ratio**               | 5.74%    |
 
-## Alfalah GHP Islamic Prosperity Planning Fund - Moderate Allocation Plan (Holdings as % of Total Assets)
+### Performance
 
-| Holdings     | July   | August | Portfolio Credit Quality | Fund Size (PkR mn; as on Aug 31, 2025) | NAV (PkR) | Portfolio Turnover Ratio |
-| ------------ | ------ | ------ | ------------------------ | -------------------------------------- | --------- | ------------------------ |
-| Cash         | 7.12%  | 3.88%  | 3 Star                   | 57.81                                  | 110.6445  | 3.63%                    |
-| Equity       | 35.71% | 37.07% | 2 Star                   |                                        |           |                          |
-| Income       | 32.75% | 34.39% | AA                       |                                        |           |                          |
-| Money Market | 23.06% | 23.20% | AA-                      |                                        |           |                          |
-| Others       | 1.37%  | 1.45%  | A+                       |                                        |           |                          |
-| Total        | 100%   | 100%   |                          |                                        |           |                          |
+| Period                       | BM     | AGIBAP |
+| :--------------------------- | :----- | :----- | --- |
+| **Since Inception Return\*** | 7.53%  | 3.68%  |
+| **5-Year**                   | 10.38% | 15.59% |
+| **3-Year**                   | 15.03% | 20.92% |
+| **365D**                     | 20.27% | 21.03% |
+| **YTD**                      | 4.48%  | 3.42%  |
+| **Month - Jul 2025**         | 2.35%  | 2.02%  |     |
 
-## Performance
+## Alfalah GHP Islamic Prosperity Planning Fund - Moderate Allocation Plan
 
-| BM                       | AGIMAP |
-| ------------------------ | ------ |
-| Since Inception Return\* | 8.70%  |
-| 5-Year                   | 12.60% |
-| 3-Year                   | 18.19% |
-| 365D                     | 28.75% |
-| YTD                      | 8.20%  |
-| Month - Jul 2025         | 3.64%  |
+### Holdings (as % of Total Assets)
 
-## Alfalah GHP Islamic Prosperity Planning Fund - Active Allocation Plan 2 (Holdings as % of Total Assets)
+| Holdings         | July   | August |
+| :--------------- | :----- | :----- |
+| **Cash**         | 7.12%  | 3.88%  |
+| **Equity**       | 35.71% | 37.07% |
+| **Income**       | 32.75% | 34.39% |
+| **Money Market** | 23.06% | 23.20% |
+| **Others**       | 1.37%  | 1.45%  |
+| **Total**        | 100%   | 100%   |
 
-| Holdings     | July   | August | Fund Size (PkR mn; as on Aug 31, 2025) | NAV (PkR) | Portfolio Turnover Ratio |
-| ------------ | ------ | ------ | -------------------------------------- | --------- | ------------------------ |
-| Cash         | 5.06%  | 2.18%  | 55.66                                  | 95.7246   | 2.62%                    |
-| Equity       | 43.79% | 46.84% |                                        |           |                          |
-| Income       | 0.07%  | 0.07%  |                                        |           |                          |
-| Money Market | 48.89% | 48.76% |                                        |           |                          |
-| Others       | 2.17%  | 2.14%  |                                        |           |                          |
-| Total        | 100%   | 100%   |                                        |           |                          |
+## Alfalah GHP Islamic Moderate Allocation Plan - Statistics
 
-## Performance
+| Metric                                     | Value    |
+| :----------------------------------------- | :------- |
+| **Fund Size** (PKr mn; as on Aug 31, 2025) | 57.81    |
+| **NAV** (PKR)                              | 110.6445 |
+| **Portfolio Turnover Ratio**               | 3.63%    |
 
-| BM                       | AGIAAP2 |
-| ------------------------ | ------- |
-| Since Inception Return\* | 9.87%   |
-| 5-Year                   | 17.63%  |
-| 3-Year                   | 27.45%  |
-| 365D                     | 50.01%  |
-| YTD                      | 5.06%   |
-| Month - Jul 2025         | 2.79%   |
+### Performance
+
+| Period                       | BM     | AGIMAP |
+| :--------------------------- | :----- | :----- |
+| **Since Inception Return\*** | 8.70%  | 13.20% |
+| **5-Year**                   | 12.60% | 20.19% |
+| **3-Year**                   | 18.19% | 27.03% |
+| **365D**                     | 28.75% | 35.44% |
+| **YTD**                      | 8.20%  | 5.97%  |
+| **Month - Jul 2025**         | 3.64%  | 3.70%  |
+
+## Alfalah GHP Islamic Prosperity Planning Fund - Active Allocation Plan 2
+
+### Holdings (as % of Total Assets)
+
+| Holdings         | July   | August |
+| :--------------- | :----- | :----- |
+| **Cash**         | 5.06%  | 2.18%  |
+| **Equity**       | 43.79% | 46.84% |
+| **Income**       | 0.07%  | 0.07%  |
+| **Money Market** | 48.89% | 48.76% |
+| **Others**       | 2.17%  | 2.14%  |
+| **Total**        | 100%   | 100%   |
+
+## Alfalah GHP Islamic Active Allocation Plan 2 - Statistics
+
+| Metric                                     | Value   |
+| :----------------------------------------- | :------ |
+| **Fund Size** (PKr mn; as on Aug 31, 2025) | 55.66   |
+| **NAV** (PKR)                              | 95.7246 |
+| **Portfolio Turnover Ratio**               | 2.62%   |
+
+### Performance
+
+| Period                       | BM     | AGIAAP2 |
+| :--------------------------- | :----- | :------ |
+| **Since Inception Return\*** | 9.87%  | 13.28%  |
+| **5-Year**                   | 17.63% | 22.24%  |
+| **3-Year**                   | 27.45% | 37.52%  |
+| **365D**                     | 50.01% | 56.01%  |
+| **YTD**                      | 5.06%  | 5.14%   |
+| **Month - Jul 2025**         | 2.79%  | 4.12%   |
 
 ## Details of Non-Compliant Investments
 
@@ -1670,28 +1736,29 @@ This publication is for informational purposes only and nothing herein should be
 
 ## M.F Regulatory Fee
 
-| Fund Name          | Regulatory Fee | Trustee Fee | Levies and Transaction Taxes | Third Party Expenses | Other Expenses | Total | Total TER with levies | Total TER without levies |
-| ------------------ | -------------- | ----------- | ---------------------------- | -------------------- | -------------- | ----- | --------------------- | ------------------------ |
-| AGIBAP             | 0.28%          | 0.07%       | 0.07%                        | 0.05%                | 0.01%          | 0.68% | 0.63%                 |                          |
-|                    | 0.17%          | 0.08%       | 0.07%                        | 0.04%                | 0.01%          | 0.58% | 0.54%                 |                          |
-| AGIMAP             | 0.00%          | 0.07%       | 0.07%                        | 0.01%                | 0.02%          | 0.35% | 0.34%                 |                          |
-|                    | 0.00%          | 0.07%       | 0.07%                        | 0.01%                | 0.02%          | 0.35% | 0.34%                 |                          |
-| AGIAAP2            | 0.03%          | 0.08%       | 0.07%                        | 0.02%                | 0.02%          | 0.63% | 0.61%                 |                          |
-| \* Since Inception | 0.34%          | 0.08%       | 0.07%                        | 0.06%                | 0.02%          | 0.99% | 0.93%                 |                          |
+| Fund        | M.F   | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
+| :---------- | :---- | :------------- | :---------- | :--------------- | :------------------- | :------------------- | :------------- | :-------------------- | :----------------------- |
+| **AGIBAP**  | 0.28% | 0.07%          | 0.07%       | 0.05%            | 0.01%                | 0.14%                | 0.05%          | 0.68%                 | 0.63%                    |
+|             | 0.17% | 0.08%          | 0.07%       | 0.04%            | 0.01%                | 0.15%                | 0.05%          | 0.58%                 | 0.54%                    |
+| **AGIMAP**  | 0.00% | 0.07%          | 0.07%       | 0.01%            | 0.02%                | 0.13%                | 0.05%          | 0.35%                 | 0.34%                    |
+|             | 0.00% | 0.07%          | 0.07%       | 0.01%            | 0.02%                | 0.18%                | 0.01%          | 0.35%                 | 0.34%                    |
+| **AGIAAP2** | 0.03% | 0.08%          | 0.07%       | 0.02%            | 0.02%                | 0.28%                | 0.14%          | 0.63%                 | 0.61%                    |
+|             | 0.34% | 0.08%          | 0.07%       | 0.06%            | 0.02%                | 0.28%                | 0.14%          | 0.99%                 | 0.93%                    |
 
----
+- _Since Inception return is calculated on Compound Annual Growth Rate (CAGR)_
+- _Management fee of the fund has been amended from Jul 01, 2025 through 12th supplemental OID with consent of the SECP_
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
 # Alfalah GHP Islamic Prosperity Planning Fund 2
 
-## (Alfalah KTrade Islamic Plan 7)
+(Alfalah KTrade Islamic Plan 7)
 
-### Fund: Not Yet Rated
+Fund: Not Yet Rated
 
-### AMC Rating: "AM1" by VIS 02-Jan-25
+AMC Rating: "AM1" by VIS 02-Jan-25
 
-### AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: "AM1" by PACRA 29-August-25
 
 ## Investment Objective
 
@@ -1699,25 +1766,24 @@ The objective of the plan is to earn a potentially high return through dynamic a
 
 ## Basic Information
 
-| Category                | Shariah Compliant Fund of Funds Scheme - CPPI                                                                                                                                                               |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Management Fee\*\*      | 3.00%                                                                                                                                                                                                       |
-| Fund Type               | Open Ended                                                                                                                                                                                                  |
-| Min. Initial Investment | PKR 500/-                                                                                                                                                                                                   |
-| Benchmark               |                                                                                                                                                                                                             |
-|                         | IPPF-2 AKTIP 7                                                                                                                                                                                              |
-|                         | Combination of performance benchmarks of Investments in underlying schemes and/or cash component on the basis of actual proportion of investments by the Plan in such underlying scheme and cash component. |
-|                         | \*for Cash Component, average deposit rate of three (3)-AA rated scheduled Banks as selected by MUFAP to be used.                                                                                           |
-| Load                    | Up to 2%, Up to 1.5% for online transactions                                                                                                                                                                |
-| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                           |
-| Dealing Days            | Monday - Friday                                                                                                                                                                                             |
-| Trustee                 | CDC Pakistan Limited                                                                                                                                                                                        |
-| Launch Date             | IPPF-2 AKTIP 7 : 21 August, 2023                                                                                                                                                                            |
-| Par Value               | PKR 100/-                                                                                                                                                                                                   |
-| Auditor                 | Grant Thornton Pakistan                                                                                                                                                                                     |
-| Listing                 | Pakistan Stock Exchange                                                                                                                                                                                     |
-| Pricing                 | Forward Day                                                                                                                                                                                                 |
-| Leverage                | Nil                                                                                                                                                                                                         |
+| Field                       | Detail                                                                                                                                                                                                                                                                                                                        |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                | Shariah Compliant Fund of Funds Scheme - CPPI                                                                                                                                                                                                                                                                                 |
+| **Fund Type**               | Open Ended                                                                                                                                                                                                                                                                                                                    |
+| **Benchmark**               | IPPF-2 AKTIP 7                                                                                                                                                                                                                                                                                                                |
+|                             | Combination of performance benchmarks of Investments in underlying schemes and/or cash component on the basis of actual proportion of investments by the Plan in such underlying scheme and cash component. \*for Cash Component, average deposit rate of three (3) AA rated scheduled Banks as selected by MUFAP to be used. |
+| **Load**                    | Up to 2%, Up to 1.5% for online transactions                                                                                                                                                                                                                                                                                  |
+| **Cut-off Time**            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                             |
+| **Management Fee\*\***      | 3.00%                                                                                                                                                                                                                                                                                                                         |
+| **Min. Initial Investment** | PKR 500/-                                                                                                                                                                                                                                                                                                                     |
+| **Trustee**                 | CDC Pakistan Limited                                                                                                                                                                                                                                                                                                          |
+| **Launch Date**             | IPPF-2 AKTIP 7: 21 August, 2023                                                                                                                                                                                                                                                                                               |
+| **Par Value**               | PKR 100/-                                                                                                                                                                                                                                                                                                                     |
+| **Auditor**                 | Grant Thornton Pakistan                                                                                                                                                                                                                                                                                                       |
+| **Dealing Days**            | Monday - Friday                                                                                                                                                                                                                                                                                                               |
+| **Listing**                 | Pakistan Stock Exchange                                                                                                                                                                                                                                                                                                       |
+| **Pricing**                 | Forward Day                                                                                                                                                                                                                                                                                                                   |
+| **Leverage**                | Nil                                                                                                                                                                                                                                                                                                                           |
 
 ## Investment Committee
 
@@ -1749,11 +1815,13 @@ Alfalah K Trade Islamic Plan 7 Low
 | Others        | 3.41%   | 0.81%   |
 | Total         | 100.00% | 100.00% |
 
-## Fund Size (PkR mn; as on Aug 31, 2025): 101.37
+## Alfalah K Trade Islamic Plan 7
 
-## NAV (PkR): 125.61
-
-## Portfolio Turnover Ratio: 0.00%
+| Metric                                     | Value  |
+| :----------------------------------------- | :----- |
+| **Fund Size** (PKr mn; as on Aug 31, 2025) | 101.37 |
+| **NAV** (PKR)                              | 125.61 |
+| **Portfolio Turnover Ratio**               | 0.00%  |
 
 ## Performance
 
@@ -1772,18 +1840,14 @@ Alfalah K Trade Islamic Plan 7 Low
 |                                                  |           |      |                           |                           |                          |                  |                          |
 |                                                  |           |      |                           |                           |                          |                  |                          |
 |                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
+|                                                  |           |      |                           |                           |                          |
+
+## Alfalah K Trade Islamic Plan 7 (Monthly Returns)
+
+|                    | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 |
+| :----------------- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| **IPPF-2 AKTIP 7** | 8.75%  | 16.95% | 16.31% | 13.57% | 11.67% | 9.64%  | 9.20%  | 6.73%  | 7.93%  | 5.36%  | 12.63% | 1.17%  | 4.39%  |
+| **BM**             | 10.75% | 10.14% | 9.41%  | 8.43%  | 8.08%  | 6.96%  | 7.61%  | 7.85%  | 8.43%  | 7.53%  | 12.07% | 7.91%  | 8.93%  |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -1795,10 +1859,10 @@ This publication is for informational purposes only and nothing herein should be
 
 ## Total Expense Ratio Breakup
 
-| M.F | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
-| --- | -------------- | ----------- | ---------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
-| MTD | 0.14%          | 0.07%       | 0.07%            | 0.03%                | 0.00%                | 1.07%          | 1.39%                 | 1.36%                    |
-| YTD | 0.13%          | 0.08%       | 0.07%            | 0.03%                | 0.00%                | 1.86%          | 2.16%                 | 2.13%                    |
+|         | M.F   | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without |
+| :------ | :---- | :------------- | :---------- | :--------------- | :------------------- | :------------------- | :------------- | :-------------------- | :---------------- |
+| **MTD** | 0.14% | 0.07%          | 0.07%       | 0.03%            | 0.00%                | 1.07%                | 0.00%          | 1.39%                 | 1.36%             |
+| **YTD** | 0.13% | 0.08%          | 0.07%       | 0.03%            | 0.00%                | 1.86%                | 0.00%          | 2.16%                 | 2.13%             |
 
 \*Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
 \*\* Management fee of the fund has been amended from Jul 01, 2025 through 12th supplemental OD with consent of the SECP
@@ -1843,7 +1907,7 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah GHP Islamic Pension Fund
 
-## Fund: Not Yet Rated
+Fund: Not Yet Rated
 
 AMC: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 29-August-25
@@ -1854,21 +1918,25 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 ## Basic Information
 
-| Category                                                                                                           | Shariah Complaint Voluntary Pension Fund Scheme |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Fund Type                                                                                                          | Open Ended                                      |
-| Launch Date                                                                                                        | Nov 08, 2016                                    |
-| Trustee                                                                                                            | CDC Pakistan Limited                            |
-| Auditor                                                                                                            | Yousuf Adil Chartered Accountants               |
-| Cut-off Time                                                                                                       | 9:00 am - 4:00 pm                               |
-| Dealing Days                                                                                                       | Monday - Friday                                 |
-| Par Value                                                                                                          | 100                                             |
-| Pricing Mechanism                                                                                                  | Forward                                         |
-| Frontend load                                                                                                      | 3%                                              |
-| Backend load                                                                                                       | Nil                                             |
-| Management Fee\*\*                                                                                                 | ESF Upto 2.25%                                  |
-| MMSF upto 1% and DSF upto 1.25% of average net assets of the sub fund calculated on a daily basis during the year. |                                                 |
-| Min. Initial Investment                                                                                            | PKR 500/-                                       |
+| Field                             | Value                                                                                                                                                                                                                |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Category**                      | Shariah Compliant Voluntary Pension Fund Scheme                                                                                                                                                                      |
+| **Fund Type**                     | Open Ended                                                                                                                                                                                                           |
+| **Launch Date**                   | Nov 08, 2016                                                                                                                                                                                                         |
+| **Benchmark**                     | KMI 30 Index                                                                                                                                                                                                         |
+| **DSF**                           | 75% twelve (12) months PKISRV rates + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **MMSF**                          | 90% three (3) months PKISRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
+| **Min. Initial Investment**       | PKR 500/-                                                                                                                                                                                                            |
+| **Trustee**                       | CDC Pakistan Limited                                                                                                                                                                                                 |
+| **Auditor**                       | Yousuf Adil Chartered Accountants                                                                                                                                                                                    |
+| **Cut-off Time**                  | 9:00 am - 4:00 pm                                                                                                                                                                                                    |
+| **Dealing Days**                  | Monday - Friday                                                                                                                                                                                                      |
+| **Par Value**                     | 100                                                                                                                                                                                                                  |
+| **Pricing Mechanism**             | Forward                                                                                                                                                                                                              |
+| **Frontend load**                 | 3%                                                                                                                                                                                                                   |
+| **Backend load**                  | Nil                                                                                                                                                                                                                  |
+| **Management Fee** (ESF)          | Up to 2.25%                                                                                                                                                                                                          |
+| **Management Fee** (MMSF and DSF) | Up to 1% and Up to 1.25% of average net assets of the sub fund calculated on a daily basis during the year.                                                                                                          |
 
 ## Investment Committee
 
@@ -1917,31 +1985,26 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 ### Fund Performance
 
-| Metric                                     | BM     | IPESF  |
-| ------------------------------------------ | ------ | ------ |
-| Since Inception Return\*                   | -      | 13.10% |
-| 5-Year                                     | -      | 28.40% |
-| 3-Year                                     | -      | 51.50% |
-| 365D                                       | -      | 82.65% |
-| YTD                                        | 14.87% | 12.58% |
-| Month (Jul 2025)                           | 7.85%  | 8.50%  |
-| Avg. Peer Group Return for August 2025 was | 8.43%  |        |
+| Metric                   | BM     | IPESF  |
+| ------------------------ | ------ | ------ |
+| Since Inception Return\* | -      | 13.10% |
+| 5-Year                   | -      | 28.40% |
+| 3-Year                   | -      | 51.50% |
+| 365D                     | -      | 82.65% |
+| YTD                      | 14.87% | 12.58% |
+| Month (Jul 2025)         | 7.85%  | 8.50%  |
+
+| Avg. Peer Group Return for August 2025 was- 8.43%
+
+### Fund Size (PKR Mn.)
+
+| Metric                   | Value  |
+| ------------------------ | ------ |
+| Fund Size                | 196.44 |
+| NAV                      | 290.53 |
+| Portfolio Turnover Ratio | 1.4%   |
 
 ## Alfalah GHP Islamic Pension - Debt Sub Fund
-
-### Asset Allocation (as a % of total assets)
-
-| Month       | July   | August |
-| ----------- | ------ | ------ |
-| Cash        | 90.50% | 90.05% |
-| Banks/DFIs  | 52.85% | 50.55% |
-| NBFCs       | 60.50% | 60.05% |
-| Backed/Govt | 33.95% | 42.14% |
-| TFCs/Sukuks | 31.80% | 39.60% |
-| T-Bills     | 12.33% | 8.61%  |
-| PIBs        | 0.50%  | 0.05%  |
-| Sukuks      | 0.00%  | 0.00%  |
-| Others      | 0.00%  | 0.00%  |
 
 ### Fund Size (PKR Mn.)
 
@@ -1956,30 +2019,18 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 ### Fund Performance
 
-| Metric                                     | BM    | IPDSF  |
-| ------------------------------------------ | ----- | ------ |
-| Since Inception Return\*                   | -     | 8.54%  |
-| 5-Year                                     | -     | 11.61% |
-| 3-Year                                     | -     | 15.12% |
-| 365D                                       | -     | 15.89% |
-| YTD                                        | 9.75% | 12.96% |
-| Month (Jul 2025)                           | 9.62% | 8.69%  |
-| Avg. Peer Group Return for August 2025 was | 8.78% |        |
+| Metric                   | BM    | IPDSF  |
+| ------------------------ | ----- | ------ |
+| Since Inception Return\* | -     | 8.54%  |
+| 5-Year                   | -     | 11.61% |
+| 3-Year                   | -     | 15.12% |
+| 365D                     | -     | 15.89% |
+| YTD                      | 9.75% | 12.96% |
+| Month (Jul 2025)         | 9.62% | 8.69%  |
+
+| Avg. Peer Group Return for August 2025 was- 8.78%
 
 ## Alfalah GHP Islamic Pension - Money Market Sub Fund
-
-### Asset Allocation (as a % of total assets)
-
-| Month       | July   | August |
-| ----------- | ------ | ------ |
-| Cash        | 90.50% | 90.05% |
-| Banks/DFIs  | 52.85% | 50.55% |
-| NBFCs       | 60.50% | 60.05% |
-| Backed/Govt | 33.95% | 42.14% |
-| TFCs/Sukuks | 31.80% | 39.60% |
-| T-Bills     | 12.33% | 8.61%  |
-| PIBs        | 0.50%  | 0.05%  |
-| Others      | 0.00%  | 0.00%  |
 
 ### Fund Size (PKR Mn.)
 
@@ -1994,15 +2045,47 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 ### Fund Performance
 
-| Metric                                     | BM    | IPDSF  |
-| ------------------------------------------ | ----- | ------ |
-| Since Inception Return\*                   | -     | 8.83%  |
-| 5-Year                                     | -     | 12.30% |
-| 3-Year                                     | -     | 16.26% |
-| 365D                                       | -     | 12.39% |
-| YTD                                        | 9.87% | 10.20% |
-| Month (Jul 2025)                           | 9.66% | 9.47%  |
-| Avg. Peer Group Return for August 2025 was | 9.37% |        |
+| Metric                   | BM    | IPDSF  |
+| ------------------------ | ----- | ------ |
+| Since Inception Return\* | -     | 8.83%  |
+| 5-Year                   | -     | 12.30% |
+| 3-Year                   | -     | 16.26% |
+| 365D                     | -     | 12.39% |
+| YTD                      | 9.87% | 10.20% |
+| Month (Jul 2025)         | 9.66% | 9.47%  |
+
+| Avg. Peer Group Return for August 2025 was- 9.37%
+
+## Alfalah GHP Islamic Pension Equity Sub Fund - Details of Non-Compliant Investments
+
+| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
+| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
+|      |      |                           |                           |                          |                |              |
+
+## Alfalah GHP Islamic Pension Debt Sub Fund - Details of Non-Compliant Investments
+
+| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
+| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
+|      |      |                           |                           |                          |                |              |
+
+## Alfalah GHP Islamic Pension Money Market Sub Fund - Details of Non-Compliant Investments
+
+| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
+| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
+|      |      |                           |                           |                          |                |              |
+
+---
+
+## Fund and Benchmark Performance
+
+| Fund Code    | Type | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 |
+| :----------- | :--- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| **AGIPESF**  | Fund | 2.49%  | 1.40%  | 11.00% | 14.83% | 18.46% | -5.51% | 1.00%  | 6.92%  | -6.71% | 7.24%  | 3.81%  | 3.75%  | 8.50%  |
+| **AGIPESF**  | BM   | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | 6.50%  | 7.85%  |
+| **AGIPDSF**  | Fund | 22.38% | 27.95% | 23.14% | 14.30% | 13.61% | 8.89%  | 4.89%  | 8.43%  | 15.41% | 19.37% | 15.94% | 17.11% | 8.69%  |
+| **AGIPDSF**  | BM   | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | 9.88%  | 9.62%  |
+| **AGIPMMSF** | Fund | 20.40% | 17.72% | 16.85% | 12.85% | 12.90% | 8.59%  | 5.52%  | 7.99%  | 13.23% | 14.78% | 9.77%  | 10.85% | 9.47%  |
+| **AGIPMMSF** | BM   | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | 10.07% | 9.66%  |
 
 ## Dispute Resolution/Complaint Handling
 
@@ -2014,11 +2097,14 @@ This publication is for informational purposes only and nothing herein should be
 
 ## Management Fee Breakdown
 
-| Fund                  | MTD   | YTD   |
-| --------------------- | ----- | ----- |
-| Equity Sub Fund       | 2.50% | 2.50% |
-| Debt Sub Fund         | 1.25% | 1.23% |
-| Money Market Sub Fund | 0.98% | 0.99% |
+| Sub Fund                  | Period | M.F   | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
+| :------------------------ | :----- | :---- | :------------- | :---------- | :--------------- | :------------------- | :------------------- | :------------- | :-------------------- | :----------------------- |
+| **Equity Sub Fund**       | MTD    | 2.50% | 0.04%          | 0.15%       | 0.46%            | 0.43%                | 0.09%                | 0.00%          | 3.67%                 | 3.21%                    |
+|                           | YTD    | 2.50% | 0.04%          | 0.15%       | 0.43%            | 0.24%                | 0.09%                | 0.00%          | 3.45%                 | 3.02%                    |
+| **Debt Sub Fund**         | MTD    | 1.25% | 0.04%          | 0.15%       | 0.22%            | 0.27%                | 0.17%                | 0.00%          | 2.10%                 | 1.88%                    |
+|                           | YTD    | 1.23% | 0.04%          | 0.15%       | 0.21%            | 0.25%                | 0.15%                | 0.00%          | 2.03%                 | 1.82%                    |
+| **Money Market Sub Fund** | MTD    | 0.98% | 0.04%          | 0.15%       | 0.17%            | 0.04%                | 0.18%                | 0.00%          | 1.56%                 | 1.39%                    |
+|                           | YTD    | 0.99% | 0.04%          | 0.15%       | 0.17%            | 0.02%                | 0.18%                | 0.00%          | 1.55%                 | 1.38%                    |
 
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\* Management fee of the fund has been amended from Jul 01, 2025 through 4th supplemental OD with consent of the SECP
@@ -2029,12 +2115,12 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # ALFALAH ISLAMIC KPK EMPLOYEE PENSION FUND
 
-## Fund: Not Yet Rated
+Fund: Not Yet Rated
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 29-August-25
 
-### Investment Objective
+## Investment Objective
 
 The objective of the Fund is to provide Employees with an individualized, funded (based on defined contribution) as well as flexible pension scheme which is managed by professional investment managers to assist them to plan and provide for their retirement. The design of the allocation scheme empowers the Employees to invest their pensions as per their desired asset allocations.
 
@@ -2053,6 +2139,8 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | Launch Date             | December 14, 2023                               |
 | Min. Initial Investment | PKR 1,000/-                                     |
 | Min. Subseq. Investment | PKR 1,000/-                                     |
+| Trustee                 | CDC Pakistan Limited                            |
+| Auditor                 | Grant Thornton Pakistan                         |
 | Cut-off Time            | 9:00 am - 4:00 pm                               |
 | Dealing Days            | Monday - Friday                                 |
 | Par Value               | 100                                             |
@@ -2086,26 +2174,24 @@ The objective of the Fund is to provide Employees with an individualized, funded
 
 ### Fund Performance
 
-| BM                       | IKPKEPF | 0      | 0   | 10.77% | 3.12%  | 3.00% |
-| ------------------------ | ------- | ------ | --- | ------ | ------ | ----- |
-| Since Inception Return\* | -       | 14.44% | 0   | 0      | 10.77% | 3.12% |
-| 365D                     | -       | 10.88% | 0   | 0      | 10.77% | 3.12% |
-| Year To Date Return      | 10.07%  | 10.58% |     |        |        |       |
-| Month (Jul 2025)         | 10.07%  | 7.91%  |     |        |        |       |
-
-| Cash | Plac. with Banks/DFIs | Plac. with NBFCs | TFCs/Sukuks | Govt | T-Bills | CPs/ST Sukuks | MTS | Spread Trans. | Others |
-| ---- | --------------------- | ---------------- | ----------- | ---- | ------- | ------------- | --- | ------------- | ------ |
-|      |                       |                  |             |      |         |               |     |               |        |
+| Period                 | BM     | IKPKEPF |
+| :--------------------- | :----- | :------ |
+| Since Inception Return | -      | 14.44%  |
+| 365D                   | -      | 10.88%  |
+| Year To Date Return    | 10.07% | 10.58%  |
+| Month (Jul 2025)       | 10.07% | 7.91%   |
 
 Avg. Peer Group Return for August 2025 is 9.37%
 
 ## Alfalah Islamic KPK Employee Pension Fund - Money Market Sub Fund
 
-| Name      | Type   | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
-| --------- | ------ | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-| AIKPKMMSF | 17.71% | 17.88%                    | 16.66%                    | 13.76%                   | 11.60%         | 14.34%       |
-|           |        | 4.17%                     | 4.30%                     | 7.17%                    | 10.28%         | 13.62%       |
-|           |        | 7.14%                     | 13.17%                    | 7.91%                    |                |              |
+| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
+| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
+|      |      |                           |                           |                          |                |              |
+
+| Name          | Jul-24 | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 |
+| :------------ | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
+| **AIKPKMMSF** | 17.71% | 17.88% | 16.66% | 13.76% | 11.60% | 14.34% | 4.17%  | 4.30%  | 7.17%  | 10.28% | 13.62% | 7.14%  | 13.17% | 7.91%  |
 
 ### Dispute Resolution/Complaint Handling
 
