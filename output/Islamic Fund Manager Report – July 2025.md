@@ -488,7 +488,7 @@ Alfalah GHP Islamic Stock Fund (AGISF) is an Open Ended Shariah Compliant Islami
 | 1.3  | 10.3 |      |      |      |      |
 |      |      |      |      |      |      |
 
-### Monthly Returns
+## Monthly Returns
 | Month      | AGISF   | BM      |
 |------------|---------|---------|
 | Jul-24     | -2.55%  | -2.77%  |
@@ -505,10 +505,10 @@ Alfalah GHP Islamic Stock Fund (AGISF) is an Open Ended Shariah Compliant Islami
 | Jun-25     | 3.68%   | 2.35%   |
 | Jul-25     | 3.30%   | 6.50%   |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 ### Total Expense Ratio Breakup
@@ -524,7 +524,7 @@ Management fee of the fund has been amended from Jul 01, 2025 through 11th suppl
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-# Fund Managers' Report
+Fund Managers' Report
 
 ## July 2025
 
@@ -1104,12 +1104,12 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Sales Load                                    | Up to 3.00%                               |
 | Risk Profile                                  | Medium                                    |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Month | June | July |
 |-------|------|------|
 | 100%  | 89%  | |
 
-### Fund Statistics
+## Fund Statistics
 | Fund Size (PkR mn; as on Jul 31, 2025) | 2,777 |
 |-----------------------------------------|-------|
 | NAV (PkR)                              | 101.08 |
@@ -1159,13 +1159,13 @@ The Investment Objective of the plan is to generate a competitive return with lo
 |-------------------|-------------------|---------------------------|--------------|-------------------------|----------------|--------------|
 | Govt. Securities   | Govt. Securities   | 1,003,507,962            | -            | 1,003,507,962           | 35.79%         | 36.13%      |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-### Total Expense Ratio Break up
+## Total Expense Ratio Break up
 | M.F | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with levies | Total TER without levies |
 |-----|----------------|--------------|------------------|----------------------|----------------------|----------------|-----------------------|--------------------------|
 | 1.45% | 0.08%         | 0.06%       | 0.23%            | 0.01%                | 0.00%                | 0.00%         | 1.83%                 | 1.60%                   |
@@ -1361,9 +1361,9 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 # Alfalah GHP Islamic Prosperity Planning Fund 2
 ## (Alfalah KTrade Islamic Plan 7)
-### Fund: Not Yet Rated
-### AMC Rating: "AM1" by VIS 02-Jan-25
-### AMC Rating: "AM1" by PACRA 30-August-24
+Fund: Not Yet Rated
+AMC Rating: \"AM1\" by VIS 02-Jan-25
+AMC Rating: \"AM1\" by PACRA 29-August-25
 
 ## Investment Objective
 The objective of the plan is to earn a potentially high return through dynamic asset allocation between Islamic Equity Scheme, Islamic Money Market scheme and Islamic Income Scheme based on Collective Investment Schemes (CIS) using CPPI methodology and cash &#x26; near cash instruments, while providing Capital Preservation of the Initial Investment Value at maturity of the plan based on the Fund Manager’s outlook on the assets classes.
@@ -1719,10 +1719,10 @@ Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Lim
 Islamic Chamber of Commerce, Industry &#x26; Agriculture Building, 2nd Floor, ST-2/A, Block 9, KDA Scheme 5, Clifton, Karachi.
 UAN: +92 (21) 111 090 090 Fax: +92 (21) 35306752 www.alfalahghp.com
 
-# Alfalah Asset Management Limited Fund Managers' Report
+Alfalah Asset Management Limited Fund Managers' Report
 
-## Economic &#x26; Capital Markets Review
+Economic &#x26; Capital Markets Review
 
-### Economic Review &#x26; Outlook
+Economic Review &#x26; Outlook
 
 March 2025 brought encouraging developments for Pakistan’s economy, particularly on the external front. Exports rose by 5.1% month-on-month to USD 2.62 billion, while imports dipped slightly by 1.1% to USD 4.74 billion. As a result, the trade deficit narrowed by 7.8% to USD 2.1 billion. With strong remittance inflows during Ramazan, the current account has recorded a surplus of USD 691 million in the first eight months.

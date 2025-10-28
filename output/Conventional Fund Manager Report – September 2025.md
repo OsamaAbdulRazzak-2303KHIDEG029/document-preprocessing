@@ -59,7 +59,7 @@
 | Alfalah KPK Employee Pension Fund         | Voluntary Pension Fund Scheme         |              |                          |
 | Money Market Sub Fund                     |                                       | Low          | Principal at low risk    |
 
-# Alfalah Asset Management Limited Fund Managers' Report
+Alfalah Asset Management Limited Fund Managers' Report
 
 # Economic &#x26; Capital Markets Review
 
@@ -210,7 +210,7 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | Cut-off Time                 | 9:00 am - 4:00 pm                |
 | Leverage                     | Nil                               |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Fund Size (PkR mn; as on Sept 30, 2025) | 84,267 |
 |------------------------------------------|--------|
 | Fund size including fund of fund schemes (PkR mn) | 84,483 |
@@ -262,7 +262,7 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | FY24 | 14.8% |      |
 | FY25 | 12.6% |      |
 
-### Monthly Returns
+## Monthly Returns
 | Month     | AGMMF  | BM    |
 |-----------|--------|-------|
 | Sep-24    | 20.52% | 17.20%|
@@ -279,10 +279,10 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | Aug-25    | 9.97%  | 10.65%|
 | Sep-25    | 9.30%  | 10.66%|
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 ### Total Expense Ratio
@@ -502,7 +502,7 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | AA-                                      | 0.09%          |
 | NR/UR                                    | 2.29%          |
 
-### Monthly Returns
+## Monthly Returns
 | Month                                    | AGSOF (%) | BM (%) |
 |------------------------------------------|------------|--------|
 | Sep-24                                   | 42.36%     | 16.62% |
@@ -1629,7 +1629,7 @@ The Investment Objective of the Plan is to earn a competitive return through div
 | Risk Profile: High                         | Dealing Days:  Monday - Friday                           |
 | Leverage: Nil                              | Cut-off Time: 9:00 am - 4:00 pm                        |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Asset Class         | August   | September |
 | ------------------- | -------- | --------- |
 | Equity              | 92.95%   | 93.49%    |
@@ -1910,7 +1910,7 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | Dealing Days                 | Monday - Friday                              |
 | Cut-off Time                 | 9:00 am - 4:00 pm                           |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Fund Size (PkR mn; as on Sept 30, 2025) | 5,811 | |
 |------------------------------------------|-------|---|
 | Fund Size including fund of fund schemes (PkR mn) | 5,811 | |
@@ -1950,7 +1950,7 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | Name | Type | Value before Provisioning | Provisioning | Value after Provisioning | % Gross Assets | % Net Assets |
 |------|------|--------------------------|--------------|-------------------------|----------------|--------------|
 
-### Monthly Returns
+## Monthly Returns
 | Month     | AGSF-1 | BM     |
 |-----------|--------|--------|
 | Sep-24    | 32.92% | 16.62% |
@@ -1967,10 +1967,10 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | Aug-25    | 8.89%  | 10.67% |
 | Sep-25    | 5.71%  | 10.67% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 ### Total Expense Ratio Breakup
@@ -2031,7 +2031,7 @@ The Objective of the Fund is to seek competitive returns by investing primarily 
 | Anil Kumar, CFA                           | Fund Manager Equity Funds             |
 
 ## Asset Allocation (as % of Total Assets)
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Sep 30, 2025) | 3,080.0                               |
 |-----------------------------------------|---------------------------------------|
@@ -2840,8 +2840,8 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 ## (Formerly: Faysal Government Securities Fund)
 
 ### Fund Stability Rating: "AA(f)" by VIS 28-Oct-24
-### AMC Rating: "AM1" by VIS 02-Jan-25
-### AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: \"AM1\" by VIS 02-Jan-25
+AMC Rating: \"AM1\" by PACRA 29-August-25
 
 ## Investment Objective
 The Objective of the Fund is to seek competitive returns by investing primarily in Government Securities
@@ -2879,7 +2879,7 @@ The Objective of the Fund is to seek competitive returns by investing primarily 
 | Anil Kumar, CFA                           | Fund Manager Equity Funds              |
 
 ## Asset Allocation (as % of Total Assets)
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Sep 30, 2025) | 3,080.0                                |
 | --------------------------------------- | -------------------------------------- |
@@ -3959,10 +3959,10 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | 10.66% | 9.21%  |
 | 10.66% | 9.26%  |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 | Total Expense Ratio | M.F | Regulatory Fee | Trustee Fee | Levies and Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER without levies | Total TER with levies |
@@ -4118,7 +4118,7 @@ MMSF: 90% three (3) months PKRV rates + 10% three (3) months average of the high
 
 ## Alfalah GHP Equity Sub Fund
 
-### Fund Statistics
+## Fund Statistics
 | Fund Size (PKR Mn.) | NAV    | Turnover Ratio |
 |----------------------|--------|----------------|
 | 1.20                 | 227.94 | 0%             |
@@ -4143,7 +4143,7 @@ MMSF: 90% three (3) months PKRV rates + 10% three (3) months average of the high
 | 20%    | 12.60%    | 13.47% |
 | 0%     | 0.00%     | |
 
-### Fund Statistics
+## Fund Statistics
 | Fund Size (PKR Mn.) | NAV    | Turnover Ratio | YTM    | Duration | Modified Duration |
 |----------------------|--------|----------------|--------|----------|-------------------|
 | 2.173                | 164.06 | 0%             | 11.25% | NA       | NA                |
@@ -4168,7 +4168,7 @@ MMSF: 90% three (3) months PKRV rates + 10% three (3) months average of the high
 | 20%    | 0.00%     | 0.00% |
 | 0%     | 13.96%    | |
 
-### Fund Statistics
+## Fund Statistics
 | Fund Size (PKR Mn.) | NAV    | Turnover Ratio | YTM    | Duration | Modified Duration |
 |----------------------|--------|----------------|--------|----------|-------------------|
 | 2.81                 | 169.40 | 0%             | 11.25% | NA       | NA                |
@@ -4255,11 +4255,11 @@ Investment Plans Summary Report for September Year 2025
 ---
 
 
-# Alfalah Asset Management Limited Fund Managers' Report
+Alfalah Asset Management Limited Fund Managers' Report
 
-## Economic &#x26; Capital Markets Review
+Economic &#x26; Capital Markets Review
 
-### Economic Review &#x26; Outlook
+Economic Review &#x26; Outlook
 
 March 2025 brought encouraging developments for Pakistan’s economy, particularly on the external front. Exports rose by 5.1% month-on-month to USD 2.62 billion, while imports dipped slightly by 1.1% to USD 4.74 billion. As a result, the trade deficit narrowed by 7.8% to USD 2.1 billion. With strong remittance inflows during Ramazan, the current account has recorded a surplus of USD 691 million in the first eight months.
 
@@ -4319,7 +4319,7 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Cut-off Time           | 9:00 am - 4:00 pm                      |
 | Leverage               | Nil                                     |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Month      | August | September |
 |------------|--------|-----------|
 | Fund Size (PkR mn; as on September 30, 2025) | 1,969.5 | 1,969.5 |
@@ -4359,16 +4359,16 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 |-------------------------|------|--------------------------|--------------|-------------------------|----------------|--------------|
 |                         |      |                          |              |                         |                |              |
 
-### Monthly Returns
+## Monthly Returns
 | Month      | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 | Sep-25 |
 |------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | ASRF-22   |        |        |        |        |        |        |        |        |        |        |        |        | 9.23%  |
 | BM        |        |        |        |        |        |        |        |        |        |        |        |        | 10.97% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 ### Total Expense Ratio
@@ -4413,7 +4413,7 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Cut-off Time           | 9:00 am - 4:00 pm                      |
 | Leverage               | Nil                                     |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 | Month      | August | September |
 |------------|--------|-----------|
 | Fund Size (PkR mn; as on September 30, 2025) | 3,033.2 | 3,033.2 |
@@ -4452,16 +4452,16 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 |------|------|--------------------------|---------------------------|-------------------------|----------------|--------------|
 |      |      |                          |                           |                         |                |              |
 
-### Monthly Returns
+## Monthly Returns
 | Month      | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 | Sep-25 |
 |------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | ASRF-21    |        |        |        |        |        | 16.16% | 12.79% | 10.39% | 5.07%  |        |        |        |        |
 | BM         |        |        |        |        |        | 11.41% | 11.41% | 11.41% | 11.41% |        |        |        |        |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 ### Total Expense Ratio
@@ -4698,8 +4698,8 @@ UAN: +92 (21) 111 090 090
 Fax: +92 (21) 35306752
 www.alfalahamc.com
 
-## Economic &#x26; Capital Markets Review
+Economic &#x26; Capital Markets Review
 
-### Economic Review &#x26; Outlook
+Economic Review &#x26; Outlook
 
 March 2025 brought encouraging developments for Pakistan’s economy, particularly on the external front. Exports rose by 5.1% month-on-month to USD 2.62 billion, while imports dipped slightly by 1.1% to USD 4.74 billion. As a result, the trade deficit narrowed by 7.8% to USD 2.1 billion. With strong remittance inflows during Ramazan, the current account has recorded a surplus of USD 691 million in the first eight months.

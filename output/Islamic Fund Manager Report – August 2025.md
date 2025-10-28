@@ -102,7 +102,7 @@ The objective of Alfalah Islamic Rozana Amdani Fund (AIRAF) is to provide compet
 | Ismail Industries Limited - SUKUK-12-Aug-2025           | 2.83%          |
 | Pakistan Telecommunication Company Limited - SUKUK XIII | 2.27%          |
 
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AIRAF (%) | BM (%) |
 | ------ | --------- | ------ |
@@ -554,9 +554,9 @@ This publication is for informational purposes only and nothing herein should be
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
-# Fund Managers' Report
+Fund Managers' Report
 
-## August 2025
+August 2025
 
 ### Alfalah GHP Islamic Dedicated Equity Fund
 
@@ -725,7 +725,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Leverage                | Nil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Month      | July  | August |
 | ---------- | ----- | ------ |
@@ -734,7 +734,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Others     | 26.03 | 27.20  |
 | Sukuk      | 26.07 | 25.79  |
 
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Aug 31, 2025)            | 850    |
 | ------------------------------------------------- | ------ |
@@ -759,7 +759,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | YTD                    | 1.83%  | 1.90%  |
 | Month (Aug 2025)       | 0.91%  | 0.96%  |
 
-### Asset Allocation (Sector Wise as a % of Total Assets)
+## Asset Allocation (Sector Wise as a % of Total Assets)
 
 | Sector                               | % of Total Assets |
 | ------------------------------------ | ----------------- |
@@ -771,7 +771,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Pharmaceuticals                      | 1.37%             |
 | Total                                | 43.57%            |
 
-### Top 10 Holdings (% of Total Assets)
+## Top 10 Holdings (% of Total Assets)
 
 | Holding                                                    | % of Total Assets |
 | ---------------------------------------------------------- | ----------------- |
@@ -786,7 +786,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | OBS AGP (PVT) LTD. - SUKUK (15-07-21)                      | 1.37%             |
 | BIPL/Sukuk Tier 1/010520 (Perpetual)                       | 0.76%             |
 
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AGIVF | BM    |
 | ------ | ----- | ----- |
@@ -804,15 +804,15 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Jul-25 | 0.96% | 0.91% |
 | Aug-25 | 0.93% | 0.91% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-### Total Expense Ratio Break up
+## Total Expense Ratio Break up
 
 | Type                     | MTD   | YTD   |
 | ------------------------ | ----- | ----- |
@@ -901,7 +901,7 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Leverage                | Nil                                                                                                                                                                                                              |
 | Risk Profile            | Medium                                                                                                                                                                                                           |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | Asset Type                    | July | August |
 | ----------------------------- | ---- | ------ |
@@ -1081,7 +1081,7 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | ------ | --------- | --- |
 | FY25   |           |     |
 
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AISF - II | BM     |
 | ------ | --------- | ------ |
@@ -1099,15 +1099,15 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Jul-25 | 11.79%    | 10.59% |
 | Aug-25 | 8.33%     | 9.68%  |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-### Total Expense Ratio Break up
+## Total Expense Ratio Break up
 
 | Type                     | MTD   | YTD   |
 | ------------------------ | ----- | ----- |
@@ -1338,13 +1338,13 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-### Asset Allocation (as % of Total Assets)
+## Asset Allocation (as % of Total Assets)
 
 | July  | August |
 | ----- | ------ |
 | 99.33 |        |
 
-### Fund Statistics
+## Fund Statistics
 
 | Fund Size (PkR mn; as on Aug 31, 2025)            | 10,071   |
 | ------------------------------------------------- | -------- |
@@ -1394,7 +1394,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Name | Type | Value before Provisioning | Provisioning | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------ | ------------------------ | -------------- | ------------ |
 
-### Monthly Returns
+## Monthly Returns
 
 | Month  | AISRF-V | BM    |
 | ------ | ------- | ----- |
@@ -1412,11 +1412,11 @@ The investment objective of Alfalah Islamic Stable Return Plan 5 aims to provide
 | Jul-25 | -       | -     |
 | Aug-25 | 10.77%  | 9.92% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 “Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.”
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
 
@@ -1687,11 +1687,11 @@ Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limite
 
 ## (Alfalah KTrade Islamic Plan 7)
 
-### Fund: Not Yet Rated
+Fund: Not Yet Rated
 
-### AMC Rating: "AM1" by VIS 02-Jan-25
+AMC Rating: \"AM1\" by VIS 02-Jan-25
 
-### AMC Rating: "AM1" by PACRA 29-August-25
+AMC Rating: \"AM1\" by PACRA 29-August-25
 
 ## Investment Objective
 
@@ -2107,11 +2107,11 @@ Avg. Peer Group Return for August 2025 is 9.37%
 |           |        | 4.17%                     | 4.30%                     | 7.17%                    | 10.28%         | 13.62%       |
 |           |        | 7.14%                     | 13.17%                    | 7.91%                    |                |              |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
@@ -2130,10 +2130,10 @@ Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Lim
 Islamic Chamber of Commerce, Industry &#x26; Agriculture Building, 2nd Floor, ST-2/A, Block 9, KDA Scheme 5, Clifton, Karachi.
 UAN: +92 (21) 111 090 090 Fax: +92 (21) 35306752 www.alfalahghp.com
 
-# Alfalah Asset Management Limited Fund Managers' Report
+Alfalah Asset Management Limited Fund Managers' Report
 
-## Economic &#x26; Capital Markets Review
+Economic &#x26; Capital Markets Review
 
-### Economic Review &#x26; Outlook
+Economic Review &#x26; Outlook
 
 March 2025 brought encouraging developments for Pakistan’s economy, particularly on the external front. Exports rose by 5.1% month-on-month to USD 2.62 billion, while imports dipped slightly by 1.1% to USD 4.74 billion. As a result, the trade deficit narrowed by 7.8% to USD 2.1 billion. With strong remittance inflows during Ramazan, the current account has recorded a surplus of USD 691 million in the first eight months.
