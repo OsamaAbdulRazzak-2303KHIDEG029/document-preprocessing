@@ -1,14 +1,12 @@
-# Fund Managers’ Report - Islamic
+Fund Managers’ Report - Islamic
 
 August, 2025
 
----
-
-Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
+# Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
 
 Alfalah Asset Management Limited
 
-RISK PROFILE OF ISLAMIC COLLECTIVE INVESTMENT SCHEMES/PLANS
+## RISK PROFILE OF ISLAMIC COLLECTIVE INVESTMENT SCHEMES/PLANS
 
 | S.No | Fund Name                                      | Category                                        | Risk Profile | Risk of Principal Erosion |
 | ---- | ---------------------------------------------- | ----------------------------------------------- | ------------ | ------------------------- |
@@ -33,8 +31,6 @@ RISK PROFILE OF ISLAMIC COLLECTIVE INVESTMENT SCHEMES/PLANS
 |      | c) Money Market Sub Fund                       |                                                 | Low          | Principal at Low risk     |
 | 14   | Alfalah Islamic KPK Employee pension Fund      | Shariah Compliant Voluntary Pension Fund scheme |              |                           |
 |      | Money Market sub Fund                          |                                                 | Low          | Principal at Low risk     |
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -116,15 +112,22 @@ Avg. Peer Group Return for August 2025 was 9.32%
 
 ## Credit Quality (as % of Total Assets)
 
-| Rating                           | Percentage | Rating        | Percentage |
-| :------------------------------- | :--------- | :------------ | :--------- |
-| **Govt. Guaranteed (Rated AAA)** | 11.78%     | **A1+**       | 2.27%      |
-| **AAA**                          | 13.06%     | **A-**        | 0.00%      |
-| **AA+**                          | 68.69%     | **BBB+**      | 0.00%      |
-| **AA**                           | 0.20%      | **BBB**       | 0.00%      |
-| **AA-**                          | 0.00%      | **Below IG**  | 0.00%      |
-| **A+**                           | 0.00%      | **NR/UR/MTS** | 1.18%      |
-| **A1**                           | 2.83%      |               |            |
+| Rating                           | Percentage |
+| :------------------------------- | :--------- |
+| **Govt. Guaranteed (Rated AAA)** | 11.78%     |
+| **AAA**                          | 13.06%     |
+| **AA+**                          | 68.69%     |
+| **AA**                           | 0.20%      |
+| **AA-**                          | 0.00%      |
+| **A+**                           | 0.00%      |
+| **A1**                           | 2.83%      |
+| **A1+**                          | 2.27%      |
+| **A-**                           | 0.00%      |
+| **BBB+**                         | 0.00%      |
+| **BBB**                          | 0.00%      |
+| **Below IG**                     | 0.00%      |
+| **NR/UR/MTS**                    | 1.18%      |
+|                                  |            |
 
 ## TFC/Sukuk Holdings (% of Total Assets)
 
@@ -132,8 +135,6 @@ Avg. Peer Group Return for August 2025 was 9.32%
 | ------------------------------------------------------- | -------------- |
 | Ismail Industries Limited - SUKUK-12-Aug-2025           | 2.83%          |
 | Pakistan Telecommunication Company Limited - SUKUK XIII | 2.27%          |
-
-## Monthly Returns
 
 ## Monthly Returns
 
@@ -159,8 +160,6 @@ This publication is for informational purposes only and nothing herein should be
 
 _\* Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP_
 **Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP.**
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -301,8 +300,6 @@ This publication is for informational purposes only and nothing herein should be
 
 \*\*\*\*Management fee of the fund has been amended July 01, 2025 through 8th supplemental OD with consent of the trustee.
 
----
-
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
 # Alfalah GHP Islamic Income Fund
@@ -429,8 +426,6 @@ This publication is for informational purposes only and nothing herein should be
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\*\* Management fee of the fund has been amended Jul 01, 2025 through 12th supplemental OD with consent of the trustee
 
----
-
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August 2025
 
 # Alfalah GHP Islamic Stock Fund
@@ -534,12 +529,6 @@ Average Peer Group Return for August 2025 was 8.23%
 | Sazgar Engineering Works Limited           | 3.52%             |
 | Fauji Fertilizer Company Limited           | 2.83%             |
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value before Provisioning | Provisioning | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------ | ------------------------ | -------------- | ------------ |
-|      |      |                           |              |                          |                |              |
-
 ## Monthly Returns
 
 | Month  | AGISF  | BM     |
@@ -576,15 +565,13 @@ This publication is for informational purposes only and nothing herein should be
 - Calculated on 5-year average
   ** Since Inception return is calculated on Compound Annual Growth Rate (CAGR) \*** Management fee of the fund has been amended from Jul 01, 2025 through 11th supplemental OD with consent of the SECP
 
----
-
 ## Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited)
 
 Fund Managers' Report
 
 August 2025
 
-### Alfalah GHP Islamic Dedicated Equity Fund
+# Alfalah GHP Islamic Dedicated Equity Fund
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC Rating: "AM1" by PACRA 29-August-25
@@ -721,8 +708,6 @@ This publication is for informational purposes only and nothing herein should be
   ** Since Inception return is calculated on Compound Annual Growth Rate (CAGR) \*** Management fee of the fund has been amended from Jul 01, 2025 through 9th supplemental OD with consent of the SECP
   MUFAP's Recommended Format
 
----
-
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August 2025
 
 # Alfalah GHP Islamic Value Fund
@@ -842,7 +827,7 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Jul-25 | 0.96% | 0.91% |
 | Aug-25 | 0.93% | 0.91% |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
@@ -867,8 +852,6 @@ This publication is for informational purposes only and nothing herein should be
 - Management fee of the fund has been amended from Jul 01, 2025 through 8th supplemental OD with consent of the SECP
   ** Calculated on 5-year average
   \*\*\*** Since inception return is calculated on CAGR basis
-
----
 
 Investment Plans Summary Report for August 2025
 
@@ -901,8 +884,6 @@ Investment Plans Summary Report for August 2025
 | Alfalah Islamic Sovereign Plan-1 | 26-Sep-23      | Perpetual     | Medium       | 4,754,598,199 | Active |
 | Alfalah Islamic Sovereign Plan-2 | 13-Dec-23      | 13-Dec-26     | Medium       | 3,641,829,820 | Active |
 | Alfalah Islamic Sovereign Plan-3 | 22-Aug-24      | 22-Aug-27     | Medium       | 4,151,218,728 | Active |
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -1034,8 +1015,6 @@ This publication is for informational purposes only and nothing herein should be
 
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\*\* Management fee of the fund has been amended Jul 01, 2025 through 6th supplemental OD with consent of the trustee
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -1173,8 +1152,6 @@ This publication is for informational purposes only and nothing herein should be
 
 MUFAP's Recommended Format
 
----
-
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
 # Alfalah Islamic Sovereign plan-3
@@ -1303,11 +1280,7 @@ This publication is for informational purposes only and nothing herein should be
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\*\* Management fee of the fund has been amended Jul 01, 2025 through 6th supplemental OD with consent of the trustee
 
----
-
-# Investment Plans Summary Report for August 2025
-
-# Alfalah Islamic Stable Return Fund Plan
+# Investment Plans Summary Report for August 2025 of Alfalah Islamic Stable Return Fund Plan
 
 ## CIS General Information
 
@@ -1337,8 +1310,6 @@ This publication is for informational purposes only and nothing herein should be
 | Islamic Stable Return Fund Plan-III | 12-July-24     | 5-Dec-24      | Low          | N/A            | Matured |
 | Islamic Stable Return Fund Plan-IV  | 23-May-24      | 26-May-2025   | Low          | N/A            | Matured |
 | Islamic Stable Return Fund Plan-V   | 08-Aug-25      | 06-Nov-2025   | Low          | 10,070,814,447 | Active  |
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -1475,8 +1446,6 @@ This publication is for informational purposes only and nothing herein should be
 | Total TER             | 0.19% | 0.09% |
 | Total TER with levies | 0.17% | 0.08% |
 
----
-
 Investment Plans Summary Report for August 2025
 
 # Alfalah Islamic Prosperity Planning Fund
@@ -1507,8 +1476,6 @@ Investment Plans Summary Report for August 2025
 | Alfalah Islamic Prosperity Planning Fund-Moderate Allocation Plan  | 9-Jun-16       | Perpetual     | Medium       | 56,942,554  | Active                  |
 | Alfalah Islamic Prosperity Planning Fund-Active Allocation Plan-II | 14-Mar-22      | Perpetual     | High         | 55,029,098  | Active                  |
 | Alfalah Islamic Prosperity Planning Fund-Balanced Allocation Plan  | 9-Jun-16       | Perpetual     | Medium       | 110,644,999 | Active                  |
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -1572,7 +1539,9 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | ------------ | ---------- | ---------- | ------------ |
 |              | Medium     | Medium     | High         |
 
-## Alfalah GHP Islamic Prosperity Planning Fund - Islamic Balanced Allocation Plan (Holdings as % of Total Assets)
+# Alfalah GHP Islamic Prosperity Planning Fund - Islamic Balanced Allocation Plan
+
+### (Holdings as % of Total Assets)
 
 | Holdings         | July   | August |
 | :--------------- | :----- | :----- |
@@ -1584,7 +1553,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **Total**        | 100%   | 100%   |
 | Total            | 100%   | 100%   |
 
-## Alfalah GHP Islamic Balanced Allocation Plan
+### Fund Statistics
 
 | Metric                                     | Value    |
 | :----------------------------------------- | :------- |
@@ -1592,7 +1561,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **NAV** (PKR)                              | 104.8713 |
 | **Portfolio Turnover Ratio**               | 5.74%    |
 
-### Performance
+### Fund Performance
 
 | Period                       | BM     | AGIBAP |
 | :--------------------------- | :----- | :----- | --- |
@@ -1603,7 +1572,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **YTD**                      | 4.48%  | 3.42%  |
 | **Month - Jul 2025**         | 2.35%  | 2.02%  |     |
 
-## Alfalah GHP Islamic Prosperity Planning Fund - Moderate Allocation Plan
+# Alfalah GHP Islamic Prosperity Planning Fund - Moderate Allocation Plan
 
 ### Holdings (as % of Total Assets)
 
@@ -1616,7 +1585,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **Others**       | 1.37%  | 1.45%  |
 | **Total**        | 100%   | 100%   |
 
-## Alfalah GHP Islamic Moderate Allocation Plan - Statistics
+## Fund Statistics
 
 | Metric                                     | Value    |
 | :----------------------------------------- | :------- |
@@ -1624,7 +1593,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **NAV** (PKR)                              | 110.6445 |
 | **Portfolio Turnover Ratio**               | 3.63%    |
 
-### Performance
+### Fund Performance
 
 | Period                       | BM     | AGIMAP |
 | :--------------------------- | :----- | :----- |
@@ -1635,7 +1604,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **YTD**                      | 8.20%  | 5.97%  |
 | **Month - Jul 2025**         | 3.64%  | 3.70%  |
 
-## Alfalah GHP Islamic Prosperity Planning Fund - Active Allocation Plan 2
+# Alfalah GHP Islamic Prosperity Planning Fund - Active Allocation Plan 2
 
 ### Holdings (as % of Total Assets)
 
@@ -1648,7 +1617,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **Others**       | 2.17%  | 2.14%  |
 | **Total**        | 100%   | 100%   |
 
-## Alfalah GHP Islamic Active Allocation Plan 2 - Statistics
+### Fund Statistics
 
 | Metric                                     | Value   |
 | :----------------------------------------- | :------ |
@@ -1656,7 +1625,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **NAV** (PKR)                              | 95.7246 |
 | **Portfolio Turnover Ratio**               | 2.62%   |
 
-### Performance
+### Fund Performance
 
 | Period                       | BM     | AGIAAP2 |
 | :--------------------------- | :----- | :------ |
@@ -1667,10 +1636,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **YTD**                      | 5.06%  | 5.14%   |
 | **Month - Jul 2025**         | 2.79%  | 4.12%   |
 
-## Details of Non-Compliant Investments
-
-| Plan Name | Fund Name | Type | Value before Provisioning | Provisioning | Value after Provisioning | Current Exposure | Regulatory Minimum Limit |
-| --------- | --------- | ---- | ------------------------- | ------------ | ------------------------ | ---------------- | ------------------------ |
+# Alfalah GHP Islamic Prosperity Planning Fund
 
 ## Alfalah GHP Islamic Balanced Allocation Plan (Monthly Returns)
 
@@ -1832,16 +1798,6 @@ Alfalah K Trade Islamic Plan 7 Low
 | YTD                      | 8.42% | 2.78%   |
 | Month                    | 8.93% | 4.39%   |
 
-## Details of Non-Compliant Investments
-
-| Plan Name                                        | Fund Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | Current Exposure | Regulatory Minimum Limit |
-| ------------------------------------------------ | --------- | ---- | ------------------------- | ------------------------- | ------------------------ | ---------------- | ------------------------ |
-| Alfalah K Trade Islamic Plan 7 (Monthly Returns) |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |                  |                          |
-|                                                  |           |      |                           |                           |                          |
-
 ## Alfalah K Trade Islamic Plan 7 (Monthly Returns)
 
 |                    | Aug-24 | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 |
@@ -1867,8 +1823,6 @@ This publication is for informational purposes only and nothing herein should be
 \*Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
 \*\* Management fee of the fund has been amended from Jul 01, 2025 through 12th supplemental OD with consent of the SECP
 MUFAP's Recommended Format
-
----
 
 Investment Plans Summary Report for August 2025
 
@@ -1900,8 +1854,6 @@ Investment Plans Summary Report for August 2025
 | Islamic Pension - Equity       | 8-Nov-2016     | Perpetual | High   | 178,570,759 | Active |
 | Islamic Pension - Debt         | 8-Nov-2016     | Perpetual | Medium | 178,863,458 | Active |
 | Islamic Pension - Money Market | 8-Nov-2016     | Perpetual | Low    | 276,149,743 | Active |
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August, 2025
 
@@ -1953,7 +1905,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Salman Jawaid                | Fund Manager Fixed Income Funds |
 | Anil Kumar, CFA              | Fund Manager Equity Funds       |
 
-## Alfalah GHP Islamic Pension - Equity Sub Fund
+# Alfalah GHP Islamic Pension - Equity Sub Fund
 
 ### Top Ten Holdings (as a % of total assets)
 
@@ -2004,7 +1956,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | NAV                      | 290.53 |
 | Portfolio Turnover Ratio | 1.4%   |
 
-## Alfalah GHP Islamic Pension - Debt Sub Fund
+# Alfalah GHP Islamic Pension - Debt Sub Fund
 
 ### Fund Size (PKR Mn.)
 
@@ -2030,7 +1982,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 | Avg. Peer Group Return for August 2025 was- 8.78%
 
-## Alfalah GHP Islamic Pension - Money Market Sub Fund
+# Alfalah GHP Islamic Pension - Money Market Sub Fund
 
 ### Fund Size (PKR Mn.)
 
@@ -2055,26 +2007,6 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Month (Jul 2025)         | 9.66% | 9.47%  |
 
 | Avg. Peer Group Return for August 2025 was- 9.37%
-
-## Alfalah GHP Islamic Pension Equity Sub Fund - Details of Non-Compliant Investments
-
-| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
-| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
-|      |      |                           |                           |                          |                |              |
-
-## Alfalah GHP Islamic Pension Debt Sub Fund - Details of Non-Compliant Investments
-
-| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
-| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
-|      |      |                           |                           |                          |                |              |
-
-## Alfalah GHP Islamic Pension Money Market Sub Fund - Details of Non-Compliant Investments
-
-| Name | Type | Value before Provisioning | Provisioning Held, if any | Value after Provisioning | % Gross Assets | % Net Assets |
-| :--- | :--- | :------------------------ | :------------------------ | :----------------------- | :------------- | :----------- |
-|      |      |                           |                           |                          |                |              |
-
----
 
 ## Fund and Benchmark Performance
 
@@ -2108,8 +2040,6 @@ This publication is for informational purposes only and nothing herein should be
 
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   \*\* Management fee of the fund has been amended from Jul 01, 2025 through 4th supplemental OD with consent of the SECP
-
----
 
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report August 2025
 
@@ -2148,6 +2078,8 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | Frontend load           | Nil                                             |
 | Backend load            | Nil                                             |
 | Management Fee\*\*      | Upto 0.75%                                      |
+
+## Investment Committee
 
 | Name                         | Position                        |
 | ---------------------------- | ------------------------------- |
@@ -2193,11 +2125,11 @@ Avg. Peer Group Return for August 2025 is 9.37%
 | :------------ | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- | :----- |
 | **AIKPKMMSF** | 17.71% | 17.88% | 16.66% | 13.76% | 11.60% | 14.34% | 4.17%  | 4.30%  | 7.17%  | 10.28% | 13.62% | 7.14%  | 13.17% | 7.91%  |
 
-### Dispute Resolution/Complaint Handling
+## Dispute Resolution/Complaint Handling
 
 Investors may lodge their complaints to our Investor Services Department through any of the following options where our dedicated staff is available to provide assistance: Call us at (+92-21) 111 090 090, Email us at complaint@alfalahamc.com, Contact us at 0300-0707417 or submit through our website https://www.alfalahamc.com/complain. In case your concerns are not settled or resolved, you may lodge your complaint with SECP at the link https://sdms.secp.gov.pk/. Please note that SECP will entertain only those complaints which were at first directly requested to be redressed by us and were not resolved as per investor satisfaction.
 
-### Disclaimer
+## Disclaimer
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
@@ -2210,16 +2142,14 @@ This publication is for informational purposes only and nothing herein should be
   \*\* Management fee of the fund has been amended from Jul 01, 2025 through 1st supplemental OD with consent of the SECP
   MUFAP's Recommended Format
 
----
-
 Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
 Islamic Chamber of Commerce, Industry &#x26; Agriculture Building, 2nd Floor, ST-2/A, Block 9, KDA Scheme 5, Clifton, Karachi.
 UAN: +92 (21) 111 090 090 Fax: +92 (21) 35306752 www.alfalahghp.com
 
-# Alfalah Asset Management Limited Fund Managers' Report
+Alfalah Asset Management Limited Fund Managers' Report
 
-## Economic &#x26; Capital Markets Review
+Economic &#x26; Capital Markets Review
 
-### Economic Review &#x26; Outlook
+Economic Review &#x26; Outlook
 
 March 2025 brought encouraging developments for Pakistan’s economy, particularly on the external front. Exports rose by 5.1% month-on-month to USD 2.62 billion, while imports dipped slightly by 1.1% to USD 4.74 billion. As a result, the trade deficit narrowed by 7.8% to USD 2.1 billion. With strong remittance inflows during Ramazan, the current account has recorded a surplus of USD 691 million in the first eight months.
