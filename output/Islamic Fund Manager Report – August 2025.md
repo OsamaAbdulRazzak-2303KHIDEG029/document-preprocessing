@@ -1446,9 +1446,7 @@ This publication is for informational purposes only and nothing herein should be
 | Total TER             | 0.19% | 0.09% |
 | Total TER with levies | 0.17% | 0.08% |
 
-Investment Plans Summary Report for August 2025
-
-# Alfalah Islamic Prosperity Planning Fund
+# Investment Plans Summary Report for August 2025 Of Alfalah Islamic Prosperity Planning Fund
 
 ## CIS General Information
 
@@ -1585,7 +1583,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | **Others**       | 1.37%  | 1.45%  |
 | **Total**        | 100%   | 100%   |
 
-## Fund Statistics
+### Fund Statistics
 
 | Metric                                     | Value    |
 | :----------------------------------------- | :------- |
@@ -1824,9 +1822,7 @@ This publication is for informational purposes only and nothing herein should be
 \*\* Management fee of the fund has been amended from Jul 01, 2025 through 12th supplemental OD with consent of the SECP
 MUFAP's Recommended Format
 
-Investment Plans Summary Report for August 2025
-
-# Alfalah Islamic Pension Fund
+# Investment Plans Summary Report for August 2025 of Alfalah Islamic Pension Fund
 
 ## CIS General Information
 
