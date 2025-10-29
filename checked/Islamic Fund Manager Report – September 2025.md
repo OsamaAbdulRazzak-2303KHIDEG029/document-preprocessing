@@ -1184,7 +1184,7 @@ The Investment Objective of the plan is to generate a competitive return with lo
 ## Investment Committee
 
 | Name                             | Position                        |
-| :------------------------------- | :------------------------------ | --- |
+| :------------------------------- | :------------------------------ |
 | **Khaldoon Bin Latif**           | Chief Executive Officer         |
 | **Ayub Khuhro**                  | Chief Investment Officer        |
 | **Faisal Ali Khan**              | Chief Financial Officer         |
@@ -1194,7 +1194,7 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | **Mustafa Kamal**                | Head of Fixed Income            |
 | **Shams-ud-din Shah, CFA, FCCA** | Head of Research                |
 | **Salman Jawaid**                | Fund Manager Fixed Income Funds |
-| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |     |
+| **Anil Kumar, CFA**              | Fund Manager Equity Funds       |
 
 ## Fund Statistics
 
@@ -1608,6 +1608,8 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | YTD                      | 12.68%  | 11.20% |
 | Month - Sep 2025         | 7.26%   | 5.76%  |
 
+# Alfalah GHP Islamic Prosperity Planning Fund
+
 ## Alfalah GHP Islamic Balanced Allocation Plan (Monthly Returns)
 
 |        | Sep-24 | Oct-24 | Nov-24 | Dec-24 | Jan-25 | Feb-25 | Mar-25 | Apr-25 | May-25 | Jun-25 | Jul-25 | Aug-25 | Sep-25 |
@@ -1822,17 +1824,15 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | DSF                     | 75% twelve (12) months PKISRV rates + 25% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
 | MMSF                    | 90% three (3) months PKISRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Islamic Banks or Islamic Windows of Conventional Banks as selected by MUFAP |
 | Min. Initial Investment | PKR 500/-                                                                                                                                                                                                            |
-
-| Trustee            | CDC Pakistan Limited                                                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| Auditor            | Yousuf Adil Chartered Accountants                                                                                               |
-| Cut-off Time       | 9:00 am - 4:00 pm                                                                                                               |
-| Dealing Days       | Monday - Friday                                                                                                                 |
-| Par Value          | 100                                                                                                                             |
-| Pricing Mechanism  | Forward                                                                                                                         |
-| Frontend load      | 3%                                                                                                                              |
-| Backend load       | Nil                                                                                                                             |
-| Management Fee\*\* | ESF Upto 2.25%, MMSF upto 1%, DSF upto 1.25% of average net assets of the sub fund calculated on a daily basis during the year. |
+| Trustee                 | CDC Pakistan Limited                                                                                                                                                                                                 |
+| Auditor                 | Yousuf Adil Chartered Accountants                                                                                                                                                                                    |
+| Cut-off Time            | 9:00 am - 4:00 pm                                                                                                                                                                                                    |
+| Dealing Days            | Monday - Friday                                                                                                                                                                                                      |
+| Par Value               | 100                                                                                                                                                                                                                  |
+| Pricing Mechanism       | Forward                                                                                                                                                                                                              |
+| Frontend load           | 3%                                                                                                                                                                                                                   |
+| Backend load            | Nil                                                                                                                                                                                                                  |
+| Management Fee\*\*      | ESF Upto 2.25%, MMSF upto 1%, DSF upto 1.25% of average net assets of the sub fund calculated on a daily basis during the year.                                                                                      |
 
 ## Investment Committee
 
@@ -1893,9 +1893,10 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 ### Fund Statictics
 
-|Fund Size (PKR Mn.) | 232.63|
-|NAV | 322.33|
-|Portfolio Turnover Ratio | 15.9%|
+| Fund Size (PKR Mn.)      | 232.63 |
+| ------------------------ | ------ |
+| NAV                      | 322.33 |
+| Portfolio Turnover Ratio | 15.9%  |
 
 # Alfalah GHP Islamic Pension - Debt Sub Fund
 
@@ -1948,6 +1949,8 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Avg. Peer Group Return for Sep 2025 was 8.85% |       |        |
 
 ---
+
+# Alfalah GHP Islamic Pension
 
 ## Fund and Benchmark Performance
 
