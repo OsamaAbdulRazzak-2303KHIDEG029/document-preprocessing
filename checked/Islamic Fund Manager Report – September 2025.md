@@ -1653,8 +1653,6 @@ This publication is for informational purposes only and nothing herein should be
 - Since Inception return is calculated on Compound Annual Growth Rate (CAGR)
   Management fee of the fund has been amended from Jul 01, 2025 through 12th supplemental OD with consent of the SECP
 
----
-
 Alfalah Asset Management Ltd. (formerly Alfalah GHP Investment Management Limited) Fund Managers' Report September, 2025
 
 # Alfalah GHP Islamic Prosperity Planning Fund 2
@@ -1710,7 +1708,9 @@ The objective of the plan is to earn a potentially high return through dynamic a
 
 Alfalah K Trade Islamic Plan 7 Low
 
-## Alfalah GHP Islamic Prosperity Planning Fund 2 - Ktrade Islamic Plan 7 (Holdings as % of Total Assets)
+## Alfalah GHP Islamic Prosperity Planning Fund 2 - Ktrade Islamic Plan 7 
+
+### (Holdings as % of Total Assets)
 
 | Holdings Type | August  | September |
 | ------------- | ------- | --------- |
@@ -1925,7 +1925,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 
 # Alfalah GHP Islamic Pension - Money Market Sub Fund
 
-### Fund Size (PKR Mn.)
+### Fund Statistics
 
 | Metric                   | Value  |
 | ------------------------ | ------ |
