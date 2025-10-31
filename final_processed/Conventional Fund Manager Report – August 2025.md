@@ -63,9 +63,9 @@ Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Lim
 Alfalah Asset Management Limited (formerly Alfalah GHP Investment Management Limited)
 Fund Managers' Report August 2025
 
-# Economic & Capital Markets Review
+## Economic & Capital Markets Review
 
-## Economic Review & Outlook
+### Economic Review & Outlook
 
 In August 2025, Pakistan’s trade deficit widened to USD 2.9 billion, reflecting a 9% MoM improvement from July but a sharp 30% YoY increase, driven by a simultaneous decline in exports and sustained import demand. Exports fell by ~10% MoM to USD 2.42 billion, while imports stood at USD 5.29 billion, down ~9% MoM. Despite the monthly contraction in trade gap, the two-month (Jul–Aug) trade deficit for FY26 surged by 29% YoY to USD 6.0 billion.
 
@@ -75,7 +75,7 @@ On the inflation front, headline CPI inflation eased to 3.0% YoY in August, down
 
 July 2025 tax collection came in at PKR 748.6 billion, marking a 14% YoY increase. Though this reflects positive momentum in revenue mobilization, the full-year FY25 tax collection of PKR 11,735 billion had missed the revised target by PKR 163 billion, highlighting persistent challenges in fiscal consolidation. Structural reforms in tax administration, including digitization initiatives approved in recent months, are expected to play a pivotal role in improving efficiency and broadening the tax base going forward.
 
-## Money Market Review & Outlook
+### Money Market Review & Outlook
 
 The State Bank of Pakistan (SBP) held its Treasury bill auction on August 20, 2025, with maturities totaling PKR 445 billion against a target of PKR 450 billion. The central bank accepted bids worth PKR 16 billion in the 1-month tenor, PKR 24 billion in 3 months, PKR 51 billion in 6 months, and PKR 18 billion in 12 months, at cut-off yields of 10.90%, 10.85%, 10.85%, and 11.00%, respectively.
 
@@ -83,7 +83,7 @@ Earlier in the month, on August 1, SBP conducted an auction for fixed-rate Pakis
 
 Meanwhile, the secondary market remained largely stable throughout the month, reflecting investor expectations of a status quo in the upcoming monetary policy. The central bank is likely to retain a data-driven approach, carefully assessing the temporary inflationary impact of flood-related supply disruptions against the backdrop of improving external and fiscal indicators. While there is room for a 50–100 bps rate cut in the coming months, the Monetary Policy Committee may opt to hold rates steady in the near term to better evaluate the scale and persistence of the flood-induced economic shock.
 
-## Equity Market Review & Outlook
+### Equity Market Review & Outlook
 
 The KSE-100 Index concluded August 2025 on a strong footing after reaching a new milestone of 150,000 points during the month, however, closing a little lower at 148,618 points. This represented a 6.62% month-on-month gain. The performance highlights sustained investor confidence, improved macroeconomic stability, and a resilient corporate earnings outlook.
 
