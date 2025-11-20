@@ -180,7 +180,7 @@ def pre_processing(directory):
 
     # Create a SimpleDirectoryReader to read files from the specified directory
     reader = SimpleDirectoryReader(
-        "data_1",
+        "monthwise_file_data",
         file_extractor=file_extractor,
     )
 
@@ -201,5 +201,5 @@ def pre_processing(directory):
     return documents
 
 
-directory = "testing"
+directory = "final_processed"
 docs = pre_processing(directory)
