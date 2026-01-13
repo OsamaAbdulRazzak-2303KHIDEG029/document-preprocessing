@@ -31,7 +31,7 @@ def process_directory(directory_path, replacements):
 
 
 if __name__ == "__main__":
-    directory = "output_1"  # Change this to your folder path, e.g. "./reports/"
+    directory = "final_processed"  # Change this to your folder path, e.g. "./reports/"
 
     replacements = {
         r"(?m)^##\s*August 2025": r"August 2025",
