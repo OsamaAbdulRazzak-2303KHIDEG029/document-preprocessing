@@ -4377,6 +4377,8 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 # Alfalah GHP Pension Fund - II
 
 (Formerly: Faysal Pension Fund)
+AMC Rating: "AM1" by VIS 02-Jan-25
+AMC rating: "AM1" by PACRA 29-August-25
 
 ## FUND INFORMATION
 
@@ -4442,12 +4444,13 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 
 ### **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 1.2 |
-| Fund Size including fund of fund schemes: (PKR mn) | 1.2 |
-| NAV (PkR): | 219.2 |
-| Portfolio Turnover Ratio | 370.6% |
+| Fund Size PKR mn (Nov,2025)                        | 1.2    |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (PKR mn) | 1.2    |
+| NAV (PkR):                                         | 219.2  |
+| Portfolio Turnover Ratio                           | 370.6% |
 
-### ASSET ALLOCATION (AS % OF TOTAL ASSETS) Bank Balance 43.19% Others 56.81%
+### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Bank Balance | 43.19% |
 | Others | 56.81% |
@@ -4467,12 +4470,13 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 
 ### FUND STATISTICS
 
-| Fund Size PKR mn (Nov,2025) | 2.1 |
-| NAV | 164.1 |
-| Portfolio Turnover Ratio | 0.00% |
-| YTM | 10.87% |
-| Duration | 1.54 |
-| Modified Duration | 1.45 |
+| Fund Size PKR mn (Nov,2025) | 2.1    |
+| --------------------------- | ------ |
+| NAV                         | 164.1  |
+| Portfolio Turnover Ratio    | 0.00%  |
+| YTM                         | 10.87% |
+| Duration                    | 1.54   |
+| Modified Duration           | 1.45   |
 
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -4499,12 +4503,13 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 
 ### FUND STATISTIC
 
-| Fund Size PKR mn (Nov,2025) | 2.7 |
-| NAV | 170.1 |
-| Portfolio Turnover Ratio | 0.00% |
-| YTM | 9.92% |
-| Duration | 0.03 |
-| Modified Duration | 0.03 |
+| Fund Size PKR mn (Nov,2025) | 2.7   |
+| --------------------------- | ----- |
+| NAV                         | 170.1 |
+| Portfolio Turnover Ratio    | 0.00% |
+| YTM                         | 9.92% |
+| Duration                    | 0.03  |
+| Modified Duration           | 0.03  |
 
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -4515,21 +4520,6 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | T-Bills     |    0.0%     |     0.0%     |
 | Others      |    5.0%     |     5.8%     |
 
-## Details of Non-Compliant Investments - Equity Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-## Details of Non-Compliant Investments - Debt Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-## Details of Non-Compliant Investments - Money Market Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 ## Disclaimer
 
 For Dispute Resolution/Complaints Handling
@@ -4539,26 +4529,30 @@ Disclaimer: This publication is for information purpose only and nothing herein 
 
 # **Alfalah GHP KPK Employee Pension Fund**
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Voluntary Pension Fund Scheme |
-| Fund Type: | Open Ended |
-| Benchmark: | 90% three (3) months PKRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP |
-| Launch date: | Dec 14, 2023 |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward |
-| Front end Load: | |
-| Risk Profile: | Plan Specific |
-| Management Fee_**: | Upto 0.75% |
-| Min. Initial Investment: | PKR 1,000/- |
-| Min. Suseq. Investment: | PKR 1,000/- |
-| Auditor: | Grant Thornton Pakistan |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Voluntary Pension Fund Scheme                                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                                                        |
+| Benchmark:               | 90% three (3) months PKRV rates + 10% three (3) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP |
+| Launch date:             | Dec 14, 2023                                                                                                                                                      |
+| Par Value:               | PKR 100/-                                                                                                                                                         |
+| Pricing\*\*\*\_:         | Forward                                                                                                                                                           |
+| Front end Load:          |                                                                                                                                                                   |
+| Risk Profile:            | Plan Specific                                                                                                                                                     |
+| Management Fee\_\*\*:    | Upto 0.75%                                                                                                                                                        |
+| Min. Initial Investment: | PKR 1,000/-                                                                                                                                                       |
+| Min. Suseq. Investment:  | PKR 1,000/-                                                                                                                                                       |
+| Auditor:                 | Grant Thornton Pakistan                                                                                                                                           |
+| Trustee:                 | CDC Pakistan                                                                                                                                                      |
+| Listing:                 | Pakistan Stock Exchange                                                                                                                                           |
+| Dealing Days:            | Monday - Friday                                                                                                                                                   |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                 |
+| Leverage:                | NIL                                                                                                                                                               |
 
 <sup>\*</sup> Calculated on 12-month trailing data.
 _\*\ Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
@@ -4594,20 +4588,25 @@ The objective of the Fund is to provide Employees with an individualized, funded
 
 ### FUND PERFORMANCE
 
-| FUND PERFORMANCE                                                                                         | BM                         | MMSF                     |
-| -------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------ |
-| Since Inception Return\* FY26TD November-25                                                              | 15.11%<br>10.70%<br>10.73% | 15.13%<br>9.45%<br>9.17% |
-| Avg. Peer Group Return for Nov, 2025 was 9.75%<br>5 year Avg. Peer Group Return for Nov, 2025 was 14.04% |                            |                          |
-| 365 Days                                                                                                 | 11.24%                     | 10.96%                   |
+| FUND PERFORMANCE             | BM     | MMSF   |
+| :--------------------------- | :----- | :----- |
+| **Since Inception Return\*** | 15.11% | 15.13% |
+| **FY26TD**                   | 10.70% | 9.45%  |
+| **November-25**              | 10.73% | 9.17%  |
+| **365 Days**                 | 11.24% | 10.96% |
+
+_Avg. Peer Group Return for Nov, 2025 was 9.75%_
+_5 year Avg. Peer Group Return for Nov, 2025 was 14.04%_
 
 ### FUND STATISTICS
 
-| Fund Size PKR mn (Nov,2025) | 45.4 |
-| NAV | 131.9 |
-| Portfolio Turnover Ratio | 75.10% |
-| YTM | 10.18% |
-| Duration | 0.02 |
-| Modified Duration | 0.02 |
+| Fund Size PKR mn (Nov,2025) | 45.4   |
+| --------------------------- | ------ |
+| NAV                         | 131.9  |
+| Portfolio Turnover Ratio    | 75.10% |
+| YTM                         | 10.18% |
+| Duration                    | 0.02   |
+| Modified Duration           | 0.02   |
 
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -4620,11 +4619,6 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | T-Bills     |    85.2%    |    73.6%     |
 | Others      |    4.0%     |     4.1%     |
 
-### Details of Non-Compliant Investments - Money Market Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 ## Disclaimer
 
 | For Dispute Resolution/Complaints Handling                              | SECP Complaints Handling |
@@ -4635,14 +4629,9 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 
 # FIXED RETURN FUNDS
 
-CONVENTIONAL
-FUND MANAGERS REPORT
+Alfalah Stable Return Fund Plan
 
-021-111-090-090 | www.alfalahamc.com
-
-#WealthUnlocked
-
-# Investment Plans Summary Report for November 2025
+# Investment Plans Summary Report for November 2025 of Alfalah Stable Return Fund
 
 ## CIS General Information:
 
@@ -4655,26 +4644,24 @@ FUND MANAGERS REPORT
 
 ## CIS Level Expense Breakdown:
 
-| Audit Fee | 230,098 |
-| Shariah Advisory Fee | - |
-| Rating Fee | 11,139 |
-| Formation Cost Amortization | - |
-| Other Expenses | 9,993,678 |
+| Audit Fee                   | 230,098   |
+| --------------------------- | --------- |
+| Shariah Advisory Fee        | -         |
+| Rating Fee                  | 11,139    |
+| Formation Cost Amortization | -         |
+| Other Expenses              | 9,993,678 |
 
 ## Investment Plan Overview:
 
-| Investment Plan Name        | Date of Launch | Maturity Date | Risk Profile | Net Assets | Status<br>(Active/Matured) |
-| --------------------------- | -------------- | ------------- | ------------ | ---------- | -------------------------- |
-| Stable Return Fund Plan-I   | 31-Aug-22      | 25-Aug-23     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-II  | 07-Dec-22      | 07-Dec-23     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-III | 08-Mar-23      | 20-Jun-23     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-IV  | 07-Feb-24      | 25-Jun-25     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-V   | 12-Apr-23      | 05-Jul-23     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-VI  | 25-Oct-23      | 26-Jul-24     | Low          | N/A        | Matured                    |
-| Stable Return Fund Plan-VII | 19-Jul-23      | 20-Oct-23     | Low          | N/A        | Matured                    |
-
 | Investment Plan Name          | Date of Launch | Maturity Date | Risk Profile | Net Assets     | Status<br>(Active/Matured) |
 | ----------------------------- | -------------- | ------------- | ------------ | -------------- | -------------------------- |
+| Stable Return Fund Plan-I     | 31-Aug-22      | 25-Aug-23     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-II    | 07-Dec-22      | 07-Dec-23     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-III   | 08-Mar-23      | 20-Jun-23     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-IV    | 07-Feb-24      | 25-Jun-25     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-V     | 12-Apr-23      | 05-Jul-23     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-VI    | 25-Oct-23      | 26-Jul-24     | Low          | N/A            | Matured                    |
+| Stable Return Fund Plan-VII   | 19-Jul-23      | 20-Oct-23     | Low          | N/A            | Matured                    |
 | Stable Return Fund Plan-VIII  | 21-Nov-23      | 19-Nov-24     | Low          | N/A            | Matured                    |
 | Stable Return Fund Plan-IX    | 24-Apr-24      | 07-Oct-24     | Low          | N/A            | Matured                    |
 | Stable Return Fund Plan-X     | 04-Apr-24      | 15-Nov-24     | Low          | N/A            | Matured                    |
@@ -4694,30 +4681,33 @@ FUND MANAGERS REPORT
 | Stable Return Fund Plan-XXIV  | 24-Oct-25      | 24-Oct-26     | Low          | 1,154,713,012  | Active                     |
 | Stable Return Fund Plan-XXV   | 12-Nov-25      | 09-Feb-26     | Low          | 10,865,322,363 | Active                     |
 | Stable Return Fund Plan-XXVI  | 19-Nov-25      | 12-Nov-26     | Low          | 1,005,011,541  | Active                     |
-|                               |                |               |              |                |                            |
 
 # Alfalah Stable Return Fund - Plan XVIII
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | Feb 28, 2025 (Maturity: Jan 09, 2026) |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward Day |
-| Target Return | 11.25% |
-| Risk Profile: | Medium |
-| Management Fee_**: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | Feb 28, 2025 (Maturity: Jan 09, 2026)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing\*\*\*\_:         | Forward Day                                                                                                                      |
+| Target Return            | 11.25%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\_\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 <sup>\*\*</sup>Since incention return is calculated on Compounded Annual Growth Rate (CAGR).
 \*\*\*\ Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
@@ -4739,15 +4729,16 @@ FUND MANAGERS REPORT
 
 ## **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 1,618 |
-| Fund Size including fund of fund schemes: (Pkr mn) | 1,618 |
-| NAV (PkR): | 104.61 |
-| Information Ratio | (0.02) |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 0.10 |
-| YTM | 10.6% |
-| Duration | 0.11 |
-| Modified Duration | 0.10 |
+| Fund Size PKR mn (Nov,2025)                        | 1,618  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 1,618  |
+| NAV (PkR):                                         | 104.61 |
+| Information Ratio                                  | (0.02) |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 0.10   |
+| YTM                                                | 10.6%  |
+| Duration                                           | 0.11   |
+| Modified Duration                                  | 0.10   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -4787,13 +4778,14 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 100.0% | A1+ | 0.0% |
-| AAA | 0.0% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.0% |
+| Govt. Securities (Rated AAA) | 100.0% | A1+  | 0.0% |
+| ---------------------------- | ------ | ---- | ---- |
+| AAA                          | 0.0%   | A1   | 0.0% |
+| AA+                          | 0.0%   | A-   | 0.0% |
+| AA                           | 0.0%   | BBB+ | 0.0% |
+| AA-                          | 0.0%   | BBB  | 0.0% |
+| A+                           | 0.0%   | IG   | 0.0% |
+| Α                            | 0.0%   | NR   | 0.0% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
@@ -4808,12 +4800,7 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Aug-25 | 11.63% |      9.98%       |
 | Sep-25 | 11.63% |      9.50%       |
 | Oct-25 | 11.63% |      10.47%      |
-| Nov-25 | 11.63% |      10.51%      |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
+| Nov-25 | 11.63% |      10.53%      |
 
 ## Disclaimer
 
@@ -4825,26 +4812,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XX
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | May 16, 2025 (Maturity: May 06, 2028) |
-| Par Value: | PKR 100/- |
-| Pricing: | Forward Day |
-| Target Return | 11.25% |
-| Risk Profile: | Medium |
-| Management Fee\*\*\*: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | May 16, 2025 (Maturity: May 06, 2028)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing:                 | Forward Day                                                                                                                      |
+| Target Return            | 11.25%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\*\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 \*\*\ Since inception return is calculated on Compounded Annual Growth Rate (CAGR)
 <sup>\*\*\*</sup> Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with
@@ -4866,15 +4857,16 @@ This publication is for informational purposes only and nothing herein should be
 
 ## **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 5,488 |
-| Fund Size including fund of fund schemes: (Pkr mn) | 5,488 |
-| NAV (PkR): | 103.72 |
-| Information Ratio | (0.02) |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 1.44 |
-| YTM | 11.3% |
-| Duration | 1.35 |
-| Modified Duration | 1.23 |
+| Fund Size PKR mn (Nov,2025)                        | 5,488  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 5,488  |
+| NAV (PkR):                                         | 103.72 |
+| Information Ratio                                  | (0.02) |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 1.44   |
+| YTM                                                | 11.3%  |
+| Duration                                           | 1.35   |
+| Modified Duration                                  | 1.23   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -4914,13 +4906,14 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 99.0% | A1+ | 0.0% |
-| AAA | 0.4% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.6% |
+| Govt. Securities (Rated AAA) | 99.0% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 0.4%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 0.0%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 0.6% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
@@ -4931,12 +4924,7 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Aug-25 | 11.41% |     8.76%     |
 | Sep-25 | 11.41% |     7.53%     |
 | Oct-25 | 11.41% |     6.49%     |
-| Nov-25 | 11.41% |    10.79%     |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
+| Nov-25 | 11.41% |    10.75%     |
 
 ## Disclaimer
 
@@ -4948,26 +4936,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XXI
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | May 25, 2025 (Maturity: May 20, 2028) |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward Day |
-| Target Return | : 6 Month Coupon Rate Of GOP Ijara Sukuk Issue 29 October 2021<br>(+/-) 10 Basis |
-| Risk Profile: | Medium |
-| Management Fee_**: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | May 25, 2025 (Maturity: May 20, 2028)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing\*\*\*\_:         | Forward Day                                                                                                                      |
+| Target Return            | : 6 Month Coupon Rate Of GOP Ijara Sukuk Issue 29 October 2021<br>(+/-) 10 Basis                                                 |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\_\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 <sup>\*\*</sup>Since incention return is calculated on Compounded Annual Growth Rate (CAGR).
 \*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with
@@ -4989,15 +4981,16 @@ This publication is for informational purposes only and nothing herein should be
 
 ## **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 2,908 |
-| Fund Size including fund of fund schemes: (Pkr mn) | 2,908 |
-| NAV (PkR): | 104.21 |
-| Information Ratio | (0.19) |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 0.90 |
-| YTM | 9.9% |
-| Duration | 0.41 |
-| Modified Duration | 0.39 |
+| Fund Size PKR mn (Nov,2025)                        | 2,908  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 2,908  |
+| NAV (PkR):                                         | 104.21 |
+| Information Ratio                                  | (0.19) |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 0.90   |
+| YTM                                                | 9.9%   |
+| Duration                                           | 0.41   |
+| Modified Duration                                  | 0.39   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -5038,13 +5031,14 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 98.9% | A1+ | 0.0% |
-| AAA | 0.1% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 1.0% |
+| Govt. Securities (Rated AAA) | 98.9% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 0.1%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 0.0%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 1.0% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
@@ -5057,11 +5051,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Oct-25 | 11.41% |     8.17%      |
 | Nov-25 | 11.41% |     10.18%     |
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 ## Disclaimer
 
 | For Dispute Resolution/Complaints Handling                              | SECP Complaints Handling |
@@ -5072,26 +5061,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XXII
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | Sep 10, 2025 (Maturity: Sep 04, 2026) |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward Day |
-| Target Return | 10.70% |
-| Risk Profile: | Medium |
-| Management Fee_**: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | Sep 10, 2025 (Maturity: Sep 04, 2026)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing\*\*\*\_:         | Forward Day                                                                                                                      |
+| Target Return            | 10.70%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\_\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 \*\*\ Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 <sup>\*\*\*</sup> Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
@@ -5111,15 +5104,16 @@ This publication is for informational purposes only and nothing herein should be
 
 ## **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 2,000 |
-| Fund Size including fund of fund schemes: (Pkr mn) | 2,000 |
-| NAV (PkR): | 102.11 |
-| Information Ratio | (0.16) |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 0.75 |
-| YTM | 11.1% |
-| Duration | 0.76 |
-| Modified Duration | 0.68 |
+| Fund Size PKR mn (Nov,2025)                        | 2,000  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 2,000  |
+| NAV (PkR):                                         | 102.11 |
+| Information Ratio                                  | (0.16) |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 0.75   |
+| YTM                                                | 11.1%  |
+| Duration                                           | 0.76   |
+| Modified Duration                                  | 0.68   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -5160,13 +5154,14 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total As sets)
 
-| Govt. Securities (Rated AAA) | 99.9% | A1+ | 0.0% |
-| AAA | 0.1% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.0% |
+| Govt. Securities (Rated AAA) | 99.9% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 0.1%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 0.0%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 0.0% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
@@ -5175,11 +5170,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Sep-25 | 10.97% |      3.85%      |
 | Oct-25 | 10.97% |     11.44%      |
 | Nov-25 | 10.97% |     11.05%      |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 ## Disclaimer
 
@@ -5191,26 +5181,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XXIII
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | Oct 14, 2025 (Maturity: Oct 14, 2026) |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward Day |
-| Target Return | 10.88% |
-| Risk Profile: | Medium |
-| Management Fee_**: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | Oct 14, 2025 (Maturity: Oct 14, 2026)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing\*\*\*\_:         | Forward Day                                                                                                                      |
+| Target Return            | 10.88%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\_\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 - \* Calculated on 12-month trailing data
 - \*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
@@ -5233,15 +5227,16 @@ This publication is for informational purposes only and nothing herein should be
 
 ## **FUND STATISTICS**
 
-| Fund Size PKR mn (Nov,2025) | 4,615 |
-| Fund Size including fund of fund schemes: (Pkr mn) | 4,615 |
-| NAV (PkR): | 101.30 |
-| Information Ratio | (0.12) |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 0.83 |
-| YTM | 11.1% |
-| Duration | 0.83 |
-| Modified Duration | 0.75 |
+| Fund Size PKR mn (Nov,2025)                        | 4,615  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 4,615  |
+| NAV (PkR):                                         | 101.30 |
+| Information Ratio                                  | (0.12) |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 0.83   |
+| YTM                                                | 11.1%  |
+| Duration                                           | 0.83   |
+| Modified Duration                                  | 0.75   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -5282,24 +5277,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ### PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 99.9% | A1+ | 0.0% |
-| AAA | 0.1% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.0% |
+| Govt. Securities (Rated AAA) | 99.9% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 0.1%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 0.0%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 0.0% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
 | Month  | BM (%) | ASRF - XXIII (%) |
 | :----- | :----: | :--------------: |
 | Nov-25 | 11.50% |      13.14%      |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 ## Disclaimer
 
@@ -5311,26 +5302,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XXIV
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| **Fund Stability Rating:** | Not Yet Rated |
-| **Category:** | Fixed Return |
-| **Fund Type:** | Open Ended |
-| **Benchmark:** | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| **Launch date:** | Oct 24, 2025 (Maturity: Oct 24, 2026) |
-| **Par Value:** | PKR 100/- |
-| **Pricing\*\***:** | Forward Day |
-| **Target Return:** | 10.60% |
-| **Risk Profile:** | Medium |
-| **Management Fee**\*:** | up to 1.50% per annum of the average daily net assets |
-| **Min. Initial Investment:**| PKR 500/- |
-| **Min. Suseq. Investment:** | NA |
-| **Auditor:** | Yousuf Adil Chartered Accountants |
-| **Trustee:** | CDC Pakistan |
-| **Listing:** | Pakistan Stock Exchange |
-| **Dealing Days:** | Monday - Friday |
-| **Cut-Off Time:** | 9:00 am - 4:00 pm |
-| **Leverage:** | NIL |
+| **Fund Stability Rating:**   | Not Yet Rated                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Category:**                | Fixed Return                                                                                                                     |
+| **Fund Type:**               | Open Ended                                                                                                                       |
+| **Benchmark:**               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| **Launch date:**             | Oct 24, 2025 (Maturity: Oct 24, 2026)                                                                                            |
+| **Par Value:**               | PKR 100/-                                                                                                                        |
+| **Pricing\*\***:\*\*         | Forward Day                                                                                                                      |
+| **Target Return:**           | 10.60%                                                                                                                           |
+| **Risk Profile:**            | Medium                                                                                                                           |
+| **Management Fee**\*:\*\*    | up to 1.50% per annum of the average daily net assets                                                                            |
+| **Min. Initial Investment:** | PKR 500/-                                                                                                                        |
+| **Min. Suseq. Investment:**  | NA                                                                                                                               |
+| **Auditor:**                 | Yousuf Adil Chartered Accountants                                                                                                |
+| **Trustee:**                 | CDC Pakistan                                                                                                                     |
+| **Listing:**                 | Pakistan Stock Exchange                                                                                                          |
+| **Dealing Days:**            | Monday - Friday                                                                                                                  |
+| **Cut-Off Time:**            | 9:00 am - 4:00 pm                                                                                                                |
+| **Leverage:**                | NIL                                                                                                                              |
 
 <sup>\*</sup> Calculated on 12-month trailing data
 _\*\ Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
@@ -5400,24 +5395,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 100.0% | A1+ | 0.0% |
-| AAA | 0.0% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.0% |
+| Govt. Securities (Rated AAA) | 100.0% | A1+  | 0.0% |
+| ---------------------------- | ------ | ---- | ---- |
+| AAA                          | 0.0%   | A1   | 0.0% |
+| AA+                          | 0.0%   | A-   | 0.0% |
+| AA                           | 0.0%   | BBB+ | 0.0% |
+| AA-                          | 0.0%   | BBB  | 0.0% |
+| A+                           | 0.0%   | IG   | 0.0% |
+| Α                            | 0.0%   | NR   | 0.0% |
 
 ## MONTHLY PERFORMANCE (%)
 
 | Month  | BM (%) | ASRF - XXIV (%) |
 | :----- | :----: | :-------------: |
 | Nov-25 | 11.17% |     10.89%      |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 ## Disclaimer
 
@@ -5429,26 +5420,30 @@ Thi s publication is for informational purposes only and nothing herein should b
 
 # **Alfalah Stable Return Fund - Plan XXV**
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | Nov 11, 2025 (Maturity: Feb 09,2026) |
-| Par Value: | PKR 100/- |
-| Pricing: | Forward Day |
-| Target Return | 10.80% |
-| Risk Profile: | Medium |
-| Management Fee\*\*\*: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | Nov 11, 2025 (Maturity: Feb 09,2026)                                                                                             |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing:                 | Forward Day                                                                                                                      |
+| Target Return            | 10.80%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\*\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 <sup>\*\*</sup>Since incention return is calculated on Compounded Annual Growth Rate (CAGR).
 \*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with
@@ -5518,24 +5513,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
-| Govt. Securities (Rated AAA) | 90.2% | A1+ | 0.0% |
-| AAA | 0.0% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 9.7% | IG | 0.0% |
-| Α | 0.0% | NR | 0.1% |
+| Govt. Securities (Rated AAA) | 90.2% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 0.0%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 9.7%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 0.1% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
 | Month  | BM (%) | ASRF - XXV (%) |
 | :----- | :----: | :------------: |
 | Nov-25 | 10.92% |     10.90%     |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 ## Disclaimer
 
@@ -5549,26 +5540,30 @@ This publication is for informational purposes only and nothing herein should be
 
 # Alfalah Stable Return Fund - Plan XXVI
 
+AMC Rating: “AM1” by VIS 02-Jan-25
+AMC rating: “AM1” by PACRA 29-August-25
+
 ## FUND INFORMATION
 
-| Fund Stability Rating: | Not Yet Rated |
-| Category: | Fixed Return |
-| Fund Type: | Open Ended |
-| Benchmark: | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
-| Launch date: | Nov 11, 2025 (Maturity: Nov 12, 2026) |
-| Par Value: | PKR 100/- |
-| Pricing\***_: | Forward Day |
-| Target Return | 11.50% |
-| Risk Profile: | Medium |
-| Management Fee_**: | up to 1.50% per annum of the average daily net assets |
-| Min. Initial Investment: | PKR 500/- |
-| Min. Suseq. Investment: | NA |
-| Auditor: | Yousuf Adil Chartered Accountants |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | Not Yet Rated                                                                                                                    |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Fixed Return                                                                                                                     |
+| Fund Type:               | Open Ended                                                                                                                       |
+| Benchmark:               | PKRV rates on the last date of IOP of the investment plan with maturity period corresponding to the maturity of Investment Plan. |
+| Launch date:             | Nov 11, 2025 (Maturity: Nov 12, 2026)                                                                                            |
+| Par Value:               | PKR 100/-                                                                                                                        |
+| Pricing\*\*\*\_:         | Forward Day                                                                                                                      |
+| Target Return            | 11.50%                                                                                                                           |
+| Risk Profile:            | Medium                                                                                                                           |
+| Management Fee\_\*\*:    | up to 1.50% per annum of the average daily net assets                                                                            |
+| Min. Initial Investment: | PKR 500/-                                                                                                                        |
+| Min. Suseq. Investment:  | NA                                                                                                                               |
+| Auditor:                 | Yousuf Adil Chartered Accountants                                                                                                |
+| Trustee:                 | CDC Pakistan                                                                                                                     |
+| Listing:                 | Pakistan Stock Exchange                                                                                                          |
+| Dealing Days:            | Monday - Friday                                                                                                                  |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
+| Leverage:                | NIL                                                                                                                              |
 
 <sup>\*\*</sup>Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 \*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP
@@ -5639,24 +5634,20 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total As sets)
 
-| Govt. Securities (Rated AAA) | 99.0% | A1+ | 0.0% |
-| AAA | 1.0% | A1 | 0.0% |
-| AA+ | 0.0% | A- | 0.0% |
-| AA | 0.0% | BBB+ | 0.0% |
-| AA- | 0.0% | BBB | 0.0% |
-| A+ | 0.0% | IG | 0.0% |
-| Α | 0.0% | NR | 0.0% |
+| Govt. Securities (Rated AAA) | 99.0% | A1+  | 0.0% |
+| ---------------------------- | ----- | ---- | ---- |
+| AAA                          | 1.0%  | A1   | 0.0% |
+| AA+                          | 0.0%  | A-   | 0.0% |
+| AA                           | 0.0%  | BBB+ | 0.0% |
+| AA-                          | 0.0%  | BBB  | 0.0% |
+| A+                           | 0.0%  | IG   | 0.0% |
+| Α                            | 0.0%  | NR   | 0.0% |
 
 ## **MONTHLY PERFORMANCE (%)**
 
 | Month  | BM (%) | ASRF - XXVI (%) |
 | :----- | :----: | :-------------: |
 | Nov-25 | 11.33% |     15.24%      |
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 ## Disclaimer
 
@@ -5665,11 +5656,3 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Email: complaint@alfalahamc.com Callus at 0300-0707417, +92 111 090 090 | www.sdms.secp.gov.pk     |
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments i n mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies a nd risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment a nd/or upon redemption of funds, at the discretion of the management company.
-
-# **HELPING YOU REACH YOUR**
-
-# FINANCIAL SUMMIT
-
-## Alfalah Asset Management limited
-
-Islamic Chamber Of Commerce Industry & Agriculture Building, 2nd Floor ST-2/A Block 9, KDA Scheme 5, Clifton, Karachi UAN: +92 (21) 111 090 090 | Fax: +92 (21) 35306752 | Website: www.alfalahamc.com
