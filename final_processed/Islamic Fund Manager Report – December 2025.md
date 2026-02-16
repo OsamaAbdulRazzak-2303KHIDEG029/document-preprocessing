@@ -1,13 +1,6 @@
-
-ISLAMIC
 # FUND MANAGERS REPORT of December, 2025
 
-021-111-090-090 | www.alfalahamc.com                                                #WealthUnlocked
-
-
-
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 RATED AM1 by VIS & PACRA
 
@@ -46,7 +39,6 @@ Alfalah Investments
 | 19  | Alfalah Islamic KPK Employee pension Fund      | Shariah Compliant Voluntary Pension Fund scheme |        |
 | a)  | Money Market Sub Fund                          |                                                 | Low    |
 
-
 021-111-090-090 | www.alfalahamc.com
 
 #WealthUnlocked
@@ -80,10 +72,9 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                     |
 | Leverage:                | NIL                                                                                                                                                                                                                   |
 
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-
-*** Management fee of the fund has been amended from July 01, 2025 through 08th supplemental OD with consent of the SECP.
+\*\*\* Management fee of the fund has been amended from July 01, 2025 through 08th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -103,11 +94,6 @@ The investment objective of the Fund is to generate regular and stable returns b
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
-
-ASSET ALLOCATION (% of Total Assets)
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | Total Expense Ratio Breakup | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -115,8 +101,7 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.55%   | 0.08%          | 0.06%       | 0.09%          | 0.00%                | 0.00%                | 0.00%          | 0.78%                 | 0.69%                    |
 | YTD                         | 0.61%   | 0.08%          | 0.06%       | 0.10%          | 0.01%                | 0.00%                | 0.00%          | 0.85%                 | 0.75%                    |
 
-
-*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 3,489.1 millions making 4.8% of total Assets
+**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 3,489.1 millions making 4.8% of total Assets
 
 ## FUND PERFORMANCE
 
@@ -125,15 +110,13 @@ ASSET ALLOCATION (% of Total Assets)
 | Since Inception Return\*\* | 9.71% | 16.75% |
 | FY26TD                     | 9.63% | 10.05% |
 | December-25                | 9.51% | 9.96%  |
-
+| 365 Days                   | 9.80% | 10.47% |
 
 Avg. Peer Group Return for Dec, 2025 was 9.63%
 
 5 year Avg. Peer Group Return for Dec, 2025 was 13.81%
 
-| 365 Days | 9.80% | 10.47% |
 | -------- | ----- | ------ |
-
 
 Amount invested by fund of funds is Rs. 286.5 million substracted from total
 
@@ -150,7 +133,6 @@ Amount invested by fund of funds is Rs. 286.5 million substracted from total
 | Duration                                           | 0.03   |
 | Modified Duration                                  | 0.03   |
 
-
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
 | Govt. Securities (Rated AAA) | 4.8%  | A1+  | 8.6% |
@@ -161,11 +143,6 @@ Amount invested by fund of funds is Rs. 286.5 million substracted from total
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.1% |
-
-
-
-
-
 
 ## Top 10 TFC/SUKUK HOLDINGS (% of Total Assets)
 
@@ -181,16 +158,12 @@ Amount invested by fund of funds is Rs. 286.5 million substracted from total
 | Mahmood Textile Mills Limited - Sukuk                       | 0.59% |
 | Daewoo Pakistan Express Bus Services Limited - SUKUK        | 0.41% |
 
-
 ## Historical Performance
 
-|       |  FY24 |   FY25    |
+|       | FY24  | FY25  |
 | ----- | ----- | ----- |
 | AIMMF | 21.9% | 14.1% |
 | BM    | 10.3% | 9.9%  |
-
-
-
 
 ## Disclaimer
 
@@ -204,10 +177,10 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Rozana Amdani Fund
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -233,10 +206,9 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                    |
 | Leverage:                | NIL                                                                                                                                                                                                                  |
 
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-
-*** Management fee of the fund has been amended from July 01, 2025 through 13th supplemental OD with consent of the SECP.
+\*\*\* Management fee of the fund has been amended from July 01, 2025 through 13th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -256,11 +228,7 @@ The objective of Alfalah Islamic Rozana Amdani Fund (AIRAF) is to provide compet
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
-
-
-ASSET ALLOCATION (% of Total Assets)<br>*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 480.1 millions making 12.3% of total Assets
+ASSET ALLOCATION (% of Total Assets)<br>**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 480.1 millions making 12.3% of total Assets
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -269,17 +237,15 @@ ASSET ALLOCATION (% of Total Assets)<br>*****Government Debt securities (GDS) wi
 | MTD                         | 1.00% | 0.08%          | 0.06%       | 0.16%          | 0.04%                | 0.09%                | 0.00%          | 1.42%                 | 1.26%                    |
 | YTD                         | 1.21% | 0.08%          | 0.06%       | 0.19%          | 0.02%                | 0.02%                | 0.00%          | 1.57%                 | 1.38%                    |
 
-
-*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 480.1 millions making 12.3% of total Assets
+**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 480.1 millions making 12.3% of total Assets
 
 ## FUND PERFORMANCE
 
-|                            | BM |   AIRAF     |
+|                            | BM    | AIRAF  |
 | -------------------------- | ----- | ------ |
 | Since Inception Return\*\* | 7.07% | 11.28% |
 | FY26TD                     | 9.63% | 9.12%  |
 | December-25                | 9.51% | 9.13%  |
-
 
 Avg. Peer Group Return for Dec, 2025 was 9.63%
 5 year Avg. Peer Group Return for Dec, 2025 was 13.81%
@@ -288,7 +254,6 @@ Avg. Peer Group Return for Dec, 2025 was 9.63%
 | -------- | ----- | ------ |
 | 3-Year   | 9.44% | 12.39% |
 | 5-Year   | 7.30% | 11.55% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -300,7 +265,6 @@ Avg. Peer Group Return for Dec, 2025 was 9.63%
 | AA-                          | 0.0%  | BBB  | 0.0%  |
 | A+                           | 0.0%  | IG   | 0.0%  |
 | A                            | 0.0%  | NR   | 3.2%  |
-
 
 ## FUND STATISTICS
 
@@ -315,10 +279,7 @@ Avg. Peer Group Return for Dec, 2025 was 9.63%
 | Duration                                           | 0.06   |
 | Modified Duration                                  | 0.05   |
 
-
 Amount invested by fund of funds is Rs. 1.6 million substracted from total
-
-
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
 
@@ -329,7 +290,6 @@ Amount invested by fund of funds is Rs. 1.6 million substracted from total
 | DIGITAL WORLD PAKISTAN PRIVATE LIMITED - STS-           | 1.67% |
 | Nishat Mills Limited - Sukuk Issuance 06-11-2025        | 0.64% |
 
-
 ## Historical Performance
 
 | FY21  | FY22 | FY23 | FY24  | FY25  |      |
@@ -337,14 +297,12 @@ Amount invested by fund of funds is Rs. 1.6 million substracted from total
 | AIRAF | 6.6% | 9.7% | 17.1% | 22.1% | 9.2% |
 | BM    | 3.3% | 3.6% | 6.1%  | 10.0% | 9.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name                                | Type          | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ----------------------------------- | ------------- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | Pak Oman Investment Company Limited | Single Entity | 1,040,528,833.00          | 0.00                      | 1,040,528,833.00         | 26.71%         | 27.06%       |
 | UBL                                 | Single Entity | 1,018,237,748.00          | 0.00                      | 1,018,237,748.00         | 26.14%         | 26.48%       |
-
 
 ## Disclaimer
 
@@ -355,8 +313,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
-
 
 # Alfalah GHP Islamic Income Fund
 
@@ -385,9 +341,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                               |
 | Leverage:                | NIL                                                                                                                                                                                                             |
 
-
-*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 12th supplemental OD with consent of the SECP.
+\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
+\*\*\* Management fee of the fund has been amended from July 01, 2025 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -407,14 +362,12 @@ The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimi
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | Total Expense Ratio Breakup | M.F   | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
 | --------------------------- | ----- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 1.50% | 0.08%          | 0.08%       | 0.24%          | 0.00%                | 0.09%                | 0.00%          | 1.98%                 | 1.74%                    |
 | YTD                         | 1.48% | 0.08%          | 0.08%       | 0.23%          | 0.01%                | 0.03%                | 0.00%          | 1.90%                 | 1.67%                    |
-
 
 ## FUND PERFORMANCE
 
@@ -424,7 +377,6 @@ The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimi
 | FY26TD                     | 9.39% | 9.33% |
 | December-25                | 9.30% | 8.96% |
 
-
 Avg. Peer Group Return for Dec, 2025 was 10.00%
 5 year Avg. Peer Group Return for Dec, 2025 was 13.30%
 
@@ -432,7 +384,6 @@ Avg. Peer Group Return for Dec, 2025 was 10.00%
 | -------- | ------ | ------ |
 | 3-Year   | 9.61%  | 16.04% |
 | 5-Year   | 7.31%  | 13.27% |
-
 
 ## FUND STATISTICS
 
@@ -446,7 +397,6 @@ Avg. Peer Group Return for Dec, 2025 was 10.00%
 | YTM                                                | 11.2%  |
 | Duration                                           | 0.11   |
 | Modified Duration                                  | 0.10   |
-
 
 Amount invested by fund of funds is Rs. 63.9 million substracted from total
 
@@ -464,7 +414,6 @@ Amount invested by fund of funds is Rs. 63.9 million substracted from total
 | Nishat Mills Limited - Sukuk Issuance 06-11-2025            | 0.60% |
 | OBS AGP (PRIVATE) LIMITED - SUKUK                           | 0.55% |
 
-
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
 | Govt. Securities (Rated AAA) | 4.6%  | A1+  | 11.1% |
@@ -476,24 +425,19 @@ Amount invested by fund of funds is Rs. 63.9 million substracted from total
 | A+                           | 18.8% | IG   | 0.0%  |
 | A                            | 0.0%  | NR   | 2.4%  |
 
-
-
-
 MONTHLY PERFORMANCE (%)
 
 ## Historical Performance
 
-|       | FY21  | FY22 | FY23 | FY24  | FY25  |       
+|       | FY21 | FY22 | FY23  | FY24  | FY25  |
 | ----- | ---- | ---- | ----- | ----- | ----- |
 | AGIIF | 6.4% | 9.1% | 14.9% | 21.1% | 13.8% |
 | BM    | 3.6% | 3.3% | 6.1%  | 10.1% | 10.4% |
-
 
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -504,10 +448,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
-
-
-
 
 Fund Managers' Report December-2025
 
@@ -538,10 +478,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                   |
 | Leverage:                | NIL                                                                 |
 
-
-* Calculated on 12-month trailing data.
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 11th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 11th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -561,9 +499,6 @@ Alfalah GHP Islamic Stock Fund (AGISF) is an Open Ended Shariah Compliant Islami
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -573,7 +508,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | MTD                         | 3.00% | 0.10%          | 0.11%       | 0.63%          | 1.21%                | 0.03%                | 0.00%          | 5.07%                 | 4.44%                    |
 | YTD                         | 3.00% | 0.10%          | 0.12%       | 0.60%          | 0.97%                | 0.03%                | 0.00%          | 4.82%                 | 4.22%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AGISF  |        |
@@ -582,7 +516,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | FY26TD                     | 34.43% | 28.63% |
 | December-25                | 3.85%  | 3.94%  |
 
-
 Avg. Peer Group Return for Dec, 2025 was 3.50%
 5 year Avg. Peer Group Return for Dec, 2025 was 2.49%
 
@@ -590,7 +523,6 @@ Avg. Peer Group Return for Dec, 2025 was 3.50%
 | -------- | ------ | ------ |
 | 3-Year   | 53.77% | 56.38% |
 | 5-Year   | 28.40% | 26.87% |
-
 
 ## TOP 10 HOLDINGS (% of Total Assets)
 
@@ -606,7 +538,6 @@ Avg. Peer Group Return for Dec, 2025 was 3.50%
 | Engro Holdings Limited                | 3.58% |
 | Pioneer Cement Limited                | 3.52% |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Cement                          | 16.58% |
@@ -617,7 +548,6 @@ Avg. Peer Group Return for Dec, 2025 was 3.50%
 | Commercial Banks                | 8.06%  |
 | Others                          | 34.87% |
 | Total                           | 96.20% |
-
 
 ## FUND STATISTICS
 
@@ -631,14 +561,12 @@ Avg. Peer Group Return for Dec, 2025 was 3.50%
 | Standard Deviation\*                               | 2.8%  |
 | Beta\*                                             | 0.93  |
 
-
 ## Historic Returns:
 
 | FY21  | FY22  | FY23   | FY24 | FY25  |       |
 | ----- | ----- | ------ | ---- | ----- | ----- |
 | AGISF | 36.8% | -18.7% | 1.3% | 93.4% | 50.1% |
 | BM    | 39.3% | -10.3% | 2.9% | 78.7% | 46.2% |
-
 
 ## Disclaimer
 
@@ -650,12 +578,10 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-
-
-
-
 Fund Managers' Report December-2025
+
 # Alfalah GHP Islamic Dedicated Equity Fund
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -681,10 +607,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                   |
 | Leverage:                | NIL                                                                 |
 
-
-* Calculated on 12-month trailing data.
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 9th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 9th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -704,8 +628,6 @@ Alfalah GHP Islamic Dedicated Equity Fund (AGIDEF) is an Open-end Shariah Compli
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -714,7 +636,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | --------------------------- | ------- | -------------- | --------------- | --------------- | -------------------- | -------------------- | -------------------------- | ------------------------ | ----- |
 | MTD                         | 3.00%   | 0.10%          | 0.20%           | 0.88%           | 2.99%                | 1.17%                | 0.00%                      | 8.34%                    | 7.46% |
 | YTD                         | 2.98%   | 0.09%          | 0.20%           | 0.61%           | 1.43%                | 0.99%                | 0.00%                      | 6.31%                    | 5.70% |
-
 
 ## FUND PERFORMANCE
 
@@ -726,7 +647,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | 365 Days                   | 39.13% | 28.07% |
 | 3-Year                     | 53.77% | 52.06% |
 | 5-Year                     | 28.40% | 24.58% |
-
 
 Avg. Peer Group Return for Dec, 2025 was 3.50%
 5 year Avg. Peer Group Return for Dec, 2025 was 2.49%
@@ -742,7 +662,6 @@ Avg. Peer Group Return for Dec, 2025 was 3.50%
 | Portfolio Turnover Ratio                           | 4.5%   |
 | Standard Deviation\*                               | 1.1%   |
 | Beta\*                                             | 0.92   |
-
 
 Amount invested by fund of funds is Rs. 265.6 million substracted from total
 
@@ -760,8 +679,6 @@ Amount invested by fund of funds is Rs. 265.6 million substracted from total
 | Pioneer Cement Limited                | 3.27%  |
 | Mari Petroleum Company Limited        | 3.24%  |
 
-
-
 MONTHLY PERFORMANCE
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
@@ -775,7 +692,6 @@ MONTHLY PERFORMANCE
 | Others                          | 32.05% |
 | Total                           | 96.76% |
 
-
 ### Historic Returns:
 
 | FY21   | FY22  | FY23   | FY24  | FY25  |       |
@@ -783,12 +699,10 @@ MONTHLY PERFORMANCE
 | AGIDEF | 38.0% | -20.0% | -0.8% | 82.6% | 51.3% |
 | BM     | 39.3% | -10.3% | 2.9%  | 78.7% | 46.2% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -799,9 +713,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
-
-
 
 Fund Managers' Report December-2025
 
@@ -832,10 +743,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-
-* Calculated on 12-month trailing data.
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 08th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 08th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -855,7 +764,6 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -864,7 +772,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | --------------------------- | ------- | -------------- | --------------- | --------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 0.15%   | 0.10%          | 0.08%           | 0.05%           | 0.09%                | 0.43%                | 0.00%          | 0.90%                 | 0.85%                    |
 | YTD                         | 0.15%   | 0.10%          | 0.08%           | 0.04%           | 0.08%                | 0.24%                | 0.00%          | 0.68%                 | 0.64%                    |
-
 
 ## FUND PERFORMANCE
 
@@ -876,7 +783,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | 365 Days                   | 10.36% | 10.74% |
 | 3-Year                     | 9.90%  | 18.32% |
 | 5-Year                     | 7.46%  | 15.16% |
-
 
 ## TOP 10 HOLDINGS (% of Total Assets)
 
@@ -892,7 +798,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Bank lslami Pakistan Ltd Suk Tier-l                    | 1.70%  |
 | OBS AGP (PVT) LTD. - SUKUK (15-07-21)                  | 0.99%  |
 
-
 ## HOLDINGS (Sector Wise as a % of Total Assets)
 
 | Commercial Banks                | 22.81% |
@@ -902,7 +807,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Pharmaceuticals                 | 0.99%  |
 | Technology & Communication      | 0.64%  |
 | Total                           | 46.96% |
-
 
 ## FUND STATISTICS
 
@@ -919,10 +823,7 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Duration                                           | 0.00   |
 | Modified Duration                                  | 0.00   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
-
-
 
 ## Historical Performance
 
@@ -931,12 +832,10 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | AGIVF | 7.9% | 9.3% | 17.5% | 22.0% | 15.9% |
 | BM    | 3.6% | 3.4% | 6.1%  | 10.6% | 10.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -950,17 +849,13 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 # ISLAMIC SOVEREIGN INCOME FUNDS
- SHARIAH FUND MANAGERS REPORT
+
+SHARIAH FUND MANAGERS REPORT
 
 021-111-090-090 | www.alfalahamc.com
 
 #WealthUnlocked
-
-
-
 
 # Investment Plans Summary Report for December 2025 of Alfalah Islamic Sovereign Fund Plan
 
@@ -968,11 +863,10 @@ This publication is for informational purposes only and nothing herein should be
 
 | CIS Name                                            | Alfalah Islamic Sovereign Fund Plan |
 | --------------------------------------------------- | ----------------------------------- |
-| Date of Launch/IOP                                  |                                    |
-| Total Number of Investment Plans (Active & Matured) |   3                                |
-| Cumulative Net Assets (CIS)                         | 7,987,216,844                      |
-| Risk Profile (CIS)                                  | Low                                |
-
+| Date of Launch/IOP                                  |                                     |
+| Total Number of Investment Plans (Active & Matured) | 3                                   |
+| Cumulative Net Assets (CIS)                         | 7,987,216,844                       |
+| Risk Profile (CIS)                                  | Low                                 |
 
 ## CIS Level Expense Breakdown
 
@@ -983,7 +877,6 @@ This publication is for informational purposes only and nothing herein should be
 | Formation Cost Amortization | 20,953    |
 | Other Expenses              | 8,743,935 |
 
-
 ## Investment Plan Overview
 
 | Investment Plan Name             | Date of Launch | Maturity Date | Risk Profile | Net Assets    | Status (Active/Matured) |
@@ -992,15 +885,10 @@ This publication is for informational purposes only and nothing herein should be
 | Alfalah Islamic Sovereign Plan-2 | 13-Dec-23      | 13-Dec-26     | Medium       | 2,660,817,656 | Active                  |
 | Alfalah Islamic Sovereign Plan-3 | 22-Aug-24      | 22-Aug-27     | Medium       | 2,520,597,981 | Active                  |
 
-
-
-
-
-
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Sovereign Fund - Plan I
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -1026,9 +914,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
 | Leverage:                | NIL                                                                                                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 06th supplemental OD with consent of the SECP.
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 06th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -1055,7 +941,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | MTD                         | 0.74%   | 0.07%          | 0.05%       | 0.12%          | 0.01%                | 0.01%                | 0.01%          | 1.02%                 | 0.90%                    |
 | YTD                         | 1.08%   | 0.08%          | 0.06%       | 0.17%          | 0.02%                | 0.01%                | 0.01%          | 1.42%                 | 1.25%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISF-I |        |
@@ -1064,13 +949,11 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | FY26TD                     | 9.82%  | 9.74%  |
 | December-25                | 9.73%  | 12.85% |
 
-
 Avg. Peer Group Return for Dec, 2025 was 10.86%
 5 year Avg. Peer Group Return for Dec, 2025 was 13.68%
 
 | 365 Days | 10.59% | 8.71% |
 | -------- | ------ | ----- |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -1087,7 +970,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Duration                                           | 0.67   |
 | Modified Duration                                  | 0.63   |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
@@ -1101,21 +983,14 @@ ASSET ALLOCATION (% of Total Assets)
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 2.4% |
 
-
-
-
-
 MONTHLY PERFORMANCE (%)
 
 ## Historical Performance
 
-|    |     FY25      |
+|        | FY25  |
 | ------ | ----- |
 | AISF-I | 13.5% |
 | BM     | 13.2% |
-
-
-
 
 ## Disclaimer
 
@@ -1129,10 +1004,10 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Sovereign Fund - Plan II
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -1158,9 +1033,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
 | Leverage:                | NIL                                                                                                                                                                                                              |
 
-
-** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 06th supplemental OD with consent of the SECP.
+** Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 06th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -1180,7 +1053,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -1190,7 +1062,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.50%   | 0.08%          | 0.06%       | 0.23%          | 0.02%                | 0.01%                | 0.00%          | 1.89%                 | 1.66%                    |
 | YTD                         | 1.49%   | 0.08%          | 0.06%       | 0.23%          | 0.03%                | 0.02%                | 0.00%          | 1.91%                 | 1.67%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISF-II |        |
@@ -1199,13 +1070,11 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 9.82%   | 9.07%  |
 | December-25                | 9.73%   | 11.89% |
 
-
 Avg. Peer Group Return for Dec, 2025 was 10.86%
 5 year Avg. Peer Group Return for Dec, 2025 was 13.68%
 
 | 365 Days | 10.39% | 8.22% |
 | -------- | ------ | ----- |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -1220,7 +1089,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 2.3% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Dec,2025)                        | 2,661  |
@@ -1234,15 +1102,11 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Duration                                           | 1.13   |
 | Modified Duration                                  | 1.07   |
 
-
-
-
-
 Credit Quality (% of Total Assets)
 
 ## Historical Performance
 
-|     |       FY25     |
+|         | FY25   |
 | ------- | ------ |
 | AISF-II | 13.22% |
 | BM      | 13.16% |
@@ -1257,13 +1121,12 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Sovereign Fund - Plan III
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-24
 
@@ -1289,11 +1152,8 @@ AMC rating: "AM1" by PACRA 29-August-24
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                |
 | Leverage:                | NIL                                                                                                                                                                                                              |
 
-
-* Calculated on 12-month trailing data.
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
-
+- Calculated on 12-month trailing data.
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -1320,7 +1180,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | MTD                         | 0.40%   | 0.08%          | 0.06%       | 0.07%          | 0.04%                | 0.01%                | 0.00%          | 0.65%                 | 0.57%                    |
 | YTD                         | 0.38%   | 0.08%          | 0.06%       | 0.07%          | 0.02%                | 0.01%                | 0.00%          | 0.62%                 | 0.55%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISF-III |        |
@@ -1329,13 +1188,11 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | FY26TD                     | 9.82%    | 10.57% |
 | December-25                | 9.73%    | 12.38% |
 
-
 Avg. Peer Group Return for Dec, 2025 was 10.86%
 5 year Avg. Peer Group Return for Dec, 2025 was 13.68%
 
 | 365 Days | 10.59% | 8.65% |
 | -------- | ------ | ----- |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -1352,7 +1209,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Duration                                           | 1.06   |
 | Modified Duration                                  | 1.01   |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
@@ -1366,8 +1222,6 @@ ASSET ALLOCATION (% of Total Assets)
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 2.0% |
 
-
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -1380,14 +1234,11 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 Alfalah Investments
 Islamic
 
 RATED AM1
 By VIS & PACRA
-
 
 # Investment Plans Summary Report for December 2025 of Alfalah Islamic Prosperity Planning Fund
 
@@ -1396,10 +1247,9 @@ By VIS & PACRA
 | CIS Name                                            | Alfalah Islamic Prosperity Planning Fund |
 | --------------------------------------------------- | ---------------------------------------- |
 | Date of Launch/IOP                                  |                                          |
-| Total Number of Investment Plans (Active & Matured) |    3                                     |
+| Total Number of Investment Plans (Active & Matured) | 3                                        |
 | Cumulative Net Assets (CIS)                         | 705,380,667                              |
-| Risk Profile (CIS)                                  |    Low                                   |
-
+| Risk Profile (CIS)                                  | Low                                      |
 
 ## CIS Level Expense Breakdown:
 
@@ -1410,7 +1260,6 @@ By VIS & PACRA
 | Formation Cost Amortization | -       |
 | Other Expenses              | 355,203 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name                                               | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status (Active/Matured) |
@@ -1419,14 +1268,10 @@ By VIS & PACRA
 | Alfalah Islamic Prosperity Planning Fund-Active Allocation Plan-II | 14-Mar-22      | Perpetual     | High         | 212,667,711 | Active                  |
 | Alfalah Islamic Prosperity Planning Fund-Moderate Allocation Plan  | 9-Jun-16       | Perpetual     | Medium       | 352,898,155 | Active                  |
 
-
 RATED by VIS & PACRA
 AM1
 
-
 ---
-
-
 
 Fund Managers' Report December-2025
 
@@ -1461,7 +1306,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | AGIPPF-MAP               | Medium Risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | AGIPPF-AAP               | High Risk                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-
 ## INVESTMENT OBJECTIVE
 
 Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint Fund of Funds Scheme that aims to generate returns on investment as per the respective Allocation Plan by investing in Shariah complaint Mutual funds in line with the risk tolerance of the investor.
@@ -1480,7 +1324,6 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | M.F    | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |       |
@@ -1489,9 +1332,8 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | AGIMAP | 0.38%          | 0.07%       | 0.07%          | 0.07%                | 0.01%                | 0.18%          | 0.00%                 | 0.78%                    | 0.71% |
 | AGIAAP | 0.31%          | 0.08%       | 0.07%          | 0.06%                | 0.02%                | 0.33%          | 0.00%                 | 0.86%                    | 0.81% |
 
-
-*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).*
-*\*\*\* Management fee of the fund has been amended from July 01, 2025 through 12th supplemental OD with consent of the SECP.*
+_\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR)._
+_\*\*\* Management fee of the fund has been amended from July 01, 2025 through 12th supplemental OD with consent of the SECP._
 
 ## Alfalah GHP Islamic Balanced Allocation Plan
 
@@ -1506,7 +1348,6 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | 3-Year                   | 16.38% | 21.32% |
 | 5-Year                   | 10.98% | 15.93% |
 
-
 ### FUND STATISTICS
 
 | Fund Size PKR mn (Dec,2025)                        | 352.9  |
@@ -1515,10 +1356,9 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | NAV (PkR):                                         | 109.02 |
 | Portfolio Turnover Ratio                           | 0.92%  |
 
-
 ### ASSET ALLOCATION (Holdings as % of Total Assets)
 
-|              | Nov-25   | Dec-25 |
+|              | Nov-25  | Dec-25  |
 | ------------ | ------- | ------- |
 | Cash         | 57.22%  | 0.31%   |
 | Equity       | 7.81%   | 19.48%  |
@@ -1527,17 +1367,13 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | Others       | 0.51%   | 0.46%   |
 | Total        | 100.00% | 100.00% |
 
-
 ASSET ALLOCATION (Holding as % of Total Assets)
-
-
-
 
 ## Alfalah GHP Islamic Moderate Allocation Plan
 
 ### FUND PERFORMANCE
 
-|                        |   BM  |     MAP   |
+|                          | BM     | MAP    |
 | ------------------------ | ------ | ------ |
 | Since Inception Return\* | 9.21%  | 13.36% |
 | FY26TD                   | 16.36% | 11.93% |
@@ -1546,10 +1382,9 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | 3-Year                   | 20.57% | 28.15% |
 | 5-Year                   | 13.45% | 20.74% |
 
-
 ### ASSET ALLOCATION (Holdings as % of Total Assets)
 
-|              | Nov-25  |  Dec-25 |
+|              | Nov-25  | Dec-25  |
 | ------------ | ------- | ------- |
 | Cash         | 34.90%  | 57.04%  |
 | Equity       | 25.36%  | 17.47%  |
@@ -1558,7 +1393,6 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | Others       | 2.94%   | 0.64%   |
 | Total        | 100.00% | 100.00% |
 
-
 ### FUND STATISTICS
 
 | Fund Size PKR mn (Dec,2025)                        | 139.8  |
@@ -1566,9 +1400,6 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | Fund Size including fund of fund schemes: (PKR mn) | 139.8  |
 | NAV (PkR):                                         | 116.86 |
 | Portfolio Turnover Ratio                           | 0.00%  |
-
-
-
 
 ## Alfalah GHP Islamic Active Allocation Plan 2
 
@@ -1583,10 +1414,9 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | 3-Year                   | 31.86% | 40.23% |
 | 5-Year                   | 18.97% | 23.01% |
 
-
 ### ASSET ALLOCATION (Holdings as % of Total Assets)
 
-|              |Nov-25    |  Dec-25|
+|              | Nov-25  | Dec-25  |
 | ------------ | ------- | ------- |
 | Cash         | 0.87%   | 2.67%   |
 | Equity       | 49.97%  | 79.75%  |
@@ -1594,7 +1424,6 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | Money Market | 47.30%  | 13.41%  |
 | Others       | 1.79%   | 4.15%   |
 | Total        | 100.00% | 100.00% |
-
 
 ### FUND STATISTICS
 
@@ -1604,14 +1433,7 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | NAV (PkR):                                         | 103.07  |
 | Portfolio Turnover Ratio                           | 108.16% |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah GHP Islamic Active Allocation Plan 2
-
-
-
-
-
-
 
 ## Disclaimer
 
@@ -1625,12 +1447,11 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 
 ---
 
-
-
 Fund Managers' Report December-2025
 
 # Alfalah GHP Islamic Prosperity Planning Fund - II
- (Alfalah KTrade Islamic Plan 7)
+
+(Alfalah KTrade Islamic Plan 7)
 
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
@@ -1658,7 +1479,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                              |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                            |
 
-
 ## INVESTMENT OBJECTIVE
 
 The objective of the plan is to to earn a potentially high return through dynamic asset allocation between Islamic Equity Scheme, Islamic Money Market scheme and Islamic Income Scheme based Collective Investment Schemes (CIS) using CPPI methodology and cash & near cash instruments, while providing Capital Preservation of the Initial Investment Value at maturity of the plan based on the Fund Manager's outlook on the assets classes.
@@ -1677,17 +1497,14 @@ The objective of the plan is to to earn a potentially high return through dynami
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
-|      |M.F            | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |      
-| --- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ | ----- |
-| MTD | 0.01%          | 0.08%       | 0.07%          | 0.01%                | 0.02%                | 0.85%          | 0.00%                 | 1.04%                    | 1.02% |
-| YTD | 0.03%          | 0.08%       | 0.07%          | 0.01%                | 0.02%                | 1.14%          | 0.00%                 | 1.35%                    | 1.33% |
+|     | M.F   | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
+| --- | ----- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
+| MTD | 0.01% | 0.08%          | 0.07%       | 0.01%          | 0.02%                | 0.85%                | 0.00%          | 1.04%                 | 1.02%                    |
+| YTD | 0.03% | 0.08%          | 0.07%       | 0.01%          | 0.02%                | 1.14%                | 0.00%          | 1.35%                 | 1.33%                    |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01 , 2025 through 12th supplemental OD with consent of the SECP.
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01 , 2025 through 12th supplemental OD with consent of the SECP.
 
 ## Alfalah GHP Islamic Prosperity Planning Planning Fund II - K-Trade Islamic Plan 7
 
@@ -1699,12 +1516,10 @@ The objective of the plan is to to earn a potentially high return through dynami
 | FY26TD                   | 8.74%           | 6.26%  |
 | December-25              | 9.51%           | 8.46%  |
 
-
 Avg. Peer Group Return for Dec, 2025 was 9.63%
 
 | 365 Days | 8.58% | 7.61% |
 | -------- | ----- | ----- |
-
 
 ### FUND STATISTICS
 
@@ -1713,9 +1528,6 @@ Avg. Peer Group Return for Dec, 2025 was 9.63%
 | Fund Size including fund of fund schemes: (PKR mn) | 104.4  |
 | NAV (PkR):                                         | 128.96 |
 | Portfolio Turnover Ratio                           | 96.1%  |
-
-
-
 
 ### ASSET ALLOCATION (Holdings as % of Total Assets)
 
@@ -1728,9 +1540,6 @@ Avg. Peer Group Return for Dec, 2025 was 9.63%
 | Others       | 0.08%   | 0.08%   |
 | Total        | 100.00% | 100.00% |
 
-
-
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -1741,11 +1550,7 @@ www.sdms.secp.gov.pk
 
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
 
-
 ---
-
-
-
 
 # Investment Plans Summary Report for December 2025 of Alfalah Islamic Pension Fund
 
@@ -1758,7 +1563,6 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Cumulative Net Assets (CIS)                         | 700,571,556                  |
 | Risk Profile (CIS)                                  | Low                          |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 30,773    |
@@ -1768,7 +1572,6 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Formation Cost Amortization | -         |
 | Other Expenses              | 1,021,490 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name           | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status (Active/Matured) |
@@ -1777,15 +1580,12 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Islamic Pension – Debt         | 8-Nov-2016     | Perpetual     | Medium       | 195,601,294 | Active                  |
 | Islamic Pension – Money Market | 8-Nov-2016     | Perpetual     | Low          | 262,321,430 | Active                  |
 
-
-
-
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah GHP Islamic Pension Fund
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -1813,7 +1613,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:                                                                                                                                                                                                               | 9:00 am - 4:00 pm                                                                                                          |
 | Leverage:                                                                                                                                                                                                                   | NIL                                                                                                                        |
 
-
 ## INVESTMENT OBJECTIVE
 
 The objective of introducing Alfalah GHP Islamic Pension Fund is to provide individuals with a portable, individualized, Shariah Compliant, funded (based on defined contribution) and flexible pension scheme which is managed by professional investment manager to assist them to plan and provide for their retirement. . The design of the scheme empowers the participants to decide how much to invest in their pensions, and how to invest it, as well as to continue investing in their pension accounts even if they change jobs.
@@ -1832,7 +1631,6 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | M.F  | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |       |
@@ -1841,9 +1639,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | DSF  | 1.06%          | 0.04%       | 0.15%          | 0.18%                | 0.25%                | 0.16%          | 0.00%                 | 1.85%                    | 1.67% |
 | MMSF | 0.87%          | 0.04%       | 0.15%          | 0.15%                | 0.03%                | 0.19%          | 0.00%                 | 1.43%                    | 1.28% |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01 , 2024 through 04th supplemental OD with consent of the SECP.
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01 , 2024 through 04th supplemental OD with consent of the SECP.
 
 ## ALFALAH GHP EQUITY SUB FUND
 
@@ -1855,14 +1651,12 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | FY26TD                   | 34.43% | 27.75% |
 | December-25              | 3.85%  | 2.63%  |
 
-
-*Avg. Peer Group Return for Dec, 2025 was 3.29%*
+_Avg. Peer Group Return for Dec, 2025 was 3.29%_
 
 | 365 Days | 39.13% | 35.39% |
 | -------- | ------ | ------ |
 | 3-Year   | 53.77% | 59.95% |
 | 5-Year   | 28.40% | 29.78% |
-
 
 ### ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
@@ -1874,7 +1668,6 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Commercial Banks                | 7.93%  |
 | Others                          | 32.24% |
 | Total                           | 98.59% |
-
 
 ### TOP 10 HOLDINGS (% of Total Assets)
 
@@ -1890,7 +1683,6 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | Mari Petroleum Company Limited        | 3.58%  |
 | Attock Refinery Limited               | 2.27%  |
 
-
 ### FUND STATISTICS
 
 | Fund Size PKR mn (Dec,2025)                        | 242.6 |
@@ -1899,15 +1691,12 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | NAV (PkR):                                         | 329.7 |
 | Portfolio Turnover Ratio                           | 4.7%  |
 
-
 ### Historical Performance
 
-|      | FY21 | FY22  | FY23   | FY24 | FY25  |       
-| ---- | ----- | ------ | ---- | ----- | ----- |
-| ESF  | 36.2% | -15.6% | 1.5% | 92.5% | 63.1% |
-| BM   | 39.3% | -10.3% | 2.9% | 78.7% | 46.2% |
-
-
+|     | FY21  | FY22   | FY23 | FY24  | FY25  |
+| --- | ----- | ------ | ---- | ----- | ----- |
+| ESF | 36.2% | -15.6% | 1.5% | 92.5% | 63.1% |
+| BM  | 39.3% | -10.3% | 2.9% | 78.7% | 46.2% |
 
 ## ALFALAH GHP DEBT SUB FUND
 
@@ -1919,14 +1708,12 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | FY26TD                   | 10.54% | 9.93%  |
 | December-25              | 10.24% | 12.66% |
 
-
-*Avg. Peer Group Return for Dec, 2025 was 9.97%*
+_Avg. Peer Group Return for Dec, 2025 was 9.97%_
 
 | 365 Days | 11.10% | 11.54% |
 | -------- | ------ | ------ |
 | 3-Year   | 16.93% | 14.91% |
 | 5-Year   | 14.64% | 11.87% |
-
 
 ### FUND STATISTICS
 
@@ -1937,7 +1724,6 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | YTM                         | 10.94% |
 | Duration                    | 0.67   |
 | Modified Duration           | 0.64   |
-
 
 ALFALAH GHP DEBT SUB FUND - ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -1951,14 +1737,12 @@ ALFALAH GHP DEBT SUB FUND - ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | FY26TD                   | 9.73%  | 9.58%  |
 | December-25              | 9.51%  | 10.16% |
 
-
-*Avg. Peer Group Return for Dec, 2025 was 9.91%*
+_Avg. Peer Group Return for Dec, 2025 was 9.91%_
 
 | 365 Days | 10.60% | 10.15% |
 | -------- | ------ | ------ |
 | 3-Year   | 16.40% | 15.99% |
 | 5-Year   | 13.87% | 12.67% |
-
 
 ### FUND STATISTICS
 
@@ -1970,7 +1754,6 @@ ALFALAH GHP DEBT SUB FUND - ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Duration                    | 0.07   |
 | Modified Duration           | 0.07   |
 
-
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Category           | Nov   | Dec   |
@@ -1980,9 +1763,6 @@ ALFALAH GHP DEBT SUB FUND - ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | PIBs                     | 0.0%  | 0.0%  |
 | T-Bills                  | 0.0%  | 0.0%  |
 | Others                   | 2.1%  | 1.9%  |
-
-
-
 
 ## Disclaimer
 
@@ -1995,8 +1775,6 @@ www.sdms.secp.gov.pk
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
 
 ---
-
-
 
 Fund Managers' Report December-2025
 
@@ -2027,9 +1805,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                               |
 | Leverage:                | NIL                                                                                                                                                                                                             |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -2049,14 +1825,12 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
-|      | M.F | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |       |
-| --- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ | ----- |
-| MTD | 0.00%          | 0.04%       | 0.15%          | 0.02%                | 0.02%                | 10.60%         | -9.41%                | 1.42%                    | 1.40% |
-| YTD | 0.00%          | 0.04%       | 0.15%          | 0.03%                | 0.09%                | 2.38%          | -1.69%                | 1.01%                    | 0.97% |
-
+|     | M.F   | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |     |
+| --- | ----- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ | --- |
+| MTD | 0.00% | 0.04%          | 0.15%       | 0.02%          | 0.02%                | 10.60%               | -9.41%         | 1.42%                 | 1.40%                    |
+| YTD | 0.00% | 0.04%          | 0.15%       | 0.03%          | 0.09%                | 2.38%                | -1.69%         | 1.01%                 | 0.97%                    |
 
 ## ALFALAH GHP MONEY MARKET SUB FUND
 
@@ -2068,12 +1842,10 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | FY26TD                   | 9.63%  | 9.76%  |
 | December-25              | 9.51%  | 9.52%  |
 
-
-*Avg. Peer Group Return for Dec, 2025 was 9.91%*
+_Avg. Peer Group Return for Dec, 2025 was 9.91%_
 
 | 365 Days | 10.55% | 9.06% |
 | -------- | ------ | ----- |
-
 
 ### FUND STATISTICS
 
@@ -2085,8 +1857,6 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | Duration                    | -      |
 | Modified Duration           | -      |
 
-
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -2096,10 +1866,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
-
-
-
-
 
 Alfalah Investments
 Islamic
@@ -2115,7 +1881,6 @@ Islamic
 | Cumulative Net Assets (CIS)                         | 27,768,290,130                          |
 | Risk Profile (CIS)                                  | Low                                     |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 497,509   |
@@ -2124,7 +1889,6 @@ Islamic
 | Rating Fee                  | -         |
 | Formation Cost Amortization | -         |
 | Other Expenses              | 3,401,569 |
-
 
 ## Investment Plan Overview:
 
@@ -2141,17 +1905,15 @@ Islamic
 | Islamic Stable Return Fund Plan-IX   | 11-Dec-25      | 09-Jan-26     | Medium       | 4,684,088,428  | Active                  |
 | Islamic Stable Return Fund Plan-X    | 12-Dec-25      | 11-Mar-26     | Medium       | 3,267,424,263  | Active                  |
 
-
 RATED by VIS & PACRA
 AM1
 
-
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Stable Return Fund - Plan VI
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -2177,9 +1939,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
 ## INVESTMENT OBJECTIVE
 
@@ -2206,14 +1966,12 @@ The investment objective of Alfalah Islamic Stable Return Plan 6 aims to provide
 | MTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.06%                | 0.01%          | 0.21%                 | 0.21%                    |
 | YTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.01%                | 0.06%                | 0.01%          | 0.22%                 | 0.21%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISRF - VI |        |
 | -------------------------- | ---------- | ------ |
 | Since Inception Return\*\* | 9.49%      | 10.60% |
 | December-25                | 9.49%      | 10.17% |
-
 
 ## FUND STATISTICS
 
@@ -2228,9 +1986,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 6 aims to provide
 | Duration                                           | 0.02   |
 | Modified Duration                                  | 0.02   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
-
 
 ASSET ALLOCATION (% of Total Assets)
 
@@ -2245,10 +2001,6 @@ ASSET ALLOCATION (% of Total Assets)
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 2.7% |
 
-
-
-
-
 ## Disclaimer
 
 For Dispute Resolution/Complaints Handling
@@ -2259,11 +2011,10 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Stable Return Fund - Plan VII
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -2289,8 +2040,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
 ## INVESTMENT OBJECTIVE
 
@@ -2310,8 +2060,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 7 aims to provide
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | Total Expense Ratio Breakup | M.F Fee | Regulatory Fee | Trustee & Taxes | Levies | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -2319,14 +2067,12 @@ The investment objective of Alfalah Islamic Stable Return Plan 7 aims to provide
 | MTD                         | 0.00%   | 0.08%          | 0.06%           | 0.01%  | 0.00%                | 0.06%                | 0.01%          | 0.21%                 | 0.20%                    |
 | YTD                         | 0.00%   | 0.08%          | 0.06%           | 0.01%  | 0.00%                | 0.06%                | 0.01%          | 0.21%                 | 0.20%                    |
 
-
 ## FUND PERFORMANCE
 
-|                            | BM          | AISRF - VII |        
-| -------------------------- | ----------- | ------ |
-| Since Inception Return\*\* | 9.49%       | 10.49% |
-| December-25                | 9.49%       | 10.55% |
-
+|                            | BM    | AISRF - VII |
+| -------------------------- | ----- | ----------- |
+| Since Inception Return\*\* | 9.49% | 10.49%      |
+| December-25                | 9.49% | 10.55%      |
 
 ## FUND STATISTICS
 
@@ -2341,11 +2087,7 @@ The investment objective of Alfalah Islamic Stable Return Plan 7 aims to provide
 | Duration                                           | 0.04   |
 | Modified Duration                                  | 0.04   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
-
-
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -2358,14 +2100,12 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.8% |
 
-
 ## MONTHLY PERFORMANCE (%)
 
 | Month  | BM    | AISRF - VII |
 | ------ | ----- | ----------- |
 | Nov-25 | 9.49% | 10.61%      |
 | Dec-25 | 9.49% | 10.55%      |
-
 
 MONTHLY PERFORMANCE (%)
 
@@ -2381,10 +2121,10 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Stable Return Fund - Plan VIII
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -2410,8 +2150,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
 ## INVESTMENT OBJECTIVE
 
@@ -2431,8 +2170,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 8 aims to provide
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | Total Expense Ratio Breakup | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -2440,14 +2177,12 @@ The investment objective of Alfalah Islamic Stable Return Plan 8 aims to provide
 | MTD                         | 0.00%   | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.02%                | 0.00%          | 0.16%                 | 0.15%                    |
 | YTD                         | 0.00%   | 0.08%          | 0.06%       | 0.01%          | 0.01%                | 0.02%                | 0.00%          | 0.17%                 | 0.16%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISRF - VIII |        |
 | -------------------------- | ------------ | ------ |
 | Since Inception Return\*\* | 9.49%        | 10.50% |
 | December-25                | 9.49%        | 10.88% |
-
 
 ## FUND STATISTICS
 
@@ -2462,7 +2197,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 8 aims to provide
 | Duration                                           | 0.07   |
 | Modified Duration                                  | 0.07   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
@@ -2476,10 +2210,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.4% |
 
-
-
-
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -2492,10 +2222,10 @@ This publication is for informational purposes only and nothing herein should be
 
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Stable Return Fund - Plan IX
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -2521,8 +2251,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -2531,14 +2260,12 @@ AMC rating: "AM1" by PACRA 29-August-25
 | MTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.08%                | 0.02%          | 0.24%                 | 0.23%                    |
 | YTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.08%                | 0.02%          | 0.24%                 | 0.23%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISRF - IX |        |
 | -------------------------- | ---------- | ------ |
 | Since Inception Return\*\* | 9.78%      | 10.72% |
 | December-25                | 9.78%      | 10.72% |
-
 
 ## FUND STATISTICS
 
@@ -2553,9 +2280,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Duration                                           | -      |
 | Modified Duration                                  | -      |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
-
 
 ## INVESTMENT OBJECTIVE
 
@@ -2575,7 +2300,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 9 aims to provide
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
 | Govt. Securities (Rated AAA) | 0.0%  | A1+  | 0.0% |
@@ -2587,7 +2311,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 9 aims to provide
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.6% |
 
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -2598,13 +2321,12 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
-
 ---
 
-
-
 Fund Managers' Report December-2025
+
 # Alfalah Islamic Stable Return Fund - Plan X
+
 AMC Rating: "AM1" by VIS 02-Jan-25
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -2630,8 +2352,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
+\*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -2640,14 +2361,12 @@ AMC rating: "AM1" by PACRA 29-August-25
 | MTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.01%                | 0.04%                | 0.01%          | 0.20%                 | 0.19%                    |
 | YTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.01%                | 0.04%                | 0.01%          | 0.20%                 | 0.19%                    |
 
-
 ## FUND PERFORMANCE
 
 | BM                         | AISRF - X |        |
 | -------------------------- | --------- | ------ |
 | Since Inception Return\*\* | 9.89%     | 10.55% |
 | December-25                | 9.89%     | 10.55% |
-
 
 ## FUND STATISTICS
 
@@ -2661,9 +2380,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | YTM                                                | 10.8%  |
 | Duration                                           | 0.19   |
 | Modified Duration                                  | 0.18   |
-
-
-
 
 ## INVESTMENT OBJECTIVE
 
@@ -2683,9 +2399,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 10 aims to provid
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
-
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
@@ -2699,10 +2412,7 @@ ASSET ALLOCATION (% of Total Assets)
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.6% |
 
-
-
 MONTHLY PERFORMANCE (%)
-
 
 ## Disclaimer
 
@@ -2713,4 +2423,3 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
