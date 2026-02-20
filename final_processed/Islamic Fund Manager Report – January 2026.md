@@ -1,18 +1,12 @@
 
 
-Alfalah Investments
-Islamic
-
-RATED AM1
-by VIS & PACRA
 
 # ISLAMIC FUND MANAGERS REPORT
 ## January, 2026
 
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
 
 
----
+
 
 
 
@@ -50,22 +44,9 @@ Alfalah Investments
 021-111-090-090 | www.alfalahamc.com | #WealthUnlocked
 
 
----
 
 
-Alfalah Investments  
-Islamic
 
-RATED AM1  
-by VIS & PACRA
-
-# ISLAMIC MONEY MARKET FUNDS
-
-## SHARIAH FUND MANAGERS REPORT
-
-021-111-090-090 | www.alfalahamc.com                                    #WealthUnlocked
-
----
 
 
 
@@ -119,16 +100,6 @@ The investment objective of the Fund is to generate regular and stable returns b
 | **Salman Jawaid**         | Fund manager Fixed Income Funds |
 | **Anil Kumar, CFA**       | Fund manager Equity Funds       |
 
-
-## ASSET ALLOCATION (% of Total Assets)
-
-| Asset Category           | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 51.4% | 30.6% |
-| Plac. with Banks/DFIs    | 31.4% | 51.2% |
-| Govt. Backed/ Gov. Guar. | 4.8%  | 8.1%  |
-| ICPs / Sukuk             | 11.3% | 9.0%  |
-| Others                   | 1.1%  | 1.1%  |
 
 
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset categories
@@ -190,26 +161,7 @@ Amount invested by fund of funds is Rs. 466.5 million substracted from total
 | **Modified Duration**                                  | 0.03   |
 
 
-## MONTHLY PERFORMANCE (%)
 
-| Month  | BM     | AIMMF  |
-| ------ | ------ | ------ |
-| Jan-25 | 10.17% | 10.38% |
-| Feb-25 | 10.05% | 9.97%  |
-| Mar-25 | 10.21% | 9.76%  |
-| Apr-25 | 10.42% | 10.28% |
-| May-25 | 10.32% | 10.14% |
-| Jun-25 | 10.45% | 10.40% |
-| Jul-25 | 10.07% | 9.79%  |
-| Aug-25 | 9.66%  | 9.65%  |
-| Sep-25 | 9.49%  | 9.88%  |
-| Oct-25 | 9.37%  | 9.83%  |
-| Nov-25 | 9.66%  | 9.95%  |
-| Dec-25 | 9.51%  | 9.96%  |
-| Jan-26 | 8.52%  | 9.34%  |
-
-
-MONTHLY PERFORMANCE (%) - BM vs AIMMF (Jan-25 to Jan-26)
 
 ## Top 10 TFC/SUKUK HOLDINGS (% of Total Assets)
 
@@ -234,12 +186,6 @@ MONTHLY PERFORMANCE (%) - BM vs AIMMF (Jan-25 to Jan-26)
 | **BM**    | 10.3% | 9.9%  |
 
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
 ## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
@@ -256,8 +202,11 @@ This publication is for informational purposes only and nothing herein should be
 
 Fund Managers' Report January-2026
 
-Alfalah Islamic Rozana Amdani Fund                                AMC Rating: "AM1" by VIS 26-Jan-26
-                                                                  AMC rating: "AM1" by PACRA 29-August-25
+# Alfalah Islamic Rozana Amdani Fund                              
+
+  AMC Rating: "AM1" by VIS 26-Jan-26
+
+AMC rating: "AM1" by PACRA 29-August-25
 
 ## FUND INFORMATION
 
@@ -301,21 +250,9 @@ The objective of Alfalah Islamic Rozana Amdani Fund (AIRAF) is to provide compet
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-## ASSET ALLOCATION (% of Total Assets)
-
-| Asset Category           | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 15.2% | 54.6% |
-| Plac. with Banks/DFIs    | 52.8% | 9.7%  |
-| Govt. Backed/ Gov. Guar. | 12.3% | 18.6% |
-| Short term Sukuk / ICPs  | 16.4% | 16.1% |
-| Others                   | 3.2%  | 1.0%  |
 
 
-ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset categories
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 13th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -373,26 +310,9 @@ Avg. Peer Group Return for Jan, 2026 was 9.27%
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
-## MONTHLY PERFORMANCE (%)
-
-| Month  | BM     | AIRAF  |
-| ------ | ------ | ------ |
-| Jan-25 | 10.17% | 9.04%  |
-| Feb-25 | 10.05% | 9.17%  |
-| Mar-25 | 10.21% | 9.69%  |
-| Apr-25 | 10.42% | 9.59%  |
-| May-25 | 10.32% | 10.29% |
-| Jun-25 | 10.45% | 10.57% |
-| Jul-25 | 10.07% | 8.87%  |
-| Aug-25 | 9.66%  | 9.03%  |
-| Sep-25 | 9.49%  | 9.10%  |
-| Oct-25 | 9.37%  | 9.23%  |
-| Nov-25 | 9.66%  | 8.33%  |
-| Dec-25 | 9.51%  | 9.13%  |
-| Jan-26 | 8.52%  | 7.96%  |
 
 
-MONTHLY PERFORMANCE (%) - BM vs AIRAF (Jan-25 to Jan-26)
+
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
 
@@ -412,11 +332,6 @@ MONTHLY PERFORMANCE (%) - BM vs AIRAF (Jan-25 to Jan-26)
 | AIRAF | 6.6% | 9.7% | 17.1% | 22.1% | 9.2% |
 | BM    | 3.3% | 3.6% | 6.1%  | 10.0% | 9.6% |
 
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -499,15 +414,7 @@ The investment objective of Alfalah GHP Islamic Income Fund (AGIIF) is to minimi
 **Salman Jawaid** - Fund manager Fixed Income Funds  
 **Anil Kumar, CFA** - Fund manager Equity Funds
 
-## ASSET ALLOCATION (% of Total Assets)
 
-| Asset Class              | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 41.4% | 31.7% |
-| Bai Mujjal               | 12.2% | 11.9% |
-| Govt. Backed/ Gov. Guar. | 4.6%  | 20.9% |
-| ICPs / Sukuk             | 39.4% | 33.5% |
-| Others                   | 2.4%  | 2.1%  |
 
 
 ASSET ALLOCATION (% of Total Assets)
@@ -560,26 +467,7 @@ ASSET ALLOCATION (% of Total Assets)
 
 Amount invested by fund of funds is Rs. 64.3 million substracted from total
 
-## MONTHLY PERFORMANCE (%)
 
-| Month  | BM     | AGIIF  |
-| ------ | ------ | ------ |
-| Jan-25 | 12.01% | 9.62%  |
-| Feb-25 | 9.87%  | 5.50%  |
-| Mar-25 | 10.47% | 0.92%  |
-| Apr-25 | 11.26% | 8.75%  |
-| May-25 | 10.61% | 15.26% |
-| Jun-25 | 10.84% | 9.89%  |
-| Jul-25 | 10.06% | 11.38% |
-| Aug-25 | 9.29%  | 8.73%  |
-| Sep-25 | 9.19%  | 9.10%  |
-| Oct-25 | 9.14%  | 8.36%  |
-| Nov-25 | 9.36%  | 8.36%  |
-| Dec-25 | 9.30%  | 8.96%  |
-| Jan-26 | 9.21%  | 8.10%  |
-
-
-MONTHLY PERFORMANCE (%) - BM vs AGIIF (Jan 2025 - Jan 2026)
 
 ## Top 10 TFC/SUKUK HOLDINGS (% of Total Assets)
 
@@ -600,12 +488,6 @@ OBS AGP (PRIVATE) LIMITED - SUKUK: 0.54%
 | ----- | ---- | ---- | ----- | ----- | ----- |
 | AGIIF | 6.4% | 9.1% | 14.9% | 21.1% | 13.8% |
 | BM    | 3.6% | 3.3% | 6.1%  | 10.1% | 10.4% |
-
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -693,16 +575,6 @@ Alfalah GHP Islamic Stock Fund (AGISF) is an Open Ended Shariah Compliant Islami
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
-
-| Asset Category  | Dec   | Jan   |
-| --------------- | ----- | ----- |
-| Cash            | 3.0%  | 2.1%  |
-| Stocks/Equities | 96.2% | 96.6% |
-| Others          | 0.8%  | 1.3%  |
-
-
-ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across Cash, Stocks/Equities, and Others
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -757,25 +629,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Engro Holdings Limited                | 3.57%  |
 
 
-| Month  | BM     | AGISF  |
-| ------ | ------ | ------ |
-| Jan-25 | -3.73% | -5.14% |
-| Feb-25 | -1.32% | -0.25% |
-| Mar-25 | 7.89%  | 5.24%  |
-| Apr-25 | -9.13% | -7.96% |
-| May-25 | 8.57%  | 5.88%  |
-| Jun-25 | 2.35%  | 3.76%  |
-| Jul-25 | 6.50%  | 3.22%  |
-| Aug-25 | 7.85%  | 8.83%  |
-| Sep-25 | 15.96% | 12.22% |
-| Oct-25 | -5.51% | -4.63% |
-| Nov-25 | 2.84%  | 2.86%  |
-| Dec-25 | 3.85%  | 3.94%  |
-| Jan-26 | 5.03%  | 3.19%  |
-
-
-MONTHLY PERFORMANCE showing BM and AGISF returns from Jan-25 to Jan-26
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Oil & Gas Exploration Companies | 18.33% |
@@ -796,11 +649,6 @@ MONTHLY PERFORMANCE showing BM and AGISF returns from Jan-25 to Jan-26
 | BM    | 39.3% | -10.3% | 2.9% | 78.7% | 46.2% |
 
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -813,7 +661,7 @@ www.sdms.secp.gov.pk
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
 
----
+
 
 
 
@@ -865,18 +713,8 @@ Alfalah GHP Islamic Dedicated Equity Fund (AGIDEF) is an Open-end Shariah Compli
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
-
-Dec ■ Jan
-
-| Asset Class     | Dec   | Jan   |
-| --------------- | ----- | ----- |
-| Cash            | 2.2%  | 2.7%  |
-| Stocks/Equities | 96.8% | 96.4% |
-| Others          | 1.0%  | 1.0%  |
 
 
-ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan values for Cash, Stocks/Equities, and Others
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -931,24 +769,6 @@ Amount invested by fund of funds is Rs. 289.8 million substracted from total
 | Mari Petroleum Company Limited        | 2.94% |
 
 
-| Month  | BM     | AGIDEF |
-| ------ | ------ | ------ |
-| Jan-25 | -3.73% | -5.15% |
-| Feb-25 | -1.32% | -0.29% |
-| Mar-25 | 7.89%  | 5.30%  |
-| Apr-25 | -9.13% | -8.05% |
-| May-25 | 8.57%  | 7.03%  |
-| Jun-25 | 2.35%  | 3.33%  |
-| Jul-25 | 6.50%  | 3.86%  |
-| Aug-25 | 7.85%  | 8.11%  |
-| Sep-25 | 15.96% | 11.00% |
-| Oct-25 | -5.51% | -4.23% |
-| Nov-25 | 2.84%  | 3.03%  |
-| Dec-25 | 3.85%  | 2.84%  |
-| Jan-26 | 5.03%  | 3.87%  |
-
-
-MONTHLY PERFORMANCE: Comparison of BM and AGIDEF returns from January 2025 to January 2026
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
@@ -970,10 +790,6 @@ MONTHLY PERFORMANCE: Comparison of BM and AGIDEF returns from January 2025 to Ja
 | BM     | 39.3% | -10.3% | 2.9%  | 78.7% | 46.2% |
 
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 * Calculated on 12-month trailing data.  
@@ -1061,19 +877,8 @@ Alfalah GHP Islamic Value Fund (AGIVF) is an Open-end Shariah Compliant Islamic 
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
-
-| Asset Class             | Dec   | Jan   |
-| ----------------------- | ----- | ----- |
-| Cash                    | 14.3% | 22.2% |
-| Stocks/Equities         | 0.0%  | 0.0%  |
-| Govt. Backed/Gov. Guar. | 34.4% | 34.0% |
-| Sukuks                  | 47.0% | 41.0% |
-| PIBs                    | 0.0%  | 0.0%  |
-| Others                  | 4.4%  | 2.7%  |
 
 
-ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing December and January data across various asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -1128,26 +933,7 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | OBS AGP (PVT) LTD. - SUKUK (15-07-21)                | 0.65%  |
 
 
-## MONTHLY PERFORMANCE
 
-| Month  | BM    | AGIVF |
-| ------ | ----- | ----- |
-| Jan-25 | 0.72% | 0.91% |
-| Feb-25 | 0.54% | 0.42% |
-| Mar-25 | 0.67% | 0.63% |
-| Apr-25 | 0.65% | 1.11% |
-| May-25 | 0.98% | 1.29% |
-| Jun-25 | 0.89% | 0.94% |
-| Jul-25 | 0.91% | 0.96% |
-| Aug-25 | 0.91% | 0.93% |
-| Sep-25 | 0.86% | 0.70% |
-| Oct-25 | 0.92% | 0.69% |
-| Nov-25 | 0.90% | 0.89% |
-| Dec-25 | 0.93% | 0.77% |
-| Jan-26 | 0.79% | 0.92% |
-
-
-Monthly Performance showing BM and AGIVF from January 2025 to January 2026
 
 ## HOLDINGS (Sector Wise as a % of Total Assets)
 
@@ -1189,27 +975,14 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) upto 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-**Alfalah Investments**  
-Islamic
-
-**RATED AM1**  
-**by VIS & PACRA**
-
-# ISLAMIC SOVEREIGN INCOME FUNDS
-
-## SHARIAH
-## FUND MANAGERS REPORT
-
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
----
 
 
 
-# Investment Plans Summary Report for January 2026
+
+
+
+
+# Investment Plans Summary Report for January 2026 Alfalah Islamic Sovereign Fund Plan
 
 ## CIS General Information:
 
@@ -1302,19 +1075,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-## ASSET ALLOCATION (% of Total Assets)
-
-| Asset Category           | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 12.3% | 3.3%  |
-| Govt. Backed/ Gov. Guar. | 70.9% | 78.9% |
-| Plac. with Baimujjal     | 14.4% | 15.0% |
-| PIBs                     | 0.0%  | 0.0%  |
-| T-Bills                  | 0.0%  | 0.0%  |
-| Others                   | 2.4%  | 2.8%  |
-
-
-ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -1364,34 +1124,9 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Modified Duration                                  | 0.00   |
 
 
-## MONTHLY PERFORMANCE (%)
-
-| Month  | BM     | AISF-I |
-| ------ | ------ | ------ |
-| Jan-25 | 12.84% | 9.26%  |
-| Feb-25 | 10.31% | 3.17%  |
-| Mar-25 | 11.05% | -6.34% |
-| Apr-25 | 11.26% | 13.07% |
-| May-25 | 11.24% | 13.49% |
-| Jun-25 | 11.49% | 10.53% |
-| Jul-25 | 10.59% | 10.05% |
-| Aug-25 | 9.68%  | 8.28%  |
-| Sep-25 | 9.59%  | 8.96%  |
-| Oct-25 | 9.53%  | 8.53%  |
-| Nov-25 | 9.79%  | 8.56%  |
-| Dec-25 | 9.73%  | 12.85% |
-| Jan-26 | 9.63%  | 10.66% |
 
 
-MONTHLY PERFORMANCE (%) - BM vs AISF-I (Jan-25 to Jan-26)
 
-## Credit Quality (% of Total Assets)
-
-| Credit Quality               | Percentage of Total Assets |
-| ---------------------------- | -------------------------- |
-| Govt. Securities (Rated AAA) | 78.9%                      |
-| AAA                          | 15.2%                      |
-| AA+                          | 3.0%                       |
 
 
 Credit Quality (% of Total Assets)
@@ -1404,11 +1139,6 @@ Credit Quality (% of Total Assets)
 | BM     | 13.2% |
 
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -1420,7 +1150,7 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
+
 
 
 
@@ -1471,19 +1201,7 @@ The Investment Objective of the plan is to generate a competitive return with lo
 **Salman Jawaid** - Fund manager Fixed Income Funds  
 **Anil Kumar, CFA** - Fund manager Equity Funds
 
-## ASSET ALLOCATION (% of Total Assets)
 
-| Asset Category           | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 13.8% | 4.0%  |
-| Govt. Backed/ Gov. Guar. | 70.6% | 83.4% |
-| Plac. with Baimujjal     | 13.3% | 10.4% |
-| PIBs                     | 0.0%  | 0.0%  |
-| T-Bills                  | 0.0%  | 0.0%  |
-| Others                   | 2.3%  | 2.2%  |
-
-
-ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -1537,26 +1255,7 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 **Duration:** 0.00  
 **Modified Duration:** 0.00
 
-## MONTHLY PERFORMANCE (%)
 
-| Month  | BM     | AISF-II |
-| ------ | ------ | ------- |
-| Jan-25 | 12.84% | 7.72%   |
-| Feb-25 | 10.31% | 5.72%   |
-| Mar-25 | 11.05% | -11.77% |
-| Apr-25 | 11.26% | 6.35%   |
-| May-25 | 11.24% | 19.41%  |
-| Jun-25 | 11.49% | 14.54%  |
-| Jul-25 | 10.59% | 11.79%  |
-| Aug-25 | 9.68%  | 8.33%   |
-| Sep-25 | 9.59%  | 7.65%   |
-| Oct-25 | 9.53%  | 5.96%   |
-| Nov-25 | 9.79%  | 7.74%   |
-| Dec-25 | 9.73%  | 11.89%  |
-| Jan-26 | 9.63%  | 12.34%  |
-
-
-MONTHLY PERFORMANCE (%) - BM vs AISF-II (Jan 2025 - Jan 2026)
 
 ## Credit Quality (% of Total Assets)
 
@@ -1577,11 +1276,6 @@ Credit Quality (% of Total Assets)
 | BM      | 13.16% |
 
 
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -1593,7 +1287,7 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
+
 
 
 
@@ -1642,23 +1336,6 @@ The Investment Objective of the plan is to generate a competitive return with lo
 **Salman Jawaid** - Fund manager Fixed Income Funds  
 **Anil Kumar, CFA** - Fund manager Equity Funds
 
-## ASSET ALLOCATION (% of Total Assets)
-
-| Asset Category         | Dec   | Jan   |
-| ---------------------- | ----- | ----- |
-| Cash                   | 5.8%  | 4.8%  |
-| Govt. Back/ Gov. Guar. | 78.0% | 80.5% |
-| Plac. with Baimujjal   | 14.1% | 12.6% |
-| PIBs                   | 0.0%  | 0.0%  |
-| T-Bills                | 0.0%  | 0.0%  |
-| Others                 | 2.0%  | 2.1%  |
-
-
-ASSET ALLOCATION (% of Total Assets)
-
-*Calculated on 12-month trailing data.  
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -1709,44 +1386,8 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 **Duration:** 0.00  
 **Modified Duration:** 0.00
 
-## MONTHLY PERFORMANCE (%)
-
-| Month  | BM     | AISF-III |
-| ------ | ------ | -------- |
-| Jan-25 | 12.84% | 12.60%   |
-| Feb-25 | 10.31% | 6.09%    |
-| Mar-25 | 11.05% | -17.48%  |
-| Apr-25 | 11.26% | 14.48%   |
-| May-25 | 11.24% | 11.84%   |
-| Jun-25 | 11.49% | 10.91%   |
-| Jul-25 | 10.59% | 11.03%   |
-| Aug-25 | 9.68%  | 9.29%    |
-| Sep-25 | 9.59%  | 9.92%    |
-| Oct-25 | 9.53%  | 9.81%    |
-| Nov-25 | 9.79%  | 9.58%    |
-| Dec-25 | 9.73%  | 12.38%   |
-| Jan-26 | 9.63%  | 11.14%   |
 
 
-MONTHLY PERFORMANCE (%) - Alfalah Islamic Sovereign Fund - Plan III
-
-BM | AISF-III
-
-## Credit Quality (% of Total Assets)
-
-| Credit Rating                | Percentage of Total Assets |
-| ---------------------------- | -------------------------- |
-| Govt. Securities (Rated AAA) | 80.5%                      |
-| AAA                          | 12.9%                      |
-| AA+                          | 4.5%                       |
-
-
-Credit Quality (% of Total Assets)
-
-## Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -1759,7 +1400,7 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
+
 
 
 Alfalah Investments  
@@ -1774,11 +1415,11 @@ by VIS & PACRA
 
 021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
 
----
 
 
 
-# Investment Plans Summary Report for January 2026
+
+# Investment Plans Summary Report for January 2026 Alfalah Islamic Prosperity Planning Fund
 
 ## CIS General Information:
 
@@ -1815,11 +1456,11 @@ by VIS & PACRA
 
 
 
----
 
 
 
-# Fund Managers' Report January-2026
+
+ Fund Managers' Report January-2026
 
 # Alfalah GHP Islamic Prosperity Planning Fund
 
@@ -1891,7 +1532,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 
 # Alfalah GHP Islamic Balanced Allocation Plan
 
-## FUND PERFORMANCE
+### FUND PERFORMANCE
 
 |                          | BM     | BAP    |
 | ------------------------ | ------ | ------ |
@@ -1903,7 +1544,7 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | 5-Year                   | 11.14% | 15.99% |
 
 
-## ASSET ALLOCATION (Holdings as % of Total Assets)
+### ASSET ALLOCATION (Holdings as % of Total Assets)
 
 |              | Dec-25  | Jan-26  |
 | ------------ | ------- | ------- |
@@ -1915,49 +1556,15 @@ Alfalah GHP Islamic Prosperity Planning Fund is an Open-ended Shariah Complaint 
 | Total        | 100.00% | 100.00% |
 
 
-## FUND STATISTICS
+### FUND STATISTICS
 
 **Fund Size PKR mn (Jan,2026):** 375.0  
 **Fund Size including fund of fund schemes: (PKR mn):** 375.0  
 **NAV (PKR):** 110.44  
 **Portfolio Turnover Ratio:** 0.00%
 
-## MONTHLY PERFORMANCE
-
-| Month  | BM     | BAP    |
-| ------ | ------ | ------ |
-| Jan-25 | -0.07% | -0.25% |
-| Feb-25 | 0.38%  | 0.39%  |
-| Mar-25 | 3.55%  | 1.45%  |
-| Apr-25 | -1.84% | -0.51% |
-| May-25 | 2.35%  | 1.96%  |
-| Jun-25 | -0.21% | 0.93%  |
-| Jul-25 | 2.07%  | 1.37%  |
-| Aug-25 | 2.35%  | 2.02%  |
-| Sep-25 | 2.66%  | 2.59%  |
-| Oct-25 | 0.11%  | -0.14% |
-| Nov-25 | 0.79%  | 0.68%  |
-| Dec-25 | 1.36%  | 0.79%  |
-| Jan-26 | 1.58%  | 1.31%  |
 
 
-MONTHLY PERFORMANCE showing BM and BAP percentage returns from January 2025 to January 2026
-
-## ASSET ALLOCATION (Holding as % of Total Assets)
-
-| Asset Category | Dec-25 | Jan-26 |
-| -------------- | ------ | ------ |
-| Cash           | 0.3%   | 4.7%   |
-| Equity         | 19.5%  | 19.1%  |
-| Income         | 11.8%  | 11.3%  |
-| Money Market   | 67.9%  | 64.5%  |
-| Others         | 0.5%   | 0.4%   |
-
-
-ASSET ALLOCATION (Holding as % of Total Assets)
-
-
----
 
 
 
@@ -1997,37 +1604,8 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | Portfolio Turnover Ratio                           | 54.38% |
 
 
-| Month  | BM     | MAP    |
-| ------ | ------ | ------ |
-| Jan-25 | -1.20% | -1.58% |
-| Feb-25 | -0.23% | 0.22%  |
-| Mar-25 | 6.16%  | 3.45%  |
-| Apr-25 | -3.81% | -2.96% |
-| May-25 | 2.77%  | 3.36%  |
-| Jun-25 | 1.10%  | 1.73%  |
-| Jul-25 | 4.40%  | 2.19%  |
-| Aug-25 | 3.64%  | 3.70%  |
-| Sep-25 | 5.69%  | 4.05%  |
-| Oct-25 | -0.94% | 0.13%  |
-| Nov-25 | 1.23%  | 0.28%  |
-| Dec-25 | 1.46%  | 1.10%  |
-| Jan-26 | 1.40%  | 1.40%  |
 
 
-MONTHLY PERFORMANCE (%) - Alfalah GHP Islamic Moderate Allocation Plan
-
-### ASSET ALLOCATION (Holding as % of Total Assets)
-
-| Asset Category | Dec-25 | Jan-26 |
-| -------------- | ------ | ------ |
-| Cash           | 57.0%  | 16.1%  |
-| Equity         | 17.5%  | 20.0%  |
-| Income         | 14.8%  | 12.3%  |
-| Money Market   | 10.0%  | 50.7%  |
-| Others         | 0.6%   | 0.8%   |
-
-
-ASSET ALLOCATION (Holding as % of Total Assets)
 
 ## Alfalah GHP Islamic Active Allocation Plan 2
 
@@ -2065,57 +1643,8 @@ ASSET ALLOCATION (Holding as % of Total Assets)
 | Portfolio Turnover Ratio                           | 2.27%  |
 
 
-### MONTHLY PERFORMANCE (%)
 
-| Month  | BM     | AAP-2   |
-| ------ | ------ | ------- |
-| Jan-25 | 0.74%  | 0.79%   |
-| Feb-25 | -0.96% | -17.78% |
-| Mar-25 | 1.74%  | 3.48%   |
-| Apr-25 | 3.37%  | 25.83%  |
-| May-25 | 3.07%  | 3.26%   |
-| Jun-25 | 4.12%  | 2.21%   |
-| Jul-25 | 1.42%  | 0.98%   |
-| Aug-25 | 2.79%  | 7.54%   |
-| Sep-25 | 1.27%  | 5.76%   |
-| Oct-25 | -2.67% | -2.72%  |
-| Nov-25 | 1.53%  | 2.76%   |
-| Dec-25 | 2.75%  | 1.78%   |
-| Jan-26 | 4.31%  | 3.35%   |
-
-
-### ASSET ALLOCATION (Holding as % of Total Assets)
-
-| Asset Class  | Dec-25 | Jan-26 |
-| ------------ | ------ | ------ |
-| Cash         | 2.7%   | 8.0%   |
-| Equity       | 79.8%  | 78.9%  |
-| Income       | 0.0%   | 0.0%   |
-| Money Market | 13.4%  | 12.5%  |
-| Others       | 4.2%   | 0.6%   |
-
-
-ASSET ALLOCATION (Holding as % of Total Assets) - Alfalah GHP Islamic Active Allocation Plan 2
-
-### Details of Non-Compliant Investments - BAP
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-### Details of Non-Compliant Investments - MAP
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-### Details of Non-Compliant Investments - AAP-2
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-### Disclaimer
+## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**  
 Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
@@ -2125,14 +1654,14 @@ www.sdms.secp.gov.pk
 
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
 
----
+
 
 
 
 Fund Managers' Report January-2026
 
 # Alfalah GHP Islamic Prosperity Planning Fund - II
-## (Alfalah KTrade Islamic Plan 7)
+(Alfalah KTrade Islamic Plan 7)
 
 AMC Rating: "AM1" by VIS 26-Jan-26  
 AMC rating: "AM1" by PACRA 29-August-25
@@ -2193,7 +1722,7 @@ The objective of the plan is to to earn a potentially high return through dynami
 
 # Alfalah GHP Islamic Prosperity Planning Planning Fund II - K-Trade Islamic Plan 7
 
-## FUND PERFORMANCE
+### FUND PERFORMANCE
 
 |                          | BM    | IPPF-II AKTIP 7 |
 | ------------------------ | ----- | --------------- |
@@ -2208,7 +1737,7 @@ Avg. Peer Group Return for Jan, 2026 was 9.27%
 | -------- | ----- | ----- |
 
 
-## ASSET ALLOCATION (Holdings as % of Total Assets)
+### ASSET ALLOCATION (Holdings as % of Total Assets)
 
 |              | Dec-25  | Jan-26  |
 | ------------ | ------- | ------- |
@@ -2220,7 +1749,7 @@ Avg. Peer Group Return for Jan, 2026 was 9.27%
 | Total        | 100.00% | 100.00% |
 
 
-## FUND STATISTICS
+### FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 105.2  |
 | -------------------------------------------------- | ------ |
@@ -2229,43 +1758,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.27%
 | Portfolio Turnover Ratio                           | 95.7%  |
 
 
-## MONTHLY PERFORMANCE
-
-| Month  | BM     | IPPF-II AKTIP 7 |
-| ------ | ------ | --------------- |
-| Jan-25 | 6.96%  | 9.64%           |
-| Feb-25 | 7.61%  | 9.20%           |
-| Mar-25 | 7.85%  | 6.73%           |
-| Apr-25 | 8.43%  | 7.93%           |
-| May-25 | 7.53%  | 5.36%           |
-| Jun-25 | 12.07% | 12.63%          |
-| Jul-25 | 7.91%  | 1.17%           |
-| Aug-25 | 8.93%  | 4.39%           |
-| Sep-25 | 8.93%  | 7.81%           |
-| Oct-25 | 7.52%  | 7.95%           |
-| Nov-25 | 9.66%  | 7.43%           |
-| Dec-25 | 9.51%  | 8.46%           |
-| Jan-26 | 8.52%  | 8.98%           |
-
-
-Monthly Performance: BM vs IPPF-II AKTIP 7 (Jan-25 to Jan-26)
-
-## Asset Allocation
-
-| Asset Class  | Allocation (%) |
-| ------------ | -------------- |
-| Money Market | 98.07%         |
-| Cash         | 1.20%          |
-| Others       | 0.73%          |
-| **Total**    | **100.00%**    |
-
-
-Asset Allocation (Holdings as % of Total Assets)
-
-## Details of Non-Compliant Investments - IPPF-II AKTIP 7
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -2279,7 +1771,7 @@ www.sdms.secp.gov.pk
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
 
 
----
+
 
 
 
@@ -2289,19 +1781,11 @@ Islamic
 RATED AM1
 by VIS & PACRA
 
-# ISLAMIC PENSION FUNDS
-
-## SHARIAH
-## FUND MANAGERS REPORT
-
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
-
----
 
 
 
-# Investment Plans Summary Report for January 2026
+# Investment Plans Summary Report for January 2026 of Alfalah Islamic Pension Fund
+
 
 ## CIS General Information:
 
@@ -2334,7 +1818,7 @@ by VIS & PACRA
 
 
 
----
+
 
 
 
@@ -2428,16 +1912,7 @@ The objective of introducing Alfalah GHP Islamic Pension Fund is to provide indi
 | 5-Year   | 251.71% | 267.20% |
 
 
-### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-| Asset Class  | Allocation (%) |
-| ------------ | -------------- |
-| Equity       | 89.18%         |
-| Bank Balance | 10.67%         |
-| Others       | 0.15%          |
-
-
-Asset Allocation (AS % OF TOTAL ASSETS)
 
 ### ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
@@ -2450,27 +1925,6 @@ Asset Allocation (AS % OF TOTAL ASSETS)
 | Others                          | 30.57% |
 | Total                           | 89.18% |
 
-
-### MONTHLY PERFORMANCE (%)
-
-| Month  | BM     | ESF    |
-| ------ | ------ | ------ |
-| Jan-25 | -3.73% | -5.51% |
-| Feb-25 | -1.32% | 1.00%  |
-| Mar-25 | 7.89%  | 6.92%  |
-| Apr-25 | -9.13% | -6.71% |
-| May-25 | 8.57%  | 7.24%  |
-| Jun-25 | 2.35%  | 3.81%  |
-| Jul-25 | 6.50%  | 3.75%  |
-| Aug-25 | 7.85%  | 8.50%  |
-| Sep-25 | 15.96% | 10.95% |
-| Oct-25 | -5.51% | -3.66% |
-| Nov-25 | 2.84%  | 3.45%  |
-| Dec-25 | 3.85%  | 2.63%  |
-| Jan-26 | 5.03%  | 4.79%  |
-
-
-MONTHLY PERFORMANCE (%) - Alfalah GHP Equity Sub Fund vs Benchmark (Jan-25 to Jan-26)
 
 ### TOP 10 HOLDINGS (% of Total Assets)
 
@@ -2504,15 +1958,9 @@ MONTHLY PERFORMANCE (%) - Alfalah GHP Equity Sub Fund vs Benchmark (Jan-25 to Ja
 | BM  | 39.3% | -10.3% | 2.9% | 78.7% | 46.2% |
 
 
+## ALFALAH GHP DEBT SUB FUND
 
-
----
-
-
-
-# ALFALAH GHP DEBT SUB FUND
-
-## FUND PERFORMANCE
+### FUND PERFORMANCE
 
 |                          | BM     | DSF    |
 | ------------------------ | ------ | ------ |
@@ -2530,21 +1978,8 @@ MONTHLY PERFORMANCE (%) - Alfalah GHP Equity Sub Fund vs Benchmark (Jan-25 to Ja
 | 5-Year   | 14.68% | 12.01% |
 
 
-## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-| Asset Category           | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 74.2% | 75.2% |
-| TFCs/Sukuks              | 2.6%  | 2.4%  |
-| Govt. Backed/ Gov. Guar. | 21.6% | 20.2% |
-| PIBs                     | 0.0%  | 0.0%  |
-| T-Bills                  | 0.0%  | 0.0%  |
-| Others                   | 1.6%  | 2.2%  |
-
-
-Asset Allocation (as % of Total Assets) - Alfalah GHP Debt Sub Fund
-
-## FUND STATISTICS
+### FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026) | 211.8 |
 | --------------------------- | ----- |
@@ -2555,9 +1990,9 @@ Asset Allocation (as % of Total Assets) - Alfalah GHP Debt Sub Fund
 | Modified Duration           | -     |
 
 
-# ALFALAH GHP MONEY MARKET SUB FUND
+## ALFALAH GHP MONEY MARKET SUB FUND
 
-## FUND PERFORMANCE
+### FUND PERFORMANCE
 
 |                          | BM     | MMSF  |
 | ------------------------ | ------ | ----- |
@@ -2575,20 +2010,8 @@ Asset Allocation (as % of Total Assets) - Alfalah GHP Debt Sub Fund
 | 5-Year   | 13.90% | 12.77% |
 
 
-## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-| Asset Class              | Dec   | Jan   |
-| ------------------------ | ----- | ----- |
-| Cash                     | 92.3% | 91.6% |
-| Govt. Backed/ Gov. Guar. | 5.8%  | 5.7%  |
-| PIBs                     | 0.0%  | 0.0%  |
-| T-Bills                  | 0.0%  | 0.0%  |
-| Others                   | 1.9%  | 2.7%  |
-
-
-ASSET ALLOCATION (AS % OF TOTAL ASSETS) - ALFALAH GHP MONEY MARKET SUB FUND
-
-## FUND STATISTICS
+### FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026) | 268.6 |
 | --------------------------- | ----- |
@@ -2599,22 +2022,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) - ALFALAH GHP MONEY MARKET SUB FUND
 | Modified Duration           | -     |
 
 
-## Details of Non-Compliant Investments - Equity Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-## Details of Non-Compliant Investments - Debt Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-## Details of Non-Compliant Investments - Money Market Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -2708,19 +2115,7 @@ Avg. Peer Group Return for Jan, 2026 was 9.27%
 | -------- | ------ | ----- |
 
 
-### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-| Asset Category         | Dec   | Jan   |
-| ---------------------- | ----- | ----- |
-| Cash                   | 10.9% | 9.7%  |
-| Govt Backed/Govt Guar. | 87.2% | 88.2% |
-| PIBs                   | 0.0%  | 0.0%  |
-| T-Bills                | 0.0%  | 0.0%  |
-| ICPs /ST Sukuks        | 0.0%  | 0.0%  |
-| Others                 | 1.9%  | 2.1%  |
-
-
-ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 ### FUND STATISTICS
 
@@ -2732,11 +2127,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Duration                    | -      |
 | Modified Duration           | -      |
 
-
-### Details of Non-Compliant Investments - Money Market Sub Fund
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -2764,7 +2154,7 @@ Islamic
 
 021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
 
----
+
 
 
 
@@ -2813,17 +2203,11 @@ by VIS & PACRA
 | Islamic Stable Return Fund Plan-XI   | 14-Jan-26      | 17-Feb-26     | Medium       | 5,024,971,836 | Active                  |
 
 
+# Alfalah Islamic Stable Return Fund - Plan X
+AMC Rating: "AM1" by VIS 26-Jan-26
+AMC rating: "AM1" by PACRA 29-August-25
 
-
----
-
-
-
-Fund Managers' Report January-2026
-Alfalah Islamic Stable Return Fund - Plan X                                                                                                                            AMC Rating: "AM1" by VIS 26-Jan-26
-                                                                                                                                                                   AMC rating: "AM1" by PACRA 29-August-25
-
-# FUND INFORMATION
+## FUND INFORMATION
 
 | Fund Stability Rating:   | Not Yet Rated                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -2848,11 +2232,11 @@ Alfalah Islamic Stable Return Fund - Plan X                                     
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
-# INVESTMENT OBJECTIVE
+## INVESTMENT OBJECTIVE
 
 The investment objective of Alfalah Islamic Stable Return Plan 10 aims to provide a fixed return to Unit Holders who hold their investment until maturity by investing in Authorized Investable Avenues
 
-# INVESTMENT COMMITTEE
+## INVESTMENT COMMITTEE
 
 | Khaldoon Bin Latif    | Chief Executive Officer         |
 | --------------------- | ------------------------------- |
@@ -2867,18 +2251,8 @@ The investment objective of Alfalah Islamic Stable Return Plan 10 aims to provid
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 
-| Asset Category | Dec   | Jan   |
-| -------------- | ----- | ----- |
-| Cash           | 0.0%  | 0.0%  |
-| Bai Maujjal    | 99.4% | 98.5% |
-| PIBs           | 0.0%  | 0.0%  |
-| T-Bills        | 0.0%  | 0.0%  |
-| Others         | 0.6%  | 1.5%  |
 
-
-ASSET ALLOCATION (% of Total Assets)
-
-# TOTAL EXPENSE RATIO BREAKUP
+## TOTAL EXPENSE RATIO BREAKUP
 
 | Total Expense Ratio Breakup | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
 | --------------------------- | ------- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
@@ -2886,7 +2260,7 @@ ASSET ALLOCATION (% of Total Assets)
 | YTD                         | 0.00%   | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.04%                | 0.01%          | 0.20%                 | 0.19%                    |
 
 
-# FUND PERFORMANCE
+## FUND PERFORMANCE
 
 |                            | BM    | AISRF - X |
 | -------------------------- | ----- | --------- |
@@ -2894,7 +2268,7 @@ ASSET ALLOCATION (% of Total Assets)
 | January-26                 | 9.89% | 10.56%    |
 
 
-# FUND STATISTICS
+## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 3,297  |
 | -------------------------------------------------- | ------ |
@@ -2910,7 +2284,7 @@ ASSET ALLOCATION (% of Total Assets)
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
-# PORTFOLIO CREDIT QUALITY (as % of Total Assets)
+## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
 | Govt. Securities (Rated AAA) | 0.0%  | A1+  | 0.0% |
 | ---------------------------- | ----- | ---- | ---- |
@@ -2922,28 +2296,8 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A                            | 0.0%  | NR   | 1.5% |
 
 
-| Month  | BM    | AISRF - X |
-| ------ | ----- | --------- |
-| Jan-26 | 9.89% | 10.56%    |
 
-
-MONTHLY PERFORMANCE (%) for Jan-26
-
-# Credit Quality (% of Total Assets)
-
-| Rating | Percentage |
-| ------ | ---------- |
-| AA+    | 98.5%      |
-| NR     | 1.5%       |
-
-
-# Details of Non-Compliant Investments
-
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
-
-# Disclaimer
+## Disclaimer
 
 **For Dispute Resolution/Complaints Handling**
 Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
@@ -2953,11 +2307,9 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
 
 
-
-# Fund Managers' Report January-2026
+ Fund Managers' Report January-2026
 
 # Alfalah Islamic Stable Return Fund - Plan XI
 
@@ -3004,15 +2356,6 @@ The investment objective of Alfalah Islamic Stable Return Plan 10 aims to provid
 | Salman Jawaid | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA | Fund manager Equity Funds |
 
-| Asset Category   | Dec  | Jan   |
-| ---------------- | ---- | ----- |
-| Cash             | 0.0% | 0.0%  |
-| Bai Maujjal      | 0.0% | 0.0%  |
-| Plac. with NBFCs | 0.0% | 99.5% |
-| Others           | 0.0% | 0.5%  |
-
-
-ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -3045,12 +2388,7 @@ Modified Duration: 0.07
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
-| Month  | BM    | AISRF - XI |
-| ------ | ----- | ---------- |
-| Jan-26 | 7.84% | 10.13%     |
 
-
-MONTHLY PERFORMANCE (%)
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -3065,18 +2403,9 @@ MONTHLY PERFORMANCE (%)
 | A                            | 0.0%       | NR     | 0.5%       |
 
 
-## Credit Quality (% of Total Assets)
-
-| Rating | Percentage |
-| ------ | ---------- |
-| AAA    | 99.5%      |
-| NR     | 0.5%       |
 
 
-## Details of Non-Compliant Investments
 
-| Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
-| ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
 
 ## Disclaimer
@@ -3089,25 +2418,7 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
 
 
 
-# Alfalah Investments
-## Islamic
 
-**RATED AM1**  
-**by VIS & PACRA**
-
-# JOURNEY OF FAITH
-
-# ELEVATED
-
-The central image shows the Prophet's Mosque (Masjid an-Nabawi) in Medina with its distinctive minarets and Islamic architecture. In the foreground, a man in traditional white Islamic dress walks hand-in-hand with a young child, surrounded by other pilgrims and visitors in the mosque's courtyard. The scene captures the spiritual journey and generational connection in Islamic faith and pilgrimage.
-
-----
-
-**Alfalah Asset Management limited**  
-Islamic Chamber Of Commerce Industry & Agriculture Building,  
-2nd Floor ST-2/A Block 9, KDA Scheme 5, Clifton, Karachi  
-UAN: +92 (21) 111 090 090 | Website: www.alfalahamic.com
