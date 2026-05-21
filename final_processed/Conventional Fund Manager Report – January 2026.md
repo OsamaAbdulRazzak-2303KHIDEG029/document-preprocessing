@@ -1,86 +1,75 @@
-
-
-Alfalah Investments                                                    RATED AM1
-                                                                    by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # CONVENTIONAL
+
 # FUND MANAGERS REPORT
+
 ## January, 2026
 
-021-111-090-090 | www.alfalahamc.com                                #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 **Alfalah Investments** | **RATED AM1 by VIS & PACRA**
 
 # RISK PROFILE OF CONVENTIONAL COLLECTIVE INVESTMENT SCHEMES/PLANS
 
-|    | Fund Name                                  | Scheme Type                           | Risk Level |
-| -- | ------------------------------------------ | ------------------------------------- | ---------- |
-| 1  | Alfalah GHP Alpha Fund                     | Equity Scheme                         | High       |
-| 2  | Alfalah GHP Value Fund                     | Asset Allocation Scheme               | High       |
-| 3  | Alfalah Financial Value Fund               | Asset Allocation scheme               | High       |
-| 4  | Alfalah Financial Value Fund – II          | Asset Allocation scheme               | High       |
-| 5  | Alfalah Asset Allocation Fund              | Asset Allocation scheme               | High       |
-| 6  | Alfalah GHP Stock Fund                     | Equity Scheme                         | High       |
-| 7  | Alfalah GHP Stock Fund - II                | Equity Scheme                         | High       |
-| 8  | Alfalah GHP Sovereign Income Fund          | Sovereign Income Scheme               | Medium     |
-| 9  | Alfalah MTS Fund                           | Income Scheme                         | Medium     |
-| 10 | Alfalah Savings Growth Fund                | Income Scheme                         | Medium     |
-| 11 | Alfalah Financial Sector Income Plan-1     | Income scheme                         | Medium     |
-| 12 | Alfalah Government Securities Fund Plan-I  | Sovereign Income Scheme               | Medium     |
-| 13 | Alfalah Government Securities Fund Plan-II | Sovereign Income Scheme               | Medium     |
-| 14 | Alfalah Government Securities Fund-II      | Sovereign Income Scheme               | Medium     |
-| 15 | Alfalah GHP Consumer Index ETF             | Exchange Traded Fund                  | High       |
-| 16 | Alfalah GHP Money Market Fund              | Money Market Scheme                   | Low        |
-| 17 | Alfalah GHP Money Market Fund - II         | Money Market Scheme                   | Low        |
-| 18 | Alfalah GHP Income Multiplier Fund         | Aggressive Income Scheme              | Medium     |
-| 19 | Alfalah Income & Growth Fund               | Aggressive Income Scheme              | Medium     |
-| 20 | Alfalah Stable Return Fund Plan XVIII      | Fixed Return Scheme                   | Medium     |
-| 21 | Alfalah Stable Return Fund Plan XX         | Fixed Return Scheme                   | Medium     |
-| 22 | Alfalah Stable Return Fund Plan XXI        | Fixed Return Scheme                   | Medium     |
-| 23 | Alfalah Stable Return Fund Plan XXII       | Fixed Return Scheme                   | Medium     |
-| 24 | Alfalah Stable Return Fund Plan XXIII      | Fixed Return Scheme                   | Medium     |
-| 25 | Alfalah Stable Return Fund Plan XXIV       | Fixed Return Scheme                   | Medium     |
-| 26 | Alfalah Stable Return Fund Plan XXV        | Fixed Return Scheme                   | Medium     |
-| 27 | Alfalah Stable Return Fund Plan XXVI       | Fixed Return Scheme                   | Medium     |
-| 28 | Alfalah GHP Income Fund                    | Income Scheme                         | Medium     |
-| 29 | Alfalah Financial Sector Opportunity Fund  | Income Scheme                         | Medium     |
-| 30 | Alfalah GHP Cash Fund                      | Money Market Scheme                   | Low        |
-| 31 | Alfalah GHP Cash Fund - II                 | Money Market Scheme                   | Low        |
-| 32 | Alfalah GHP Dedicated Equity Fund          | Equity Scheme                         | High       |
-| 33 | Alfalah Strategic Allocation Plan—I        | Asset Allocation Fund of Funds Scheme | High       |
-| 34 | Alfalah Special Savings Plan - I           | Capital Protected                     | Very Low   |
-| 35 | Alfalah Special Savings Plan - II          | Capital Protected                     | Very Low   |
-| 36 | Alfalah GHP Prosperity Planning Fund       |                                       |            |
-|    | a) Active Allocation Plan                  | Fund of Fund Scheme                   | High       |
-|    | b) Moderate Allocation Plan                | Fund of Fund Scheme                   | Medium     |
-|    | c) Conservative Allocation Plan            | Fund of Fund Scheme                   | Medium     |
-|    | d) Capital Preservation Plan-4             | Fund of Fund Scheme                   | High       |
-| 37 | Alfalah GHP Pension Fund                   |                                       |            |
-|    | a) Equity Sub Fund                         | Voluntary Pension Fund Scheme         | High       |
-|    | b) Debt Sub Fund                           | Voluntary Pension Fund Scheme         | Medium     |
-|    | c) Money Market Sub Fund                   | Voluntary Pension Fund Scheme         | Low        |
-| 38 | Alfalah GHP Pension Fund - II              |                                       |            |
-|    | a) Equity Sub Fund                         | Voluntary Pension Fund Scheme         | High       |
-|    | b) Debt Sub Fund                           | Voluntary Pension Fund Scheme         | Medium     |
-|    | c) Money Market Sub Fund                   | Voluntary Pension Fund Scheme         | Low        |
-| 39 | Alfalah KPK Employee pension Fund          |                                       |            |
-|    | Money Market sub Fund                      | Voluntary Pension Fund scheme         | Low        |
-
+|     | Fund Name                                  | Scheme Type                           | Risk Level |
+| --- | ------------------------------------------ | ------------------------------------- | ---------- |
+| 1   | Alfalah GHP Alpha Fund                     | Equity Scheme                         | High       |
+| 2   | Alfalah GHP Value Fund                     | Asset Allocation Scheme               | High       |
+| 3   | Alfalah Financial Value Fund               | Asset Allocation scheme               | High       |
+| 4   | Alfalah Financial Value Fund – II          | Asset Allocation scheme               | High       |
+| 5   | Alfalah Asset Allocation Fund              | Asset Allocation scheme               | High       |
+| 6   | Alfalah GHP Stock Fund                     | Equity Scheme                         | High       |
+| 7   | Alfalah GHP Stock Fund - II                | Equity Scheme                         | High       |
+| 8   | Alfalah GHP Sovereign Income Fund          | Sovereign Income Scheme               | Medium     |
+| 9   | Alfalah MTS Fund                           | Income Scheme                         | Medium     |
+| 10  | Alfalah Savings Growth Fund                | Income Scheme                         | Medium     |
+| 11  | Alfalah Financial Sector Income Plan-1     | Income scheme                         | Medium     |
+| 12  | Alfalah Government Securities Fund Plan-I  | Sovereign Income Scheme               | Medium     |
+| 13  | Alfalah Government Securities Fund Plan-II | Sovereign Income Scheme               | Medium     |
+| 14  | Alfalah Government Securities Fund-II      | Sovereign Income Scheme               | Medium     |
+| 15  | Alfalah GHP Consumer Index ETF             | Exchange Traded Fund                  | High       |
+| 16  | Alfalah GHP Money Market Fund              | Money Market Scheme                   | Low        |
+| 17  | Alfalah GHP Money Market Fund - II         | Money Market Scheme                   | Low        |
+| 18  | Alfalah GHP Income Multiplier Fund         | Aggressive Income Scheme              | Medium     |
+| 19  | Alfalah Income & Growth Fund               | Aggressive Income Scheme              | Medium     |
+| 20  | Alfalah Stable Return Fund Plan XVIII      | Fixed Return Scheme                   | Medium     |
+| 21  | Alfalah Stable Return Fund Plan XX         | Fixed Return Scheme                   | Medium     |
+| 22  | Alfalah Stable Return Fund Plan XXI        | Fixed Return Scheme                   | Medium     |
+| 23  | Alfalah Stable Return Fund Plan XXII       | Fixed Return Scheme                   | Medium     |
+| 24  | Alfalah Stable Return Fund Plan XXIII      | Fixed Return Scheme                   | Medium     |
+| 25  | Alfalah Stable Return Fund Plan XXIV       | Fixed Return Scheme                   | Medium     |
+| 26  | Alfalah Stable Return Fund Plan XXV        | Fixed Return Scheme                   | Medium     |
+| 27  | Alfalah Stable Return Fund Plan XXVI       | Fixed Return Scheme                   | Medium     |
+| 28  | Alfalah GHP Income Fund                    | Income Scheme                         | Medium     |
+| 29  | Alfalah Financial Sector Opportunity Fund  | Income Scheme                         | Medium     |
+| 30  | Alfalah GHP Cash Fund                      | Money Market Scheme                   | Low        |
+| 31  | Alfalah GHP Cash Fund - II                 | Money Market Scheme                   | Low        |
+| 32  | Alfalah GHP Dedicated Equity Fund          | Equity Scheme                         | High       |
+| 33  | Alfalah Strategic Allocation Plan—I        | Asset Allocation Fund of Funds Scheme | High       |
+| 34  | Alfalah Special Savings Plan - I           | Capital Protected                     | Very Low   |
+| 35  | Alfalah Special Savings Plan - II          | Capital Protected                     | Very Low   |
+| 36  | Alfalah GHP Prosperity Planning Fund       |                                       |            |
+|     | a) Active Allocation Plan                  | Fund of Fund Scheme                   | High       |
+|     | b) Moderate Allocation Plan                | Fund of Fund Scheme                   | Medium     |
+|     | c) Conservative Allocation Plan            | Fund of Fund Scheme                   | Medium     |
+|     | d) Capital Preservation Plan-4             | Fund of Fund Scheme                   | High       |
+| 37  | Alfalah GHP Pension Fund                   |                                       |            |
+|     | a) Equity Sub Fund                         | Voluntary Pension Fund Scheme         | High       |
+|     | b) Debt Sub Fund                           | Voluntary Pension Fund Scheme         | Medium     |
+|     | c) Money Market Sub Fund                   | Voluntary Pension Fund Scheme         | Low        |
+| 38  | Alfalah GHP Pension Fund - II              |                                       |            |
+|     | a) Equity Sub Fund                         | Voluntary Pension Fund Scheme         | High       |
+|     | b) Debt Sub Fund                           | Voluntary Pension Fund Scheme         | Medium     |
+|     | c) Money Market Sub Fund                   | Voluntary Pension Fund Scheme         | Low        |
+| 39  | Alfalah KPK Employee pension Fund          |                                       |            |
+|     | Money Market sub Fund                      | Voluntary Pension Fund scheme         | Low        |
 
 021-111-090-090 | www.alfalahamc.com | #WealthUnlocked
 
-
----
-
-
-
-Alfalah Investments                    RATED AM1
-                                      by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # Equity Market Review & Outlook:
 
@@ -117,13 +106,7 @@ Looking forward, we believe the KSE-100 Index has a potential to re-rate to its 
 | 29-Jan-26 | 925.1              | 182,400       |
 | 30-Jan-26 | 805.6              | 184,300       |
 
-
 Equity Market Review: Volume (mn shares) and KSE-100 Index Performance for January 2026
-
-
----
-
-
 
 Alfalah Investments
 
@@ -164,12 +147,6 @@ On the liquidity front, the SBP conducted a Treasury bill auction, raising PKR 7
 | 15Y   | 11.87% | 11.58% |
 | 20Y   | 11.94% | 11.70% |
 
-
-
-
----
-
-
 # MONEY MARKET FUNDS
 
 Alfalah Investments
@@ -181,10 +158,6 @@ RATED AM1 by VIS & PACRA
 021-111-090-090 | www.alfalahamc.com
 
 #WealthUnlocked
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -215,9 +188,8 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                  |
 | Leverage:                | NIL                                                                                                                                                                |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jully 01, 2025 through 18th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Jully 01, 2025 through 18th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -237,7 +209,6 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class           | Dec   | Jan   |
@@ -250,7 +221,6 @@ An open-ended Money Market Scheme which shall seek to generate competitive retur
 | T-Bills               | 24.0% | 58.1% |
 | Others                | 0.8%  | 0.4%  |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -260,8 +230,7 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | MTD                         | 0.40%   | 0.08%          | 0.06%       | 0.07%          | 0.01%                | 0.00%                | 0.00%          | 0.62%                 | 0.55%                    |
 | YTD                         | 0.73%   | 0.08%          | 0.06%       | 0.17%          | 0.01%                | 0.00%                | 0.00%          | 1.04%                 | 0.87%                    |
 
-
-***Government Debt securities (GDS) with maturity (between 6 month to one year) having 0,000.0 millions and 00.0% of total Assets
+\*\*\*Government Debt securities (GDS) with maturity (between 6 month to one year) having 0,000.0 millions and 00.0% of total Assets
 
 ## FUND PERFORMANCE
 
@@ -271,7 +240,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | FY26TD                     | 10.56% | 10.01% |
 | January-26                 | 9.95%  | 9.53%  |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.41%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.95%
 
@@ -279,7 +247,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | -------- | ------ | ------ |
 | 3-Year   | 16.38% | 17.02% |
 | 5-Year   | 14.02% | 14.81% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -291,7 +258,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.4% |
-
 
 ## FUND STATISTICS
 
@@ -305,7 +271,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | YTM                                                | 10.1%  |
 | Duration                                           | 0.09   |
 | Modified Duration                                  | 0.08   |
-
 
 Amount invested by fund of funds is Rs. 215.0 million substracted from total
 
@@ -327,7 +292,6 @@ Amount invested by fund of funds is Rs. 215.0 million substracted from total
 | Dec-25 | 10.48% | 10.05% |
 | Jan-26 | 9.95%  | 9.53%  |
 
-
 MONTHLY PERFORMANCE (%) - BM vs AGMMF (Jan 2025 - Jan 2026)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -337,7 +301,6 @@ MONTHLY PERFORMANCE (%) - BM vs AGMMF (Jan 2025 - Jan 2026)
 | Mahmood Textile Mills Limited-SUKUK (09-Jan-2026)       | 0.39% |
 | Pakistan Microfinance Investment Co Ltd - CP 12-09-2025 | 0.32% |
 
-
 ## Historical Performance
 
 |       | FY21 | FY22  | FY23  | FY24  | FY25  |
@@ -345,12 +308,10 @@ MONTHLY PERFORMANCE (%) - BM vs AGMMF (Jan 2025 - Jan 2026)
 | AGMMF | 6.9% | 10.9% | 17.7% | 22.2% | 14.8% |
 | BM    | 6.7% | 9.3%  | 17.1% | 20.9% | 13.9% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 **Disclaimer**
 
@@ -361,10 +322,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothingherein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Pleaseread the Offering Document to understand the investment policies and risks involved. All returns are calculated assumingreinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -395,7 +352,6 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                  |
 | Leverage:                | NIL                                                                                                                                                                |
 
-
 ## INVESTMENT OBJECTIVE
 
 Aim to generate competitive returns with minimum risk and enhanced liquidity by investing primarily in short-term government securities, term deposits and money market instruments with weighted average time to maturity of Net Assets not exceeding 90 days.
@@ -414,7 +370,6 @@ Aim to generate competitive returns with minimum risk and enhanced liquidity by 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category        | Dec   | Jan   |
@@ -427,11 +382,10 @@ Aim to generate competitive returns with minimum risk and enhanced liquidity by 
 | T-Bills               | 0.0%  | 0.0%  |
 | Others                | 5.1%  | 9.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-<sup>***</sup> Management fee of the fund has been amended from Jul 01, 2025 through 18th supplemental OD with consent of the SECP
+<sup>\***</sup> Management fee of the fund has been amended from Jul 01, 2025 through 18th supplemental OD with consent of the SECP
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -440,8 +394,7 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.50%   | 0.08%          | 0.06%       | 0.08%          | 0.01%                | 0.38%                | 0.00%          | 1.10%                 | 1.02%                    |
 | YTD                         | 1.21%   | 0.08%          | 0.06%       | 0.28%          | 0.01%                | 0.21%                | 0.00%          | 1.84%                 | 1.56%                    |
 
-
-*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets"
+**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets"
 
 ## FUND PERFORMANCE
 
@@ -451,13 +404,11 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.56% | 9.92%   |
 | January-26                 | 9.95%  | 12.15%  |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.41%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.95%
 
 | 365 Days | 10.92% | 10.75% |
 | -------- | ------ | ------ |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -470,7 +421,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 9.2% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 215    |
@@ -481,7 +431,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | Portfolio Turnover Ratio                           | 0.0%   |
 | Wtd. Average Maturity (Days):                      | 0.99   |
 | YTM                                                | 0.0%   |
-
 
 Amount invested by fund of funds is Rs. 86.2 million substracted from total
 
@@ -503,7 +452,6 @@ Amount invested by fund of funds is Rs. 86.2 million substracted from total
 | Dec-25 | 10.48% | 8.94%   |
 | Jan-26 | 9.95%  | 12.15%  |
 
-
 MONTHLY PERFORMANCE (%) showing BM and AMMF II returns from January 2025 to January 2026
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -515,12 +463,10 @@ MONTHLY PERFORMANCE (%) showing BM and AMMF II returns from January 2025 to Janu
 | AMMF - II | 14.23% |
 | BM        | 13.86% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -531,10 +477,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -565,9 +507,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                   |
 | Leverage:                | NIL                                                                                                                                                                 |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from July 01, 2025 through 17th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from July 01, 2025 through 17th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -587,7 +528,6 @@ The investment objective of Alfalah GHP Cash Fund (AGCF) is to provide regular s
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category        | Dec   | Jan   |
@@ -600,7 +540,6 @@ The investment objective of Alfalah GHP Cash Fund (AGCF) is to provide regular s
 | T-Bills               | 14.4% | 51.2% |
 | Others                | 0.8%  | 0.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -610,8 +549,7 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.20%   | 0.08%          | 0.06%       | 0.19%          | 0.01%                | 0.01%                | 0.00%          | 1.54%                 | 1.35%                    |
 | YTD                         | 1.14%   | 0.08%          | 0.06%       | 0.23%          | 0.01%                | 0.01%                | 0.00%          | 1.51%                 | 1.29%                    |
 
-
-"*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets"
+"**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets"
 
 ## FUND PERFORMANCE
 
@@ -621,7 +559,6 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.56% | 9.49% |
 | January-26                 | 9.95%  | 8.47% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.41%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.95%
 
@@ -629,7 +566,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | -------- | ------ | ------ |
 | 3-Year   | 16.38% | 16.68% |
 | 5-Year   | 14.02% | 14.62% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -641,7 +577,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.2% |
-
 
 ## FUND STATISTICS
 
@@ -655,7 +590,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | YTM                                                | 10.2%  |
 | Duration                                           | 0.07   |
 | Modified Duration                                  | 0.07   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -677,14 +611,12 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.48% | 9.23%  |
 | Jan-26 | 9.95%  | 8.47%  |
 
-
 MONTHLY PERFORMANCE (%) showing BM vs AGCF from January 2025 to January 2026
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
 
 | Pakistan Microfinance Investment Co Ltd - CP 12-09-2025 | 1.56% |
 | ------------------------------------------------------- | ----- |
-
 
 ## Historical Performance
 
@@ -693,13 +625,11 @@ MONTHLY PERFORMANCE (%) showing BM vs AGCF from January 2025 to January 2026
 | AGCF | 7.0% | 11.0% | 17.5% | 22.2% | 14.3% |
 | BM   | 6.7% | 9.3%  | 17.1% | 20.9% | 13.9% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name                                  | Type          | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ------------------------------------- | ------------- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | Pak Brunei Investment Company Limited | Single Entity | 1,600,000,000             | -                         | 1,600,000,000            | 10.09%         | 10.13%       |
-
 
 ## Disclaimer
 
@@ -710,10 +640,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -744,7 +670,6 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:             | 9:00 am - 4:00 pm                                                                                                                                           |
 | Leverage:                 | NIL                                                                                                                                                         |
 
-
 ## INVESTMENT OBJECTIVE
 
 Aim to generate competitive returns with minimum risk and enhanced liquidity by investing primarily in short-term government securities, term deposits and money market instruments with weighted average time to maturity of Net Assets not exceeding 90 days.
@@ -763,7 +688,6 @@ Aim to generate competitive returns with minimum risk and enhanced liquidity by 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class           | Dec   | Jan   |
@@ -775,7 +699,6 @@ Aim to generate competitive returns with minimum risk and enhanced liquidity by 
 | PIBs                  | 0.0%  | 0.0%  |
 | T-Bills               | 2.1%  | 52.7% |
 | Others                | 0.3%  | 1.0%  |
-
 
 ASSET ALLOCATION (% of Total Assets) comparing December and January data across various asset classes.
 
@@ -789,8 +712,7 @@ ASSET ALLOCATION (% of Total Assets) comparing December and January data across 
 | MTD                         | 0.00% | 0.08%          | 0.06%       | 0.01%          | 0.00%                | 0.01%                | 0.00%          | 0.16%                 | 0.15%                    |
 | YTD                         | 0.63% | 0.08%          | 0.06%       | 0.17%          | 0.00%                | 0.03%                | 0.00%          | 0.96%                 | 0.80%                    |
 
-
-*****Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets
+**\***Government Debt securities (GDS) with maturity(between 6 month to one year) having 0 millions and 0.00 of total Assets
 
 ## FUND PERFORMANCE
 
@@ -800,13 +722,11 @@ ASSET ALLOCATION (% of Total Assets) comparing December and January data across 
 | FY26TD                     | 10.56% | 9.81%  |
 | January-26                 | 9.95%  | 9.93%  |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.41%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.95%
 
 | 365 Days | 10.92% | 10.55% |
 | -------- | ------ | ------ |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -820,7 +740,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.0% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 8,839  |
@@ -833,7 +752,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.41%
 | YTM                                                | 10.2%  |
 | Duration                                           | 0.09   |
 | Modified Duration                                  | 0.08   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -855,7 +773,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.48% | 10.27% |
 | Jan-26 | 9.95%  | 9.93%  |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah Cash Fund - II vs Benchmark (BM)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -867,12 +784,10 @@ MONTHLY PERFORMANCE (%) - Alfalah Cash Fund - II vs Benchmark (BM)
 | ACF - II | 14.5% |
 | BM       | 13.9% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -883,10 +798,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc.
-
----
-
-
 
 # STOCK FUNDS
 
@@ -900,10 +811,6 @@ This publication is for informational purposes only and nothing herein should be
 021-111-090-090 | www.alfalahamc.com
 
 #WealthUnlocked
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -934,7 +841,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                   |
 | Leverage:                | NIL                                                                 |
 
-
 ## INVESTMENT OBJECTIVE
 
 The investment objective of Alfalah GHP Stock Fund (AGSF) is to seek long-term capital growth by investing primarily in a diversified pool of equities and equity related instruments, management team shall ensure the active implementation of prudent investment practices, the highest professional standards and compliance of applicable laws.
@@ -953,7 +859,6 @@ The investment objective of Alfalah GHP Stock Fund (AGSF) is to seek long-term c
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -962,12 +867,10 @@ The investment objective of Alfalah GHP Stock Fund (AGSF) is to seek long-term c
 | Stocks/Equities | 88.8% | 96.5% |
 | Others          | 4.1%  | 0.3%  |
 
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-* Calculated on 12-month trailing data.
-** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from July 01, 2025 through 11th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.
+  ** Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from July 01, 2025 through 11th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -975,7 +878,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | --------------------------- | ------- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 3.00%   | 0.10%          | 0.11%       | 0.59%          | 0.90%                | 0.01%                | 0.00%          | 4.70%                 | 4.11%                    |
 | YTD                         | 3.00%   | 0.10%          | 0.11%       | 0.57%          | 0.71%                | 0.01%                | 0.00%          | 4.49%                 | 3.92%                    |
-
 
 ## FUND PERFORMANCE
 
@@ -989,7 +891,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | 3-Year                                                                                                   | 352.82% | 387.47% |
 | 5-Year                                                                                                   | 297.05% | 284.22% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 15,277 |
@@ -1001,7 +902,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Portfolio Turnover Ratio                           | 19.7%  |
 | Standard Deviation\*                               | 2.8%   |
 | Beta\*                                             | 1.09   |
-
 
 Amount invested by fund of funds is Rs. 266.2 million substracted from total
 
@@ -1019,7 +919,6 @@ Amount invested by fund of funds is Rs. 266.2 million substracted from total
 | Pioneer Cement Limited           | 3.55% |
 | Lucky Cement Limited             | 3.51% |
 
-
 | Month  | BM     | AGSF   |
 | ------ | ------ | ------ |
 | Jan-25 | -0.76% | -2.51% |
@@ -1036,7 +935,6 @@ Amount invested by fund of funds is Rs. 266.2 million substracted from total
 | Dec-25 | 4.43%  | 7.39%  |
 | Jan-26 | 5.81%  | 6.11%  |
 
-
 MONTHLY PERFORMANCE: BM vs AGSF (Jan-2025 to Jan-2026)
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
@@ -1050,7 +948,6 @@ MONTHLY PERFORMANCE: BM vs AGSF (Jan-2025 to Jan-2026)
 | Others                          | 29.80% |
 | Total                           | 96.53% |
 
-
 ## Historic Returns:
 
 |      | FY21  | FY22   | FY23  | FY24  | FY25  |
@@ -1058,24 +955,17 @@ MONTHLY PERFORMANCE: BM vs AGSF (Jan-2025 to Jan-2026)
 | AGSF | 38.9% | -19.9% | -0.8% | 95.7% | 63.3% |
 | BM   | 37.6% | -12.3% | -0.2% | 89.2% | 60.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
 | For Dispute Resolution/Complaints Handling<br/>Email: complaint\@alfalahamc.com \| Call us at 0300-0707417, +92 111 090 090 | SECP Complaints Handling<br/>www\.s dms.secp.gov.pk |
 | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 
-
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -1106,9 +996,8 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 3:30 pm                                                    |
 | Leverage:                | NIL                                                                  |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -1128,7 +1017,6 @@ The objective of Alfalah Stock Fund - II (ASF- II) is to provide capital growth 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -1136,7 +1024,6 @@ The objective of Alfalah Stock Fund - II (ASF- II) is to provide capital growth 
 | Cash            | 6.7%  | 16.4% |
 | Stocks/Equities | 91.3% | 83.0% |
 | Others          | 2.0%  | 0.6%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -1147,7 +1034,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | MTD                         | 3.00%   | 0.10%          | 0.20%           | 0.66%           | 1.41%                | 0.93%                | 0.00%          | 6.29%                 | 5.63%                    |
 | YTD                         | 3.00%   | 0.09%          | 0.20%           | 0.61%           | 1.16%                | 1.18%                | 0.00%          | 6.24%                 | 5.63%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASF - II |
@@ -1155,7 +1041,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Since Inception Return\*\* | 17.40% | 7.89%    |
 | FY26TD                     | 46.60% | 38.11%   |
 | January-26                 | 5.81%  | 6.94%    |
-
 
 Avg. Peer Group Return for Jan, 2026 was 6.07%  
 5 year Avg. Peer Group Return for Jan, 2026 was 2.82%
@@ -1171,7 +1056,6 @@ Avg. Peer Group Return for Jan, 2026 was 6.07%
 | Portfolio Turnover Ratio                           | 16.5% |
 | Standard Deviation\*                               | 1.2%  |
 | Beta\*                                             | 0.95  |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -1189,7 +1073,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Service Industries Limited             | 3.79% |
 | MCB Bank Limited                       | 3.71% |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Commercial Banks                | 21.34% |
@@ -1200,7 +1083,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Power Generation & Distribution | 4.53%  |
 | Others                          | 32.41% |
 | Total                           | 82.99% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -1220,7 +1102,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 4.43%  | 6.81%    |
 | Jan-26 | 5.81%  | 6.94%    |
 
-
 MONTHLY PERFORMANCE showing BM vs ASF - II from Jan-25 to Jan-26
 
 ## MONTHLY PERFORMANCE
@@ -1230,12 +1111,10 @@ MONTHLY PERFORMANCE showing BM vs ASF - II from Jan-25 to Jan-26
 | ASF - II | 70.0% |
 | BM       | 60.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -1246,10 +1125,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -1280,7 +1155,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                   |
 | Leverage:                | NIL                                                                 |
 
-
 ## INVESTMENT OBJECTIVE
 
 The investment objective of Alfalah GHP Alpha Fund (AGAF) is seeking long term capital appreciation from a portfolio that is substantially constituted of equity and equity related securities.
@@ -1299,7 +1173,6 @@ The investment objective of Alfalah GHP Alpha Fund (AGAF) is seeking long term c
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -1308,12 +1181,11 @@ The investment objective of Alfalah GHP Alpha Fund (AGAF) is seeking long term c
 | Stocks/Equities | 78.6% | 91.2% |
 | Others          | 0.1%  | 0.1%  |
 
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
-* Calculated on 12-month trailing data.  
-** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from July 01, 2025 through 10th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.  
+  ** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*** Management fee of the fund has been amended from July 01, 2025 through 10th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -1321,7 +1193,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | --------------------------- | ------- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 3.00%   | 0.10%          | 0.11%       | 0.61%          | 0.95%                | 0.02%                | 0.00%          | 4.78%                 | 4.17%                    |
 | YTD                         | 3.00%   | 0.10%          | 0.12%       | 0.59%          | 0.82%                | 0.03%                | 0.00%          | 4.66%                 | 4.07%                    |
-
 
 ## FUND PERFORMANCE
 
@@ -1335,7 +1206,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | 3-Year                                                                                                   | 352.82% | 393.28% |
 | 5-Year                                                                                                   | 297.05% | 301.24% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 7,263  |
@@ -1347,7 +1217,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Portfolio Turnover Ratio                           | 24.0%  |
 | Standard Deviation\*                               | 2.7%   |
 | Beta\*                                             | 1.07   |
-
 
 Amount invested by fund of funds is Rs. 0.4 million substracted from total
 
@@ -1365,7 +1234,6 @@ Amount invested by fund of funds is Rs. 0.4 million substracted from total
 | Nishat Power Limited               | 3.20% |
 | Habib Bank Limited                 | 3.15% |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Commercial Banks                | 21.86% |
@@ -1376,7 +1244,6 @@ Amount invested by fund of funds is Rs. 0.4 million substracted from total
 | Oil & Gas Exploration Companies | 8.00%  |
 | Others                          | 30.16% |
 | Total                           | 91.16% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -1396,7 +1263,6 @@ Amount invested by fund of funds is Rs. 0.4 million substracted from total
 | Dec-25 | 4.43%  | 7.51%  |
 | Jan-26 | 5.81%  | 6.09%  |
 
-
 MONTHLY PERFORMANCE: BM vs AGAF (Jan-25 to Jan-26)
 
 ## Historic Returns:
@@ -1406,12 +1272,10 @@ MONTHLY PERFORMANCE: BM vs AGAF (Jan-25 to Jan-26)
 | AGAF | 39.3% | -18.0% | -0.3% | 90.3% | 69.0% |
 | BM   | 37.6% | -12.3% | -0.2% | 89.2% | 60.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -1422,10 +1286,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -1456,10 +1316,9 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                   |
 | Leverage:                | NIL                                                                 |
 
-
-* Calculated on 12-month trailing data.  
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from July 01, 2025 through 05th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.  
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*** Management fee of the fund has been amended from July 01, 2025 through 05th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -1479,7 +1338,6 @@ Alfalah GHP Dedicated Equity Fund (AGDEF) is an Open-end Equity Fund. The object
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class      | Dec   | Jan   |
@@ -1487,7 +1345,6 @@ Alfalah GHP Dedicated Equity Fund (AGDEF) is an Open-end Equity Fund. The object
 | Cash             | 1.0%  | 1.8%  |
 | Stocks/ Equities | 98.1% | 97.4% |
 | Others           | 0.8%  | 0.8%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across Cash, Stocks/Equities, and Others categories.
 
@@ -1498,7 +1355,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across C
 | MTD                         | 3.00% | 0.10%          | 0.20%       | 0.49%          | 0.10%                | 0.08%                | 0.03%          | 3.99%                 | 3.51%                    |
 | YTD                         | 3.00% | 0.10%          | 0.20%       | 0.51%          | 0.31%                | 0.12%                | 0.03%          | 4.28%                 | 3.76%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM      | AGDEF   |
@@ -1508,7 +1364,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across C
 | January-26                 | 5.81%   | 6.49%   |
 | 365 Days                   | 61.19%  | 60.08%  |
 | 3-Year                     | 352.82% | 383.79% |
-
 
 Avg. Peer Group Return for Jan, 2026 was 6.07%  
 5 year Avg. Peer Group Return for Jan, 2026 was 2.82%
@@ -1524,7 +1379,6 @@ Avg. Peer Group Return for Jan, 2026 was 6.07%
 | Portfolio Turnover Ratio                           | 0.0%   |
 | Standard Deviation\*                               | 3.4%   |
 | Beta\*                                             | 1.02   |
-
 
 Amount invested by fund of funds is Rs. 504.9 million substracted from total
 
@@ -1542,7 +1396,6 @@ Amount invested by fund of funds is Rs. 504.9 million substracted from total
 | Oil & Gas Development Company Limited | 3.77% |
 | The Hub Power Company Limited         | 3.73% |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Commercial Banks                | 30.54% |
@@ -1553,7 +1406,6 @@ Amount invested by fund of funds is Rs. 504.9 million substracted from total
 | Oil & Gas Marketing Companies   | 7.45%  |
 | Others                          | 30.15% |
 | Total                           | 97.40% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -1573,7 +1425,6 @@ Amount invested by fund of funds is Rs. 504.9 million substracted from total
 | Dec-25 | 4.43%  | 6.13%  |
 | Jan-26 | 5.81%  | 6.49%  |
 
-
 MONTHLY PERFORMANCE: BM vs AGDEF (Jan-25 to Jan-26)
 
 ## Historic Returns
@@ -1583,13 +1434,11 @@ MONTHLY PERFORMANCE: BM vs AGDEF (Jan-25 to Jan-26)
 | AGDEF | 90.9% | 68.9% |
 | BM    | 89.2% | 60.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name            | Type   | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets |
 | --------------- | ------ | ------------------------- | ------------------------- | ------------------------ | -------------- |
 | Commercial Bank | Sector | 155,554,311               | 0                         | 155,554,311              | 30.68%         |
-
 
 ## Disclaimer
 
@@ -1601,24 +1450,15 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
-Alfalah Investments                    RATED AM1
-                                      by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # INCOME FUNDS
 
 CONVENTIONAL
 FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Fund Managers' Report January-2026
 AMC Rating: "AM1" by VIS 26-Jan-26
@@ -1648,9 +1488,7 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                      |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended Jul 01, 2025 through 12th supplemental OD with consent of the trustee
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended Jul 01, 2025 through 12th supplemental OD with consent of the trustee
 
 ## INVESTMENT OBJECTIVE
 
@@ -1670,7 +1508,6 @@ The investment objective of Alfalah GHP Income Fund (AGIF) is to minimize risk, 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category          | Dec   | Jan   |
@@ -1684,7 +1521,6 @@ The investment objective of Alfalah GHP Income Fund (AGIF) is to minimize risk, 
 | MTS & Spread Trans.     | 17.6% | 13.7% |
 | Others                  | 3.7%  | 30.3% |
 
-
 ASSET ALLOCATION (% of Total Assets) showing Dec and Jan series across various asset categories
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -1694,7 +1530,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan series across various a
 | MTD                         | 1.50% | 0.08%          | 0.08%       | 0.25%          | 0.10%                | 0.02%                | 0.06%          | 2.07%                 | 1.82%                    |
 | YTD                         | 1.50% | 0.08%          | 0.08%       | 0.39%          | 0.11%                | 0.02%                | 0.11%          | 2.28%                 | 1.89%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AGIF   |
@@ -1702,7 +1537,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan series across various a
 | Since Inception Return\*\* | 11.26% | 9.86%  |
 | FY26TD                     | 10.47% | 10.56% |
 | January-26                 | 9.96%  | 10.41% |
-
 
 Avg. Peer Group Return for Jan, 2026 was 10.02%
 5 year Avg. Peer Group Return for Jan, 2026 was 13.41%
@@ -1712,7 +1546,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | 365 Days | 10.80% | 11.00% |
 | 3-Year   | 16.82% | 18.01% |
 | 5-Year   | 14.94% | 14.63% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -1726,7 +1559,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | A+                           | 1.2%  | IG   | 0.0%  |
 | A                            | 21.2% | NR   | 30.3% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 8,712  |
@@ -1739,7 +1571,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | YTM                                                | 10.5%  |
 | Duration                                           | 0.08   |
 | Modified Duration                                  | 0.07   |
-
 
 Amount invested by fund of funds is Rs. 170.6 million substracted from total
 
@@ -1761,7 +1592,6 @@ Amount invested by fund of funds is Rs. 170.6 million substracted from total
 | Dec-25 | 10.36% | 11.95% |
 | Jan-26 | 9.96%  | 10.41% |
 
-
 MONTHLY PERFORMANCE (%) showing BM vs AGIF from Jan-25 to Jan-26
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -1775,7 +1605,6 @@ MONTHLY PERFORMANCE (%) showing BM vs AGIF from Jan-25 to Jan-26
 | K-ELECTRIC LTD. - SUKUK (03-08-20) | 0.15% |
 | MUGHAL - SUKUK (02-03-2021)        | 0.03% |
 
-
 ## Historical Performance
 
 |      | FY21 | FY22 | FY23  | FY24  | FY25  |
@@ -1783,12 +1612,10 @@ MONTHLY PERFORMANCE (%) showing BM vs AGIF from Jan-25 to Jan-26
 | AGIF | 7.0% | 8.0% | 17.1% | 23.8% | 15.8% |
 | BM   | 7.4% | 7.7% | 18.3% | 21.9% | 13.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -1800,12 +1627,8 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
-Alfalah Investments                                                    RATED AM1
-                                                                      by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # Investment Plans Summary Report for January 2026
 
@@ -1818,7 +1641,6 @@ Alfalah Investments                                                    RATED AM1
 | Cumulative Net Assets (CIS)                         | 18,136,122,694                       |
 | Risk Profile (CIS)                                  | Medium                               |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 92,570     |
@@ -1828,20 +1650,12 @@ Alfalah Investments                                                    RATED AM1
 | Formation Cost Amortization | 23,495     |
 | Other Expenses              | 25,037,410 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name                      | Date of Launch | Maturity Date | Risk Profile | Net Assets     | Status (Active/Matured) |
 | ----------------------------------------- | -------------- | ------------- | ------------ | -------------- | ----------------------- |
 | Alfalah Financial Sector Income Plan – I  | 02-Aug-23      | Perpetual     | Medium       | 18,136,122,694 | Active                  |
 | Alfalah Financial Sector Income Plan – II | 15-Jul-24      | 10-Jun-25     | Medium       | NA             | Matured                 |
-
-
-
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -1861,7 +1675,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Sales Load:** upto 2.00%  
 **Risk Profile:** Medium  
-**Management Fee***:** upto 1.5% per annum of the average daily net assets  
+**Management Fee\***:** upto 1.5% per annum of the average daily net assets  
 **Min. Initial Investment:** PKR 500/-  
 **Min. Suseq. Investment:** PKR 100/-  
 **Auditor:** Yousuf Adil Chartered Accountants  
@@ -1869,10 +1683,10 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-Off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended Jul 01, 2025 through 4th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended Jul 01, 2025 through 4th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -1902,7 +1716,6 @@ The objective of the Alfalah Financial Sector Income Fund is to provide income e
 | T-Bills                  | 3.3%  | 2.4%  |
 | Others                   | 3.8%  | 0.8%  |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan data across various asset categories
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -1912,7 +1725,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan data across various a
 | MTD                         | 1.50%   | 0.08%          | 0.08%                  | 0.24%                | 0.00%                | 0.01%          | 0.00%                 | 1.90%                    |
 | YTD                         | 0.99%   | 0.08%          | 0.08%                  | 0.17%                | 0.00%                | 0.01%          | 0.00%                 | 1.32%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AFSIF - I |
@@ -1921,14 +1733,12 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan data across various a
 | FY26TD                     | 10.46% | 10.42%    |
 | January-26                 | 9.96%  | 9.30%     |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.91%  
 5 year Avg. Peer Group Return for Jan, 2026 was 14.44%
 
 |          | BM     | AFSIF - I |
 | -------- | ------ | --------- |
 | 365 Days | 10.89% | 11.03%    |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -1941,7 +1751,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.91%
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 85.2% | NR   | 0.8% |
-
 
 ## FUND STATISTICS
 
@@ -1975,7 +1784,6 @@ Amount invested by fund of funds is Rs. 24.8 million substracted from total
 | Dec-25 | 10.36% | 11.38%    |
 | Jan-26 | 9.96%  | 9.30%     |
 
-
 Monthly Performance (%) showing BM and AFSIF - I from Jan-25 to Jan-26
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -1989,12 +1797,10 @@ Monthly Performance (%) showing BM and AFSIF - I from Jan-25 to Jan-26
 | AFSIF - I | 14.5% |
 | BM        | 13.7% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -2005,10 +1811,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -2039,9 +1841,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                      |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -2061,7 +1862,6 @@ The objective of Alfalah MTS Fund (AMTSF) is to provide competitive returns prim
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class | Dec   | Jan   |
@@ -2072,7 +1872,6 @@ The objective of Alfalah MTS Fund (AMTSF) is to provide competitive returns prim
 | T-Bills     | 5.5%  | 10.3% |
 | Others      | 1.2%  | 1.4%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -2082,7 +1881,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.11%   | 0.08%          | 0.08%                  | 0.18%                | 0.07%                | 0.03%          | 0.64%                 | 2.18%                    | 2.00% |
 | YTD                         | 1.35%   | 0.07%          | 0.07%                  | 0.21%                | 0.08%                | 0.04%          | 0.47%                 | 2.31%                    | 2.10% |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AMTSF  |
@@ -2091,13 +1889,11 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.46% | 11.42% |
 | January-26                 | 9.96%  | 10.59% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 10.02%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.41%
 
 | 365 Days | 10.89% | 11.53% |
 | -------- | ------ | ------ |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -2109,7 +1905,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | AA-                          | 32.4% | BBB  | 0.0%  |
 | A+                           | 0.0%  | IG   | 0.0%  |
 | A                            | 0.0%  | NR   | 54.0% |
-
 
 ## FUND STATISTICS
 
@@ -2123,7 +1918,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | YTM                                                | 10.5%  |
 | Duration                                           | 0.02   |
 | Modified Duration                                  | 0.02   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -2145,7 +1939,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.36% | 10.42% |
 | Jan-26 | 9.96%  | 10.59% |
 
-
 MONTHLY PERFORMANCE (%) - BM vs AMTSF (Jan-25 to Jan-26)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -2157,12 +1950,10 @@ MONTHLY PERFORMANCE (%) - BM vs AMTSF (Jan-25 to Jan-26)
 | AMTSF | 12.5% |
 | BM    | 13.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -2173,10 +1964,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -2207,9 +1994,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                      |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jul 01, 2025 through 15th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended from Jul 01, 2025 through 15th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -2229,7 +2015,6 @@ The prime objective of the fund is to generate competitive returns by investing 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class             | Dec   | Jan   |
@@ -2241,7 +2026,6 @@ The prime objective of the fund is to generate competitive returns by investing 
 | Others                  | 3.1%  | 1.7%  |
 | MTS                     | 6.6%  | 1.4%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -2251,7 +2035,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.60%   | 0.08%          | 0.08%                  | 0.10%                | 0.04%                | 0.07%          | 0.14%                 | 1.10%                    | 1.00% |
 | YTD                         | 0.60%   | 0.07%          | 0.07%                  | 0.10%                | 0.04%                | 0.08%          | 0.13%                 | 1.11%                    | 1.00% |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASGF   |
@@ -2260,13 +2043,11 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.46% | 12.38% |
 | January-26                 | 9.96%  | 12.65% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 10.02%  
 5 year Avg. Peer Group Return for Jan, 2026 was 13.41%
 
 | 365 Days | 10.89% | 13.04% |
 | -------- | ------ | ------ |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -2278,7 +2059,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | AA-                          | 28.5% | BBB  | 0.0% |
 | A+                           | 0.3%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.7% |
-
 
 ## FUND STATISTICS
 
@@ -2292,7 +2072,6 @@ Avg. Peer Group Return for Jan, 2026 was 10.02%
 | YTM                                                | 10.3%  |
 | Duration                                           | 0.04   |
 | Modified Duration                                  | 0.04   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -2314,7 +2093,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.36% | 22.14% |
 | Jan-26 | 9.96%  | 12.65% |
 
-
 MONTHLY PERFORMANCE (%) - BM vs ASGF (Jan-25 to Jan-26)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -2326,12 +2104,10 @@ MONTHLY PERFORMANCE (%) - BM vs ASGF (Jan-25 to Jan-26)
 | ASGF | 21.0% |
 | BM   | 13.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -2342,10 +2118,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -2374,9 +2146,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                      |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
 
 # INVESTMENT OBJECTIVE
 
@@ -2396,7 +2166,6 @@ Alfalah Financial Sector Opportunity Fund seeks to provide a competitive rate of
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 # ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category | Dec   | Jan   |
@@ -2407,7 +2176,6 @@ Alfalah Financial Sector Opportunity Fund seeks to provide a competitive rate of
 | T-Bills        | 0.0%  | 0.0%  |
 | Others         | 8.8%  | 3.4%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 # TOTAL EXPENSE RATIO BREAKUP
@@ -2417,7 +2185,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.00%   | 0.08%          | 0.08%                  | 0.16%                | 0.01%                | 0.37%          | 0.00%                 | 1.69%                    | 1.53% |
 | YTD                         | 1.01%   | 0.08%          | 0.08%                  | 0.22%                | 0.15%                | 0.44%          | 0.00%                 | 1.97%                    | 1.75% |
 
-
 # FUND PERFORMANCE
 
 |                            | BM     | AFSOF  |
@@ -2426,13 +2193,11 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.46% | 13.64% |
 | January-26                 | 9.96%  | 10.34% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.91%
 5 year Avg. Peer Group Return for Jan, 2026 was 14.44%
 
 | 365 Days | 10.41% | 12.93% |
 | -------- | ------ | ------ |
-
 
 # PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -2444,7 +2209,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.91%
 | AA-                          | 16.2% | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 79.3% | NR   | 3.4% |
-
 
 # FUND STATISTICS
 
@@ -2458,7 +2222,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.91%
 | YTM                                                | 14.1%  |
 | Duration                                           | 0.04   |
 | Modified Duration                                  | 0.04   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -2480,14 +2243,12 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.36% | 17.31% |
 | Jan-26 | 9.96%  | 10.34% |
 
-
 MONTHLY PERFORMANCE (%) - BM vs AFSOF (Jan 2025 - Jan 2026)
 
 # TFC/SUKUK HOLDINGS (% of Total Assets)
 
 | TPL CORP LIMITED - TFC (3RD TPLTFC3 ISSUE) | 13.35% |
 | ------------------------------------------ | ------ |
-
 
 ## Historical Performance
 
@@ -2496,12 +2257,10 @@ MONTHLY PERFORMANCE (%) - BM vs AFSOF (Jan 2025 - Jan 2026)
 | AFSOF | 12.4% |
 | BM    | 13.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 **Disclaimer**
 
@@ -2512,11 +2271,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
-
----
-
-
 
 Alfalah Investments
 
@@ -2532,10 +2286,6 @@ by VIS & PACRA
 021-111-090-090 | www.alfalahamc.com
 
 #WealthUnlocked
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -2566,7 +2316,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                |
 | Leverage:                | NIL                                                                                                                                                              |
 
-
 ## INVESTMENT OBJECTIVE
 
 The primary investment objective of the fund is to aim to generate stable and consistent returns while seeking capital growth through a diversified portfolio of high quality debt securities and liquid money market instruments and placements.
@@ -2585,7 +2334,6 @@ The primary investment objective of the fund is to aim to generate stable and co
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class             | Dec   | Jan   |
@@ -2599,11 +2347,9 @@ The primary investment objective of the fund is to aim to generate stable and co
 | MTS                     | 26.0% | 18.3% |
 | Others                  | 4.5%  | 14.2% |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended Jul 01, 2025 through 13th supplemental OD with consent of the SECP
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended Jul 01, 2025 through 13th supplemental OD with consent of the SECP
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -2611,7 +2357,6 @@ ASSET ALLOCATION (% of Total Assets)
 | --------------------------- | ------- | -------------- | --------------- | --------------------------- | -------------------- | -------------- | --------------------- | ------------------------ | ----- |
 | MTD                         | 0.86%   | 0.08%          | 0.08%           | 0.17%                       | 0.24%                | 0.03%          | 0.05%                 | 1.50%                    | 1.33% |
 | YTD                         | 1.31%   | 0.08%          | 0.08%           | 0.24%                       | 0.24%                | 0.06%          | 0.08%                 | 2.08%                    | 1.84% |
-
 
 ## FUND PERFORMANCE
 
@@ -2625,7 +2370,6 @@ ASSET ALLOCATION (% of Total Assets)
 | 3-Year                                                                                                     | 16.78% | 20.40% |
 | 5-Year                                                                                                     | 15.18% | 14.41% |
 
-
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
 |                              |       |      |       |
@@ -2637,7 +2381,6 @@ ASSET ALLOCATION (% of Total Assets)
 | AA-                          | 0.0%  | BBB  | 0.0%  |
 | A+                           | 0.0%  | IG   | 0.0%  |
 | A                            | 40.4% | NR   | 32.5% |
-
 
 ## FUND STATISTICS
 
@@ -2657,7 +2400,6 @@ ASSET ALLOCATION (% of Total Assets)
 | Dec-25 | 10.98% | 9.58%   |
 | Jan-26 | 10.47% | 9.69%   |
 
-
 MONTHLY PERFORMANCE (%) showing BM and AGIMF values from Jan-25 to Jan-26
 
 | Fund Size PKR mn (Jan,2026)                        | 5,329 |
@@ -2671,7 +2413,6 @@ MONTHLY PERFORMANCE (%) showing BM and AGIMF values from Jan-25 to Jan-26
 | Duration                                           | 0.10  |
 | Modified Duration                                  | 0.09  |
 
-
 Amount invested by fund of funds is Rs. 28.5 million substracted from total
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -2682,7 +2423,6 @@ Amount invested by fund of funds is Rs. 28.5 million substracted from total
 | Kashf Foundation - 10/10/2023                      | 0.95% |
 | REON ENERGY LIMITED STS-1                          | 0.74% |
 
-
 ## Historical Performance
 
 |       | FY21  | FY22  | FY23  | FY24  | FY25  |
@@ -2690,13 +2430,11 @@ Amount invested by fund of funds is Rs. 28.5 million substracted from total
 | AGIMF | -0.3% | 6.8%  | 19.4% | 23.7% | 14.8% |
 | BM    | 7.3%  | 10.7% | 18.2% | 21.7% | 13.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name                     | Type  | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net |
 | ------------------------ | ----- | ------------------------- | ------------------------- | ------------------------ | -------------- | ----- |
 | Hascol Petroleum Limited | Sukuk | 25,995,851.00             | 25,995,851.00             | 0.00                     | 0.00%          | 0.00% |
-
 
 ## Disclaimer
 
@@ -2707,11 +2445,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -2731,7 +2464,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Sales Load:** upto 2.00%  
 **Risk Profile:** Medium  
-**Management Fee***:** upto 1.50% of the Average Net Assets  
+**Management Fee\***:** upto 1.50% of the Average Net Assets  
 **Min. Initial Investment:** PKR 5,000/-  
 **Min. Suseq. Investment:** PKR: 1,000/-  
 **Auditor:** A. F. Ferguson & Co.  
@@ -2739,10 +2472,10 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-Off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended from Jul 01, 2025 through 13th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -2771,7 +2504,6 @@ The primary investment objective of the fund is to aim to generate stable and co
 | T-Bills     | 0.0%  | 0.0%  |
 | Others      | 0.8%  | 5.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -2781,7 +2513,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | MTD                         | 0.30%   | 0.08%          | 0.08%       | 0.06%          | 0.00%                | 0.11%                | 0.00%          | 0.62%                 | 0.56%                    |
 | YTD                         | 0.80%   | 0.08%          | 0.08%       | 0.13%          | 0.07%                | 0.45%                | 0.00%          | 1.61%                 | 1.48%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AIGF   |
@@ -2790,13 +2521,11 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | FY26TD                     | 11.08% | 10.01% |
 | January-26                 | 10.47% | 10.07% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 10.32%  
 5 year Avg. Peer Group Return for Jan, 2026 was 15.77%
 
 | 365 Days | 11.48% | 0.22% |
 | -------- | ------ | ----- |
-
 
 ## FUND STATISTICS
 
@@ -2820,7 +2549,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 2.3%  | NR   | 5.2% |
 
-
 ## MONTHLY PERFORMANCE (%)
 
 | Month  | BM     | AIGF    |
@@ -2839,7 +2567,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.98% | 9.79%   |
 | Jan-26 | 10.47% | 10.07%  |
 
-
 MONTHLY PERFORMANCE (%) - BM vs AIGF (Jan-25 to Jan-26)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
@@ -2851,13 +2578,11 @@ MONTHLY PERFORMANCE (%) - BM vs AIGF (Jan-25 to Jan-26)
 | AIGF | 6.4%  |
 | BM   | 13.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name                        | Type          | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | --------------------------- | ------------- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | KHUSHHALI MICROFINANCE BANK | Single Entity | 50,477,850.00             | 50,477,850.00             | 0.00                     | 0.00%          | 0.00%        |
-
 
 ## Disclaimer
 
@@ -2869,27 +2594,19 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
-Alfalah Investments                    RATED AM1
-                                      by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # ASSET ALLOCATION FUNDS
 
 ## CONVENTIONAL FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Fund Managers' Report January-2026
 
 # Alfalah GHP Value Fund
+
 AMC Rating: "AM1" by VIS 26-Jan-26  
 AMC Rating: "AM1" by PACRA 29-August-25
 
@@ -2916,7 +2633,6 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-
 \* Calculated on 12-month trailing data.  
 \*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
 \*\*\* Management fee of the fund has been amended from July 01, 2025 through 11th supplemental OD with consent of the SECP.
@@ -2939,7 +2655,6 @@ The investment objective of Alfalah GHP Value Fund (AGVF) is to generate stable 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -2950,7 +2665,6 @@ The investment objective of Alfalah GHP Value Fund (AGVF) is to generate stable 
 | TFCs/Sukuks     | 1.8%  | 1.7%  |
 | Others          | 0.0%  | 1.3%  |
 
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -2959,7 +2673,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across a
 | --------------------------- | ------- | -------------- | --------------- | --------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 2.75%   | 0.10%          | 0.20%           | 0.49%           | 0.42%                | 0.22%                | 0.00%          | 4.18%                 | 3.69%                    |
 | YTD                         | 2.76%   | 0.10%          | 0.20%           | 0.47%           | 0.25%                | 0.27%                | 0.00%          | 4.04%                 | 3.58%                    |
-
 
 ## FUND STATISTICS
 
@@ -2976,7 +2689,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) showing Dec and Jan comparisons across a
 | Duration                                           | 0.01   |
 | Modified Duration                                  | 0.01   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 ## FUND PERFORMANCE
@@ -2989,7 +2701,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | 365 Days                   | 52.23% | 54.96% |
 | 3-Year                     | 46.06% | 51.04% |
 | 5-Year                     | 24.42% | 24.50% |
-
 
 ## TOP 10 HOLDINGS (% of Total Assets)
 
@@ -3004,7 +2715,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Lucky Cement Limited                   | 3.30% |
 | Pakistan State Oil Company Limited     | 3.16% |
 | Pakistan Petroleum Limited             | 2.91% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -3024,7 +2734,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 3.82%  | 5.80%  |
 | Jan-26 | 5.02%  | 5.63%  |
 
-
 MONTHLY PERFORMANCE: Comparison of Benchmark (BM) and Alfalah GHP Value Fund (AGVF) returns from January 2025 to January 2026
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
@@ -3038,7 +2747,6 @@ MONTHLY PERFORMANCE: Comparison of Benchmark (BM) and Alfalah GHP Value Fund (AG
 | Others                          | 26.95% |
 | Total                           | 81.68% |
 
-
 ## Historical Performance
 
 |      | FY21  | FY22   | FY23 | FY24  | FY25  |
@@ -3046,12 +2754,10 @@ MONTHLY PERFORMANCE: Comparison of Benchmark (BM) and Alfalah GHP Value Fund (AG
 | AGVF | 28.5% | -13.9% | 4.3% | 54.2% | 50.3% |
 | BM   | 29.2% | -8.6%  | 7.1% | 54.4% | 38.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3062,10 +2768,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -3096,10 +2798,9 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-
-* Calculated on 12-month trailing data.  
-** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from July 01, 2025 through 02th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.  
+  ** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*** Management fee of the fund has been amended from July 01, 2025 through 02th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -3119,7 +2820,6 @@ The investment objective of the Fund is to seek long term capital appreciation t
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class              | Dec   | Jan   |
@@ -3131,7 +2831,6 @@ The investment objective of the Fund is to seek long term capital appreciation t
 | PIBs                     | 17.7% | 17.6% |
 | Others                   | 4.3%  | 4.8%  |
 
-
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing Dec and Jan series across various asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -3140,7 +2839,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing Dec and Jan series across vari
 | --------------------------- | ----- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | MTD                         | 0.02% | 0.10%          | 0.08%       | 0.02%          | 0.02%                | 0.02%                | 0.07%          | 0.32%                 | 0.31%                    |
 | YTD                         | 0.09% | 0.10%          | 0.08%       | 0.03%          | 0.04%                | 0.02%                | 0.11%          | 0.46%                 | 0.43%                    |
-
 
 ## FUND STATISTICS
 
@@ -3166,7 +2864,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | January-26                 | 0.85%  | 1.12%  |
 | 365 Days                   | 11.62% | 13.95% |
 
-
 ## MONTHLY PERFORMANCE
 
 | Month  | BM    | AFVF I |
@@ -3185,7 +2882,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 0.88% | 1.50%  |
 | Jan-26 | 0.85% | 1.12%  |
 
-
 MONTHLY PERFORMANCE: BM vs AFVF I (Jan-25 to Jan-26)
 
 ## TOP 10 HOLDINGS (% of Total Assets)
@@ -3202,7 +2898,6 @@ MONTHLY PERFORMANCE: BM vs AFVF I (Jan-25 to Jan-26)
 | Kohinoor Spinning Mills Limited             | 0.29%  |
 | The Searle Company Limited                  | 0.17%  |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Commercial Banks              | 55.58% |
@@ -3214,7 +2909,6 @@ MONTHLY PERFORMANCE: BM vs AFVF I (Jan-25 to Jan-26)
 | Others                        | 0.12%  |
 | Total                         | 56.31% |
 
-
 ## Historical Performance
 
 |        | FY25  |
@@ -3222,12 +2916,10 @@ MONTHLY PERFORMANCE: BM vs AFVF I (Jan-25 to Jan-26)
 | AFVF I | 17.8% |
 | BM     | 14.8% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3238,10 +2930,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -3270,9 +2958,7 @@ Alfalah Financial Value Fund - II (Formerly Faysal Financial Value Fund) <sub>AM
 | Cut-Off Time:            | 9:00 am - 3:30 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Jul 01, 2025 through 6th supplemental OD with consent of the SECP
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Jul 01, 2025 through 6th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -3292,7 +2978,6 @@ The investment objective of the Fund is to seek long term capital appreciation t
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -3301,7 +2986,6 @@ The investment objective of the Fund is to seek long term capital appreciation t
 | T-Bills         | 0.0%  | 0.0%  |
 | Stocks/Equities | 75.6% | 58.1% |
 | Others          | 8.0%  | 3.9%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -3312,7 +2996,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | MTD                         | 2.26%   | 0.10%          | 0.08%           | 0.44%           | 0.85%                | 4.19%                | 0.15%          | 8.06%                 | 7.62%                    |
 | YTD                         | 0.38%   | 0.10%          | 0.08%           | 0.12%           | 0.64%                | 0.94%                | 0.18%          | 2.42%                 | 2.30%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AFVF II |
@@ -3320,7 +3003,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Since Inception Return\*\* | 22.58% | 17.29%  |
 | FY26TD                     | 17.63% | 14.17%  |
 | January-26                 | 5.81%  | 6.31%   |
-
 
 ## FUND STATISTICS
 
@@ -3333,7 +3015,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Portfolio Turnover Ratio                           | 0.0%   |
 | Standard Deviation\*                               | 0.3%   |
 | Beta\*                                             | 0.68   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -3351,7 +3032,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Habib Metropolitan Bank Limited      | 2.56%  |
 | Adamjee Insurance Company Limited    | 2.22%  |
 
-
 ## MONTHLY PERFORMANCE
 
 | Month  | BM    | AFVF II |
@@ -3365,7 +3045,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 4.43% | 4.59%   |
 | Jan-26 | 5.81% | 6.31%   |
 
-
 MONTHLY PERFORMANCE: BM vs AFVF II (Jun-25 to Jan-26)
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
@@ -3378,12 +3057,10 @@ MONTHLY PERFORMANCE: BM vs AFVF II (Jun-25 to Jan-26)
 | Inv. Banks / Inv. Cos. / Securities Cos. | 0.65%      |
 | **Total**                                | **58.13%** |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3395,13 +3072,10 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 # Fund Managers' Report January-2026
 
 # Alfalah Asset Allocation Fund (Formerly : Faysal Asset Allocation Fund)
+
 AMC Rating: "AM1" by VIS 26-Jan-26  
 AMC rating: "AM1" by PACRA 29-August-25
 
@@ -3427,9 +3101,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 3:30 pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jul 01, 2025 through 16th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended from Jul 01, 2025 through 16th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -3449,7 +3122,6 @@ The prime objective of Alfalah Asset Allocation Fund (AAAF) endeavors is to prov
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class      | Dec   | Jan   |
@@ -3458,7 +3130,6 @@ The prime objective of Alfalah Asset Allocation Fund (AAAF) endeavors is to prov
 | T-Bills          | 0.0%  | 0.0%  |
 | Stocks/ Equities | 85.6% | 31.6% |
 | Others           | 3.3%  | 0.3%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing Dec and Jan across various asset classes
 
@@ -3469,7 +3140,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing Dec and Jan across various ass
 | MTD                         | 2.62%   | 0.09%          | 0.15%       | 0.70%          | 1.89%                | 0.10%                | 0.00%          | 5.56%                 | 4.86%                    |
 | YTD                         | 2.67%   | 0.09%          | 0.17%       | 0.61%          | 1.34%                | 0.47%                | 0.00%          | 5.36%                 | 4.75%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AAAF   |
@@ -3478,7 +3148,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) comparing Dec and Jan across various ass
 | FY26TD                     | 46.60% | 34.14% |
 | January-26                 | 5.81%  | 5.60%  |
 | 365 Days                   | 61.19% | 50.77% |
-
 
 ## FUND STATISTICS
 
@@ -3489,7 +3158,7 @@ Sharpe Ratio*: 0.02
 Information Ratio*: (0.02)  
 Portfolio Turnover Ratio: 39.8%  
 Standard Deviation*: 3.4%  
-Beta*: 0.68  
+Beta*: 0.68
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -3506,7 +3175,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Oil & Gas Development Company Limited | 1.24% |
 | Systems Limited                       | 1.19% |
 | Pioneer Cement Limited                | 1.13% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -3526,7 +3194,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 4.43%  | 3.63%  |
 | Jan-26 | 5.81%  | 5.60%  |
 
-
 MONTHLY PERFORMANCE showing BM vs AAAF from Jan-25 to Jan-26
 
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
@@ -3540,7 +3207,6 @@ MONTHLY PERFORMANCE showing BM vs AAAF from Jan-25 to Jan-26
 | Others                          | 6.73%  |
 | Total                           | 31.64% |
 
-
 ## Historical Performance
 
 |      | FY25  |
@@ -3548,12 +3214,10 @@ MONTHLY PERFORMANCE showing BM vs AAAF from Jan-25 to Jan-26
 | AAAF | 59.5% |
 | BM   | 60.1% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3564,10 +3228,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Alfalah Investments
 
@@ -3584,7 +3244,6 @@ This publication is for informational purposes only and nothing herein should be
 | Cumulative Net Assets (CIS)                         | 281,285,884                       |
 | Risk Profile (CIS)                                  | High                              |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 22,865 |
@@ -3594,19 +3253,11 @@ This publication is for informational purposes only and nothing herein should be
 | Formation Cost Amortization | 15,449 |
 | Other Expenses              | 67,029 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name              | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status (Active/Matured) |
 | --------------------------------- | -------------- | ------------- | ------------ | ----------- | ----------------------- |
 | Alfalah Strategic Allocation Fund | 21-Nov-24      | Perpetual     | High         | 281,285,884 | Active                  |
-
-
-
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -3637,9 +3288,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                      |
 | Leverage:                | NIL                                                                                                                                                    |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -3659,7 +3309,6 @@ The Investment Objective of the Plan is to earn a competitive return through div
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class     | Dec   | Jan   |
@@ -3671,7 +3320,6 @@ The Investment Objective of the Plan is to earn a competitive return through div
 | Fund of Fund    | 4.5%  | 4.3%  |
 | Others          | 1.8%  | 0.3%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -3681,7 +3329,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.00%   | 0.08%          | 0.07%       | 0.01%          | 0.00%                | 0.22%                | 0.06%          | 0.44%                 | 0.43%                    |
 | YTD                         | 0.00%   | 0.08%          | 0.07%       | 0.01%          | 0.00%                | 0.25%                | 0.07%          | 0.48%                 | 0.47%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASAF   |
@@ -3689,7 +3336,6 @@ ASSET ALLOCATION (% of Total Assets)
 | Since Inception Return\*\* | 45.71% | 43.75% |
 | FY26TD                     | 36.53% | 36.20% |
 | January-26                 | 4.60%  | 4.39%  |
-
 
 ## FUND STATISTICS
 
@@ -3699,7 +3345,6 @@ ASSET ALLOCATION (% of Total Assets)
 | NAV (PkR):                                         | 136.27 |
 | Information Ratio                                  | 0.08   |
 | Portfolio Turnover Ratio                           | 35.5%  |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -3715,12 +3360,10 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Others              | 0.32%   | 0.32%   |
 | Total               | 100.00% | 100.00% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3732,10 +3375,6 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 Alfalah Investments
 
 RATED AM1  
@@ -3745,14 +3384,10 @@ by VIS & PACRA
 
 ## CONVENTIONAL FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                                    #WealthUnlocked
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
----
-
-
-
-Alfalah Investments                    RATED AM1
-                                      by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # Investment Plans Summary Report for January 2026
 
@@ -3765,7 +3400,6 @@ Alfalah Investments                    RATED AM1
 | Cumulative Net Assets (CIS)                         | 6,889,380,627                      |
 | Risk Profile (CIS)                                  | Plan Specific                      |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 48,306     |
@@ -3775,20 +3409,12 @@ Alfalah Investments                    RATED AM1
 | Formation Cost Amortization | 16,348     |
 | Other Expenses              | 12,903,890 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name                    | Date of Launch | Maturity Date | Risk Profile | Net Assets    | Status (Active/Matured) |
 | --------------------------------------- | -------------- | ------------- | ------------ | ------------- | ----------------------- |
 | Alfalah Government Securities Plan – I  | 10-Sep-24      | Perpetual     | Medium       | 5,906,181,317 | Active                  |
 | Alfalah Government Securities Plan – II | 12-Nov-24      | 12-Nov-27     | Medium       | 983,199,309   | Active                  |
-
-
-
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -3819,9 +3445,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
 | Leverage:                | NIL                                                                                                                                                            |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Jul 01, 2025 through 11th supplemental OD with consent of the SECP
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Jul 01, 2025 through 11th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -3841,7 +3465,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class              | Dec   | Jan   |
@@ -3853,7 +3476,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | T-Bills                  | 12.4% | 20.2% |
 | Others                   | 2.5%  | 1.3%  |
 
-
 Asset Allocation (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -3863,7 +3485,6 @@ Asset Allocation (% of Total Assets)
 | MTD                         | 1.50%   | 0.08%          | 0.06%       | 0.58%          | 0.01%                | 0.01%                | 0.12%          | 2.35%                 | 1.77%                    |
 | YTD                         | 1.50%   | 0.08%          | 0.06%       | 0.45%          | 0.03%                | 0.01%                | 0.13%          | 2.25%                 | 1.80%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AGSF   |
@@ -3872,7 +3493,6 @@ Asset Allocation (% of Total Assets)
 | FY26TD                     | 10.58% | 10.79% |
 | January-26                 | 9.97%  | 12.05% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.96%
 5 year Avg. Peer Group Return for Jan, 2026 was 14.78%
 
@@ -3880,7 +3500,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | -------- | ------ | ------ |
 | 3-Year   | 16.75% | 18.32% |
 | 5-Year   | 14.70% | 14.85% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -3892,7 +3511,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | AA-                          | 0.1%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 1.3% |
-
 
 ## FUND STATISTICS
 
@@ -3906,7 +3524,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | YTM                                                | 10.4%  |
 | Duration                                           | 0.09   |
 | Modified Duration                                  | 0.08   |
-
 
 Amount invested by fund of funds is Rs. 475.7 million substracted from total
 
@@ -3928,14 +3545,12 @@ Amount invested by fund of funds is Rs. 475.7 million substracted from total
 | Dec-25 | 10.54% | 19.19% |
 | Jan-26 | 9.97%  | 12.05% |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah GHP Sovereign Fund (Jan 2025 - Jan 2026)
 
 ## TFC/SUKUK HOLDINGS (% of Total Assets)
 
 | SAMBA BANK LTD. - TFC (01-03-2021) | 0.11% |
 | ---------------------------------- | ----- |
-
 
 ## Historical Performance
 
@@ -3944,12 +3559,10 @@ MONTHLY PERFORMANCE (%) - Alfalah GHP Sovereign Fund (Jan 2025 - Jan 2026)
 | AGSF | 6.3% | 8.9%  | 16.1% | 23.1% | 17.6% |
 | BM   | 7.3% | 10.7% | 18.2% | 21.7% | 13.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -3960,29 +3573,23 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-| Month  | BM     | AGSF   |
+| Month | BM | AGSF |
 | ------ | ------ | ------ |
 | Jan-25 | 12.24% | 13.81% |
-| Feb-25 | 11.97% | 7.24%  |
-| Mar-25 | 11.83% | 5.06%  |
+| Feb-25 | 11.97% | 7.24% |
+| Mar-25 | 11.83% | 5.06% |
 | Apr-25 | 11.83% | 10.66% |
 | May-25 | 11.22% | 22.79% |
 | Jun-25 | 10.87% | 15.54% |
 | Jul-25 | 10.62% | 10.86% |
-| Aug-25 | 10.67% | 9.95%  |
-| Sep-25 | 10.67% | 6.17%  |
-| Oct-25 | 10.79% | 6.61%  |
-| Nov-25 | 10.80% | 8.56%  |
+| Aug-25 | 10.67% | 9.95% |
+| Sep-25 | 10.67% | 6.17% |
+| Oct-25 | 10.79% | 6.61% |
+| Nov-25 | 10.80% | 8.56% |
 | Dec-25 | 10.54% | 19.19% |
-| Jan-26 | 9.97%  | 12.05% |
-
+| Jan-26 | 9.97% | 12.05% |
 
 MONTHLY PERFORMANCE (%) - BM vs AGSF (Jan-25 to Jan-26)
-
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -4002,7 +3609,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Sales Load:** upto 3.00%  
 **Risk Profile:** Medium  
-**Management Fee***:** upto 1.5% of the Average Daily net asset value  
+**Management Fee\***:** upto 1.5% of the Average Daily net asset value  
 **Min. Initial Investment:** PKR 500/-  
 **Min. Suseq. Investment:** PKR 100/-  
 **Auditor:** Yousuf Adil Chartered Accountants  
@@ -4010,10 +3617,10 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-Off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
+\*** Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -4041,7 +3648,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | T-Bills        | 10.5% | 13.4% |
 | Others         | 3.0%  | 0.9%  |
 
-
 ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across Cash, PIBs, T-Bills, and Others
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -4051,7 +3657,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across Cash
 | MTD                         | 1.50% | 0.08%          | 0.06%       | 0.23%          | 0.00%                | 0.01%                | 0.40%          | 2.27%                 | 2.03%                    |
 | YTD                         | 1.35% | 0.08%          | 0.06%       | 0.25%          | 0.01%                | 0.01%                | 0.39%          | 2.14%                 | 1.89%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AGSF I |
@@ -4060,13 +3665,11 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across Cash
 | FY26TD                     | 10.58% | 12.07% |
 | January-26                 | 9.97%  | 13.13% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.96%  
 5 year Avg. Peer Group Return for Jan, 2026 was 14.78%
 
 | 365 Days | 10.96% | 13.43% |
 | -------- | ------ | ------ |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -4079,7 +3682,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.9% |
-
 
 ## FUND STATISTICS
 
@@ -4113,7 +3715,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.54% | 28.73% |
 | Jan-26 | 9.97%  | 13.13% |
 
-
 MONTHLY PERFORMANCE (%) - BM vs AGSF I (Jan-2025 to Jan-2026)
 
 ## Credit Quality (% of Total Assets)
@@ -4123,12 +3724,10 @@ MONTHLY PERFORMANCE (%) - BM vs AGSF I (Jan-2025 to Jan-2026)
 | Govt. Securities (Rated AAA) | 98.9%      |
 | NR                           | 0.9%       |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -4139,10 +3738,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -4173,9 +3768,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
 | Leverage:                | NIL                                                                                                                                                            |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-***Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
+\***Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -4195,7 +3789,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category | Dec   | Jan   |
@@ -4204,7 +3797,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | PIBs           | 74.6% | 75.3% |
 | T-Bills        | 12.2% | 24.2% |
 | Others         | 0.1%  | 0.0%  |
-
 
 ASSET ALLOCATION (% of Total Assets)
 
@@ -4215,7 +3807,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.50%   | 0.08%          | 0.06%       | 0.23%          | 0.00%                | 0.03%                | 0.00%          | 1.90%                 | 1.66%                    |
 | YTD                         | 1.50%   | 0.08%          | 0.06%       | 0.32%          | 0.00%                | 0.03%                | 0.00%          | 1.98%                 | 1.66%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | AGSF II |
@@ -4223,7 +3814,6 @@ ASSET ALLOCATION (% of Total Assets)
 | Since Inception Return\*\* | 11.22% | 12.17%  |
 | FY26TD                     | 10.58% | 9.34%   |
 | January-26                 | 9.97%  | 8.06%   |
-
 
 Avg. Peer Group Return for Jan, 2026 was 9.96%  
 5 year Avg. Peer Group Return for Jan, 2026 was 14.78%
@@ -4239,7 +3829,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.0% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 983    |
@@ -4252,7 +3841,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | YTM                                                | 10.4%  |
 | Duration                                           | 0.06   |
 | Modified Duration                                  | 0.06   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -4273,7 +3861,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.54% | 14.81%  |
 | Jan-26 | 9.97%  | 8.06%   |
 
-
 MONTHLY PERFORMANCE (%) showing BM and AGSF II series from February 2025 to January 2026
 
 ## Credit Quality (% of Total Assets)
@@ -4282,12 +3869,10 @@ MONTHLY PERFORMANCE (%) showing BM and AGSF II series from February 2025 to Janu
 | ---------------------------- | ----- |
 | Govt. Securities (Rated AAA) | 99.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -4299,38 +3884,33 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 # Fund Managers' Report January-2026
 
 # Alfalah Government Securities Fund II (Formerly: Faysal Government Securities Fund) <sub>AMC Rating: "AM1" by VIS 26-Jan-26 AMC rating: "AM1" by PACRA 29-August-25</sub>
 
 ## FUND INFORMATION
 
-| Fund Stability Rating: | AA(f) by VIS 20-JAN-26 |
-|---|---|
-| Category: | Sovereign Income Scheme |
-| Fund Type: | Open Ended |
-| Benchmark: | 90% six (6) months PKRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
-| Launch date: | Mar 16, 2020 |
-| Par Value: | -- |
-| Pricing: | Forward Day |
-| Sales Load: | upto 2.00% |
-| Risk Profile: | Medium |
-| Management Fee***: | Upto 1.5% of average net assets of the Scheme. |
-| Min. Initial Investment: | PKR 5,000/- |
-| Min. Suseq. Investment: | PKR: 1,000/- |
-| Auditor: | A. F. Ferguson & Co. |
-| Trustee: | CDC Pakistan |
-| Listing: | Pakistan Stock Exchange |
-| Dealing Days: | Monday - Friday |
-| Cut-Off Time: | 9:00 am - 4:00 pm |
-| Leverage: | NIL |
+| Fund Stability Rating:   | AA(f) by VIS 20-JAN-26                                                                                                                                         |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Category:                | Sovereign Income Scheme                                                                                                                                        |
+| Fund Type:               | Open Ended                                                                                                                                                     |
+| Benchmark:               | 90% six (6) months PKRV rates + 10% six (6) months average of the highest rates on savings account of three (3) AA rated scheduled Banks as selected by MUFAP. |
+| Launch date:             | Mar 16, 2020                                                                                                                                                   |
+| Par Value:               | --                                                                                                                                                             |
+| Pricing:                 | Forward Day                                                                                                                                                    |
+| Sales Load:              | upto 2.00%                                                                                                                                                     |
+| Risk Profile:            | Medium                                                                                                                                                         |
+| Management Fee\*\*\*:    | Upto 1.5% of average net assets of the Scheme.                                                                                                                 |
+| Min. Initial Investment: | PKR 5,000/-                                                                                                                                                    |
+| Min. Suseq. Investment:  | PKR: 1,000/-                                                                                                                                                   |
+| Auditor:                 | A. F. Ferguson & Co.                                                                                                                                           |
+| Trustee:                 | CDC Pakistan                                                                                                                                                   |
+| Listing:                 | Pakistan Stock Exchange                                                                                                                                        |
+| Dealing Days:            | Monday - Friday                                                                                                                                                |
+| Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                              |
+| Leverage:                | NIL                                                                                                                                                            |
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Jul 01, 2025 through 5th supplemental OD with consent of the SECP
 
 ## INVESTMENT OBJECTIVE
 
@@ -4338,17 +3918,17 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 
 ## INVESTMENT COMMITTEE
 
-| Khaldoon Bin Latif | Chief Executive Officer |
-|---|---|
-| Ayub Khuhro | Chief Investment Officer |
-| Faisal Ali Khan | Chief Financial Officer |
-| Shariq Mukhtar Hashmi | Chief Compliance Officer |
-| Imad Ansari | Chief Risk Officer |
-| Muddasir Ahmed Shaikh | Head of Equities |
-| Mustafa Kamal | Head of Fixed Income |
-| Sana Abdullah, CFA | Head of Research |
-| Salman Jawaid | Fund manager Fixed Income Funds |
-| Anil Kumar, CFA | Fund manager Equity Funds |
+| Khaldoon Bin Latif    | Chief Executive Officer         |
+| --------------------- | ------------------------------- |
+| Ayub Khuhro           | Chief Investment Officer        |
+| Faisal Ali Khan       | Chief Financial Officer         |
+| Shariq Mukhtar Hashmi | Chief Compliance Officer        |
+| Imad Ansari           | Chief Risk Officer              |
+| Muddasir Ahmed Shaikh | Head of Equities                |
+| Mustafa Kamal         | Head of Fixed Income            |
+| Sana Abdullah, CFA    | Head of Research                |
+| Salman Jawaid         | Fund manager Fixed Income Funds |
+| Anil Kumar, CFA       | Fund manager Equity Funds       |
 
 ## ASSET ALLOCATION (% of Total Assets)
 
@@ -4359,7 +3939,6 @@ The objective of the Scheme is to deliver optimal risk adjusted returns by inves
 | T-Bills     | 7.9%  | 0.0%  |
 | Others      | 1.2%  | 0.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across different asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -4369,20 +3948,19 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across different asse
 | MTD                         | 1.50%   | 0.08%          | 0.06%                  | 0.23%                | 0.00%                | 0.03%          | 0.09%                 | 1.98%                    | 1.75% |
 | YTD                         | 1.13%   | 0.07%          | 0.06%                  | 0.18%                | 0.00%                | 0.03%          | 0.04%                 | 1.51%                    | 1.33% |
 
-
 ## FUND PERFORMANCE
 
-| | BM | AGSF II |
-|---|---|---|
-| Since Inception Return** | 13.61% | 12.40% |
-| FY26TD | 10.58% | 10.62% |
-| January-26 | 9.97% | 10.03% |
+|                            | BM     | AGSF II |
+| -------------------------- | ------ | ------- |
+| Since Inception Return\*\* | 13.61% | 12.40%  |
+| FY26TD                     | 10.58% | 10.62%  |
+| January-26                 | 9.97%  | 10.03%  |
 
 Avg. Peer Group Return for Jan, 2026 was 9.96%
 5 year Avg. Peer Group Return for Jan, 2026 was 14.78%
 
 | 365 Days | 10.96% | 12.06% |
-|---|---|---|
+| -------- | ------ | ------ |
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -4396,19 +3974,18 @@ Avg. Peer Group Return for Jan, 2026 was 9.96%
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.3% |
 
-
 ## FUND STATISTICS
 
-| Fund Size PKR mn (Jan,2026) | 3,182 |
-|---|---|
-| Fund Size including fund of fund schemes: (Pkr mn) | 3,182 |
-| NAV (PKR): | 134.06 |
-| Information Ratio | 0.01 |
-| Portfolio Turnover Ratio | 0.0% |
-| Wtd. Average Maturity (Years): | 1.30 |
-| YTM | 10.4% |
-| Duration | 0.38 |
-| Modified Duration | 0.34 |
+| Fund Size PKR mn (Jan,2026)                        | 3,182  |
+| -------------------------------------------------- | ------ |
+| Fund Size including fund of fund schemes: (Pkr mn) | 3,182  |
+| NAV (PKR):                                         | 134.06 |
+| Information Ratio                                  | 0.01   |
+| Portfolio Turnover Ratio                           | 0.0%   |
+| Wtd. Average Maturity (Years):                     | 1.30   |
+| YTM                                                | 10.4%  |
+| Duration                                           | 0.38   |
+| Modified Duration                                  | 0.34   |
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -4430,7 +4007,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.54% | 20.15%  |
 | Jan-26 | 9.97%  | 10.03%  |
 
-
 MONTHLY PERFORMANCE (%) showing BM vs AGSF II from Jan-25 to Jan-26
 
 ## Credit Quality (% of Total Assets)
@@ -4441,14 +4017,12 @@ MONTHLY PERFORMANCE (%) showing BM vs AGSF II from Jan-25 to Jan-26
 | AA-                          | 11.1%                      |
 | NR                           | 0.3%                       |
 
-
 Credit Quality (% of Total Assets)
 
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -4460,23 +4034,14 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management
 
----
-
-
-
-Alfalah Investments                                    RATED AM1
-                                                    by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # EXCHANGE TRADED FUNDS
 
 ## CONVENTIONAL FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Fund Managers' Report January-2026
 
@@ -4507,7 +4072,6 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                 |
 | Leverage:                | NIL                               |
 
-
 \* Calculated on 12-month trailing data.  
 \*\*Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
 
@@ -4529,7 +4093,6 @@ The Index strategy would be consumer focused and would comprise of a maximum of 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Asset Class     | Dec   | Jan   |
@@ -4537,7 +4100,6 @@ The Index strategy would be consumer focused and would comprise of a maximum of 
 | Cash            | 2.6%  | 4.3%  |
 | Stocks/Equities | 96.2% | 94.5% |
 | Others          | 1.2%  | 1.2%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -4548,7 +4110,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | MTD                         | 0.42%   | 0.10%          | 0.10%               | 0.12%  | 0.31%                | 0.94%                | 0.47%          | 2.45%                 | 2.34%                    |
 | YTD                         | 0.35%   | 0.09%          | 0.10%               | 0.08%  | 0.31%                | 0.93%                | 0.43%          | 2.30%                 | 2.22%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM      | AGCIETF |
@@ -4558,7 +4119,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | January-26                 | 3.03%   | 2.90%   |
 | 365 Days                   | 46.94%  | 43.18%  |
 | 3-Year                     | 292.16% | 244.92% |
-
 
 ## FUND STATISTICS
 
@@ -4571,7 +4131,6 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | Portfolio Turnover Ratio                           | 0.0%   |
 | Standard Deviation\*                               | 1.4%   |
 | Beta\*                                             | 0.46   |
-
 
 Amount invested by fund of funds is Rs. 34.98 million substracted from total
 
@@ -4589,7 +4148,6 @@ Amount invested by fund of funds is Rs. 34.98 million substracted from total
 | Nishat Mills Limited               | 5.15% |
 | The Searle Company Limited         | 4.97% |
 
-
 ## ASSET ALLOCATION (Sector Wise as a % of Total Assets)
 
 | Cement                        | 33.96% |
@@ -4600,7 +4158,6 @@ Amount invested by fund of funds is Rs. 34.98 million substracted from total
 | Pharmaceuticals               | 9.21%  |
 | Others                        | 11.77% |
 | Total                         | 94.46% |
-
 
 ## MONTHLY PERFORMANCE
 
@@ -4620,7 +4177,6 @@ Amount invested by fund of funds is Rs. 34.98 million substracted from total
 | Dec-25 | 5.08%  | 4.69%   |
 | Jan-26 | 3.03%  | 2.90%   |
 
-
 MONTHLY PERFORMANCE: BM vs AGCIETF (Jan-25 to Jan-26)
 
 ## Historic Returns:
@@ -4630,12 +4186,10 @@ MONTHLY PERFORMANCE: BM vs AGCIETF (Jan-25 to Jan-26)
 | AHCIETF | -15.1% | 63.6% | 56.8% |
 | BM      | -14.4% | 74.8% | 62.3% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -4647,25 +4201,16 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Use of the name and logo of Bank Alfalah Limited as given above does not mean that it is responsible for the liabilities/obligations of Alfalah Asset Investment Management Limited or any investment scheme managed by it.
 
-
----
-
-
-
-Alfalah Investments                                    RATED AM1
-                                                    by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # CAPITAL PROTECTED FUNDS
 
 ## CONVENTIONAL
+
 ## FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                    #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Alfalah Investments
 
@@ -4683,7 +4228,6 @@ by VIS & PACRA
 | Cumulative Net Assets (CIS)                         | 4,328,033,605               |
 | Risk Profile (CIS)                                  | Very Low                    |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 79,244    |
@@ -4693,20 +4237,12 @@ by VIS & PACRA
 | Formation Cost Amortization | -         |
 | Other Expenses              | 9,152,123 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name           | Date of Launch | Maturity Date | Risk Profile | Net Assets    | Status (Active/Matured) |
 | ------------------------------ | -------------- | ------------- | ------------ | ------------- | ----------------------- |
 | Alfalah Special Saving Plan I  | 01-Oct-21      | Perpetual     | Very Low     | 4,270,160,872 | Active                  |
 | Alfalah Special Saving Plan II | 26-Jul-22      | Perpetual     | Very Low     | 57,872,733    | Active                  |
-
-
-
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -4737,9 +4273,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                        |
 | Leverage:                | NIL                                                                                                                      |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -4759,7 +4294,6 @@ The Alfalah Special Savings Plan-I (ASSP-I) is a perpetual Allocation Plan under
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category | Dec   | Jan   |
@@ -4770,7 +4304,6 @@ The Alfalah Special Savings Plan-I (ASSP-I) is a perpetual Allocation Plan under
 | T-Bills        | 0.0%  | 0.0%  |
 | Others         | 2.3%  | 0.3%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -4780,7 +4313,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.50%   | 0.08%          | 0.06%               | 0.23%                | 0.00%                | 0.01%          | 0.11%                 | 1.99%                    | 1.75% |
 | YTD                         | 0.85%   | 0.07%          | 0.05%               | 0.14%                | 0.01%                | 0.01%          | 0.11%                 | 1.26%                    | 1.12% |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASSP I |
@@ -4789,7 +4321,6 @@ ASSET ALLOCATION (% of Total Assets)
 | FY26TD                     | 10.90% | 11.66% |
 | January-26                 | 10.62% | 11.76% |
 | 365 Days                   | 11.17% | 14.16% |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -4801,7 +4332,6 @@ ASSET ALLOCATION (% of Total Assets)
 | AA-                          | 2.4%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.3% |
-
 
 ## FUND STATISTICS
 
@@ -4815,7 +4345,6 @@ ASSET ALLOCATION (% of Total Assets)
 | YTM                                                | 10.4%  |
 | Duration                                           | 0.21   |
 | Modified Duration                                  | 0.19   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -4837,7 +4366,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 11.18% | 26.30% |
 | Jan-26 | 10.62% | 11.76% |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah Special Savings Plan - I vs Benchmark (BM)
 
 ## Credit Quality (% of Total Assets)
@@ -4846,7 +4374,6 @@ MONTHLY PERFORMANCE (%) - Alfalah Special Savings Plan - I vs Benchmark (BM)
 | ---------------------------- | -------------------------- |
 | Govt. Securities (Rated AAA) | 97.3%                      |
 | NR                           | 0.3%                       |
-
 
 Credit Quality (% of Total Assets)
 
@@ -4857,13 +4384,11 @@ Credit Quality (% of Total Assets)
 | ASSP I | 5.9%  |
 | BM     | 13.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name       | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---------- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | Disclaimer |      |                           |                           |                          |                |              |
-
 
 ## Disclaimer
 
@@ -4874,11 +4399,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 This fund fact sheet is being distributed for information purposes only. The views expressed are those of the fund manager and do not constitute a recommendation, solicitation, recommendation or advice for any person to enter into any transaction or adopt any hedging, trading or investment strategy. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. This is neither an offer to sell nor a solicitation to buy units of the Fund. Prices of units may go up as well as down. Please read the Offering Document before investing. Investment in the Fund involves risk and may not be suitable for all investors.
-
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -4909,9 +4429,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                        |
 | Leverage:                | NIL                                                                                                                      |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -4931,7 +4450,6 @@ The Alfalah Special Savings Plan-II (ASSP-II) is a perpetual Allocation Plan und
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class | Dec   | Jan   |
@@ -4942,7 +4460,6 @@ The Alfalah Special Savings Plan-II (ASSP-II) is a perpetual Allocation Plan und
 | T-Bills     | 0.0%  | 0.0%  |
 | Others      | 7.5%  | 11.6% |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset classes
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -4952,7 +4469,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | MTD                         | 0.05%   | 0.07%                  | 0.05%          | 0.02%                | 0.00%                | 0.97%          | 0.04%                 | 1.20%                    | 1.19% |
 | YTD                         | 0.05%   | 0.07%                  | 0.05%          | 0.02%                | 0.01%                | 0.03%          | 0.00%                 | 0.23%                    | 0.22% |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASSP II |
@@ -4961,7 +4477,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | FY26TD                     | 10.90% | 9.92%   |
 | January-26                 | 10.62% | 10.06%  |
 | 365 Days                   | 11.17% | 13.20%  |
-
 
 ## FUND STATISTICS
 
@@ -4976,7 +4491,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | Duration                                           |        |
 | Modified Duration                                  |        |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
@@ -4989,7 +4503,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | AA-                          | 1.2%  | BBB  | 0.0%  |
 | A+                           | 0.0%  | IG   | 0.0%  |
 | A                            | 0.0%  | NR   | 11.6% |
-
 
 ## MONTHLY PERFORMANCE (%)
 
@@ -5009,7 +4522,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 11.18% | 10.60%  |
 | Jan-26 | 10.62% | 10.06%  |
 
-
 MONTHLY PERFORMANCE (%) - BM vs ASSP II (Jan-25 to Jan-26)
 
 ## Credit Quality (% of Total Assets)
@@ -5020,12 +4532,10 @@ MONTHLY PERFORMANCE (%) - BM vs ASSP II (Jan-25 to Jan-26)
 | ------- | ---- | ----- |
 | BM      |      | 13.6% |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -5043,28 +4553,18 @@ This fund fact sheet provides information about the Alfalah Special Savings Plan
 | AA-           | 1.2%                       |
 | NR            | 11.6%                      |
 
-
 Credit Quality (% of Total Assets)
 
-
----
-
-
-
-Alfalah Investments                                                    RATED AM1
-                                                                    by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 # FUND OF FUNDS
 
 ## CONVENTIONAL
+
 ## FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                                #WealthUnlocked
-
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Alfalah Investments
 
@@ -5082,7 +4582,6 @@ by VIS & PACRA
 | Cumulative Net Assets (CIS)                         | 1,688,440,736                    |
 | Risk Profile (CIS)                                  | Plan Specific                    |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 209,562 |
@@ -5092,7 +4591,6 @@ by VIS & PACRA
 | Formation Cost Amortization | -       |
 | Other Expenses              | 512,416 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name                                          | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status (Active/Matured) |
@@ -5101,13 +4599,6 @@ by VIS & PACRA
 | Alfalah Prosperity Planning Fund-Moderate Allocation Plan     | 11-Sep-15      | Perpetual     | High         | 214,696,527 | Active                  |
 | Alfalah Prosperity Planning Fund-Conservative Allocation Plan | 11-Sep-15      | Perpetual     | Medium       | 630,418,220 | Active                  |
 | Alfalah Prosperity Planning Fund-Capital Preservation Plan    | 16-May-24      | 16-May-26     | High         | 633,524,374 | Active                  |
-
-
-
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -5120,7 +4611,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 
 **Fund Stability Rating:** Not Yet Rated  
 **Category:** Fund of Fund Scheme  
-**Fund Type:** Open Ended  
+**Fund Type:** Open Ended
 
 **Benchmark:** Weighted average daily return of KSE -100 index for equity portion and 75% six (6) months KIBOR + 25% six (6) months average of the highest rates on saving account of three (3) AA rated scheduled Banks as selected by MUFAP for fixed income portion and 90% three (3) months PKRV rates + 10% three (3) months average of the highest rates on saving account of three (3) AA rated scheduled Banks as selected by MUFAP for money market portion, based on funds actual allocation.
 
@@ -5129,7 +4620,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Front end Load:** AGPPF AAP: 2%, AGPPF MAP: 1.5%, AGPPF CAP: 1%, AGPPF CPP4: 3%  
 **Risk Profile:** Plan Specific  
-**Management Fee***:** Up to 3.00% per annum for the equity portion, up to 1.50% per annum for the fixed income portion, and up to 1.25% per annum for the money market portion based on actual allocation of the net assets.  
+**Management Fee\***:** Up to 3.00% per annum for the equity portion, up to 1.50% per annum for the fixed income portion, and up to 1.25% per annum for the money market portion based on actual allocation of the net assets.  
 **Min. Initial Investment:** PKR 500/-  
 **Min. Suseq. Investment:** PKR 100/-  
 **Auditor:** Yousuf Adil Chartered Accountants  
@@ -5137,7 +4628,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 ## INVESTMENT OBJECTIVE
 
@@ -5165,14 +4656,12 @@ Alfalah GHP Prosperity Planning Fund is an Open-ended Fund of Funds Scheme that 
 | AGCAP  | 0.22% | 0.08%          | 0.07%       | 0.04%          | 0.01%                | 0.10%                | 0.00%          | 0.51%                 | 0.47%                    |
 | AGCAP4 | 0.00% | 0.08%          | 0.07%       | 0.01%          | 0.00%                | 0.32%                | 0.00%          | 0.48%                 | 0.47%                    |
 
-
 | YTD    | M.F   | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
 | ------ | ----- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | AGAAP  | 0.07% | 0.08%          | 0.07%       | 0.02%          | 0.02%                | 0.01%                | 0.00%          | 0.27%                 | 0.25%                    |
 | AGMAP  | 0.27% | 0.08%          | 0.07%       | 0.05%          | 0.00%                | 0.00%                | 0.00%          | 0.47%                 | 0.42%                    |
 | AGCAP  | 0.10% | 0.07%          | 0.07%       | 0.03%          | 0.01%                | 0.15%                | 0.00%          | 0.42%                 | 0.40%                    |
 | AGCAP4 | 0.00% | 0.07%          | 0.07%       | 0.01%          | 0.00%                | 0.12%                | 0.00%          | 0.27%                 | 0.26%                    |
-
 
 AGPPF-CAP: Medium  
 AGPPF-MAP: Medium  
@@ -5192,7 +4681,6 @@ AGPPF-CP4: High
 | 3-Year                   | 58.41% | 56.72% |
 | 5-Year                   | 33.22% | 30.23% |
 
-
 ### ASSET ALLOCATION (Holdings as % of Total Assets)
 
 |              | Dec-25  | Jan-26  |
@@ -5203,7 +4691,6 @@ AGPPF-CP4: High
 | Money Market | 0.00%   | 0.00%   |
 | Others       | 0.36%   | 6.27%   |
 | Total        | 100.00% | 100.00% |
-
 
 ### FUND STATISTICS
 
@@ -5230,7 +4717,6 @@ AGPPF-CP4: High
 | Dec-25 | 3.99%  | 5.52%  |
 | Jan-26 | 4.17%  | 4.07%  |
 
-
 MONTHLY PERFORMANCE showing BM and AAP returns from Jan-25 to Jan-26
 
 ### Asset Allocation
@@ -5243,18 +4729,11 @@ MONTHLY PERFORMANCE showing BM and AAP returns from Jan-25 to Jan-26
 | Money Market | 0.0%   | 0.0%   |
 | Others       | 0.4%   | 6.3%   |
 
-
 Asset Allocation comparing Dec-25 and Jan-26 across various asset classes
 
-----
-
-\* Calculated on 12-month trailing data.  
-\*\* Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-\*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
-
----
-
-
+- \* Calculated on 12-month trailing data.  
+  \*\* Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*\*\* Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## ALFALAH GHP PROSPERITY PLANNING FUND - MODERATE ALLOCATION PLAN
 
@@ -5268,7 +4747,6 @@ Asset Allocation comparing Dec-25 and Jan-26 across various asset classes
 | 3-Year                   | 33.23% | 33.88% |
 | 5-Year                   | 22.55% | 20.89% |
 
-
 | ASSET ALLOCATION (Holdings as % of Total Assets) | Dec-25  | Jan-26  |
 | ------------------------------------------------ | ------- | ------- |
 | Cash                                             | 75.23%  | 66.01%  |
@@ -5277,7 +4755,6 @@ Asset Allocation comparing Dec-25 and Jan-26 across various asset classes
 | Money Market                                     | 0.00%   | 0.00%   |
 | Others                                           | 0.67%   | 0.75%   |
 | Total                                            | 100.00% | 100.00% |
-
 
 | Month  | BM     | MAP    |
 | ------ | ------ | ------ |
@@ -5295,7 +4772,6 @@ Asset Allocation comparing Dec-25 and Jan-26 across various asset classes
 | Dec-25 | 1.88%  | 2.34%  |
 | Jan-26 | 1.38%  | 1.40%  |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah GHP Prosperity Planning Fund (Moderate Allocation Plan)
 
 | FUND STATISTICS                                    |        |
@@ -5305,7 +4781,6 @@ MONTHLY PERFORMANCE (%) - Alfalah GHP Prosperity Planning Fund (Moderate Allocat
 | NAV (PkR):                                         | 116.86 |
 | Portfolio Turnover Ratio                           | 38.27% |
 
-
 | Asset Class  | Dec-25 | Jan-26 |
 | ------------ | ------ | ------ |
 | Cash         | 75.2%  | 66.0%  |
@@ -5313,7 +4788,6 @@ MONTHLY PERFORMANCE (%) - Alfalah GHP Prosperity Planning Fund (Moderate Allocat
 | Income       | 14.3%  | 24.2%  |
 | Money Market | 0.0%   | 0.0%   |
 | Others       | 0.7%   | 0.7%   |
-
 
 Asset Allocation showing Dec-25 and Jan-26 percentages across various asset classes
 
@@ -5329,7 +4803,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | 3-Year                   | 26.10% | 26.48% |
 | 5-Year                   | 19.57% | 18.61% |
 
-
 | ASSET ALLOCATION (Holdings as % of Total Assets) | Dec-25  | Jan-26  |
 | ------------------------------------------------ | ------- | ------- |
 | Cash                                             | 29.41%  | 12.30%  |
@@ -5338,7 +4811,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | Money Market                                     | 29.31%  | 38.75%  |
 | Others                                           | 0.48%   | 1.78%   |
 | Total                                            | 100.00% | 100.00% |
-
 
 | Month  | BM     | CAP    |
 | ------ | ------ | ------ |
@@ -5356,7 +4828,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | Dec-25 | 1.53%  | 1.72%  |
 | Jan-26 | 1.55%  | 1.80%  |
 
-
 MONTHLY PERFORMANCE (%) - ALFALAH GHP PROSPERITY PLANNING FUND - CONSERVATIVE ALLOCATION PLAN
 
 | FUND STATISTICS                                    |        |
@@ -5366,7 +4837,6 @@ MONTHLY PERFORMANCE (%) - ALFALAH GHP PROSPERITY PLANNING FUND - CONSERVATIVE AL
 | NAV (PkR):                                         | 122.50 |
 | Portfolio Turnover Ratio                           | 26.13% |
 
-
 | Asset Class  | Dec-25 | Jan-26 |
 | ------------ | ------ | ------ |
 | Cash         | 29.4%  | 12.3%  |
@@ -5375,13 +4845,7 @@ MONTHLY PERFORMANCE (%) - ALFALAH GHP PROSPERITY PLANNING FUND - CONSERVATIVE AL
 | Money Market | 29.3%  | 38.7%  |
 | Others       | 0.5%   | 1.8%   |
 
-
 Asset Allocation showing Dec-25 and Jan-26 percentages across various asset classes
-
-
----
-
-
 
 # ALFALAH GHP PROSPERITY PLANNING FUND - CAPITAL PRESERVATION PLAN 4
 
@@ -5394,7 +4858,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | January-26               | 2.49%  | 2.73%  |
 | 365 Days                 | 33.16% | 26.78% |
 
-
 ## ASSET ALLOCATION (Holdings as % of Total Assets)
 
 |              | Dec-25  | Jan-26  |
@@ -5406,7 +4869,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | Others       | 0.02%   | 0.00%   |
 | Total        | 100.00% | 100.00% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 633.5  |
@@ -5414,7 +4876,6 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | Fund Size including fund of fund schemes: (Pkr mn) | 633.5  |
 | NAV (PkR):                                         | 119.02 |
 | Portfolio Turnover Ratio                           | 0.00%  |
-
 
 ## MONTHLY PERFORMANCE (%)
 
@@ -5434,16 +4895,14 @@ Asset Allocation showing Dec-25 and Jan-26 percentages across various asset clas
 | Dec-25 | 2.03%  | 2.95%  |
 | Jan-26 | 2.49%  | 2.73%  |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah GHP Prosperity Planning Fund (Capital Preservation Plan 4)
-| Asset Class  | Dec-25 | Jan-26 |
+| Asset Class | Dec-25 | Jan-26 |
 | ------------ | ------ | ------ |
-| Cash         | 0.1%   | 0.0%   |
-| Equity       | 32.3%  | 33.5%  |
-| Income       | 58.7%  | 57.7%  |
-| Money Market | 8.9%   | 8.8%   |
-| Others       | 0.0%   | 0.0%   |
-
+| Cash | 0.1% | 0.0% |
+| Equity | 32.3% | 33.5% |
+| Income | 58.7% | 57.7% |
+| Money Market | 8.9% | 8.8% |
+| Others | 0.0% | 0.0% |
 
 Asset Allocation showing percentage of total assets for Dec-25 and Jan-26 across various asset classes.
 
@@ -5452,24 +4911,20 @@ Asset Allocation showing percentage of total assets for Dec-25 and Jan-26 across
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
-
 ## Details of Non-Compliant Investments - MAP
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Details of Non-Compliant Investments - CAP
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
-
 ## Details of Non-Compliant Investments - CPP4
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -5481,10 +4936,6 @@ www.sdms.secp.gov.pk
 
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
 
----
-
-
-
 Alfalah Investments
 
 RATED AM1  
@@ -5492,14 +4943,11 @@ by VIS & PACRA
 
 # PENSION FUNDS
 
-## CONVENTIONAL  
+## CONVENTIONAL
+
 ## FUND MANAGERS REPORT
 
-021-111-090-090 | www.alfalahamc.com                                    #WealthUnlocked
-
----
-
-
+021-111-090-090 | www.alfalahamc.com #WealthUnlocked
 
 Alfalah Investments
 
@@ -5517,7 +4965,6 @@ by VIS & PACRA
 | Cumulative Net Assets (CIS)                         | 1,161,619,081        |
 | Risk Profile (CIS)                                  | Plan Specific        |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 34,822    |
@@ -5527,7 +4974,6 @@ by VIS & PACRA
 | Formation Cost Amortization | -         |
 | Other Expenses              | 1,777,211 |
 
-
 ## Investment Plan Overview:
 
 | Investment Plan Name  | Date of Launch | Maturity Date | Risk Profile | Net Assets  | Status (Active/Matured) |
@@ -5536,14 +4982,8 @@ by VIS & PACRA
 | Pension- Debt         | 08-Nov-16      | Perpetual     | Medium       | 223,813,877 | Active                  |
 | Pension- Money Market | 08-Nov-16      | Perpetual     | Low          | 528,503,851 | Active                  |
 
-
-
-
----
-
-
-
 # Alfalah GHP Pension Fund
+
 **Fund Managers' Report January-2026**
 
 AMC Rating: "AM1" by VIS 26-Jan-26  
@@ -5574,7 +5014,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                             |
 | Leverage:                | NIL                                                                                                                                                           |
 
-
 ## INVESTMENT OBJECTIVE
 
 The objective of introducing Alfalah GHP Pension Fund is to provide individuals with a portable, individualized, funded (based on defined contribution) and flexible pension scheme which is managed by professional investment manager to assist them to plan and provide for their retirement. The design of the scheme empowers the participants to decide how much to invest in their pensions and how to invest it, as well as to continue investing in their pension accounts even if
@@ -5593,7 +5032,6 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 | MTD  | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -5602,16 +5040,14 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | DSF  | 1.00%   | 0.04%          | 0.15%       | 0.17%          | 0.20%                | 0.08%                | 0.23%          | 1.87%                 | 1.70%                    |
 | MMSF | 0.50%   | 0.04%          | 0.15%       | 0.10%          | 0.08%                | 0.06%                | 0.00%          | 0.92%                 | 0.83%                    |
 
-
 | YTD  | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
 | ---- | ------- | -------------- | ----------- | -------------- | -------------------- | -------------------- | -------------- | --------------------- | ------------------------ |
 | ESF  | 2.50%   | 0.04%          | 0.15%       | 0.44%          | 0.28%                | 0.04%                | 0.00%          | 3.45%                 | 3.01%                    |
 | DSF  | 1.09%   | 0.04%          | 0.15%       | 0.19%          | 0.21%                | 0.07%                | 0.23%          | 1.98%                 | 1.79%                    |
 | MMSF | 0.69%   | 0.04%          | 0.15%       | 0.13%          | 0.09%                | 0.06%                | 0.00%          | 1.16%                 | 1.03%                    |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2013 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2013 through 12th supplemental OD with consent of the SECP.
 
 ## ALFALAH GHP EQUITY SUB FUND
 
@@ -5623,14 +5059,12 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | FY26TD                   | 46.60% | 48.51% |
 | January-26               | 5.81%  | 5.76%  |
 
-
-*Avg. Peer Group Return for Jan, 2026 was 8.06%*
+_Avg. Peer Group Return for Jan, 2026 was 8.06%_
 
 | 365 Days | 61.19%  | 60.38%  |
 | -------- | ------- | ------- |
 | 3-Year   | 352.82% | 398.58% |
 | 5-Year   | 297.05% | 321.11% |
-
 
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -5639,7 +5073,6 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | Equity         | 88.44%         |
 | Bank Balance   | 11.47%         |
 | Others         | 0.09%          |
-
 
 Asset Allocation (as % of Total Assets)
 
@@ -5653,7 +5086,6 @@ Asset Allocation (as % of Total Assets)
 | Power Generation & Distribution | 6.24%  |
 | Others                          | 27.17% |
 | Total                           | 88.44% |
-
 
 ## MONTHLY PERFORMANCE (%)
 
@@ -5673,7 +5105,6 @@ Asset Allocation (as % of Total Assets)
 | Dec-25 | 4.43%  | 7.16%  |
 | Jan-26 | 5.81%  | 5.76%  |
 
-
 MONTHLY PERFORMANCE (%) - Comparison of BM and ESF from January 2025 to January 2026
 
 ## TOP 10 HOLDINGS (% of Total Assets)
@@ -5690,7 +5121,6 @@ MONTHLY PERFORMANCE (%) - Comparison of BM and ESF from January 2025 to January 
 | Pakistan Petroleum Limited         | 3.22% |
 | Lucky Cement Limited               | 3.20% |
 
-
 ## FUND STATISTICS
 
 | Fund Size PKR mn (Jan,2026)                        | 409.3 |
@@ -5699,20 +5129,12 @@ MONTHLY PERFORMANCE (%) - Comparison of BM and ESF from January 2025 to January 
 | NAV (PKR):                                         | 371.2 |
 | Portfolio Turnover Ratio                           | 3.7%  |
 
-
 ## Historical Performance
 
 |     | FY21  | FY22   | FY23  | FY24  | FY25  |
 | --- | ----- | ------ | ----- | ----- | ----- |
 | ESF | 36.2% | -14.5% | 3.4%  | 96.9% | 62.0% |
 | BM  | 37.6% | -12.3% | -0.2% | 89.2% | 60.1% |
-
-
-
-
----
-
-
 
 # ALFALAH GHP DEBT SUB FUND
 
@@ -5724,15 +5146,13 @@ MONTHLY PERFORMANCE (%) - Comparison of BM and ESF from January 2025 to January 
 | FY26TD                   | 10.44% | 10.90% |
 | January-26               | 9.76%  | 12.03% |
 
-
-*Avg. Peer Group Return for Jan, 2026 was 11.30%*
+_Avg. Peer Group Return for Jan, 2026 was 11.30%_
 
 |          |        |        |
 | -------- | ------ | ------ |
 | 365 Days | 10.90% | 13.65% |
 | 3-Year   | 16.72% | 17.10% |
 | 5-Year   | 14.68% | 13.58% |
-
 
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -5744,7 +5164,6 @@ MONTHLY PERFORMANCE (%) - Comparison of BM and ESF from January 2025 to January 
 | T-Bills     | 0.0%  | 39.5% |
 | CPs/Sukuks  | 2.5%  | 2.3%  |
 | Others      | 2.8%  | 1.3%  |
-
 
 Asset Allocation (as % of Total Assets)
 
@@ -5758,7 +5177,6 @@ Asset Allocation (as % of Total Assets)
 | Duration                    | 0.07   |
 | Modified Duration           | 0.06   |
 
-
 # ALFALAH GHP MONEY MARKET SUB FUND
 
 ## FUND PERFORMANCE
@@ -5769,15 +5187,13 @@ Asset Allocation (as % of Total Assets)
 | FY26TD                   | 10.56% | 9.64%  |
 | January-26               | 9.95%  | 8.61%  |
 
-
-*Avg. Peer Group Return for Jan, 2026 was 9.01%*
+_Avg. Peer Group Return for Jan, 2026 was 9.01%_
 
 |          |        |        |
 | -------- | ------ | ------ |
 | 365 Days | 10.92% | 10.15% |
 | 3-Year   | 16.38% | 16.85% |
 | 5-Year   | 14.02% | 13.94% |
-
 
 ## ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -5787,7 +5203,6 @@ Asset Allocation (as % of Total Assets)
 | PIBs        | 0.0%  | 0.0%  |
 | T-Bills     | 0.0%  | 92.1% |
 | Others      | 0.7%  | 0.8%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) - ALFALAH GHP MONEY MARKET SUB FUND
 
@@ -5801,24 +5216,20 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) - ALFALAH GHP MONEY MARKET SUB FUND
 | Duration                    | 0.10   |
 | Modified Duration           | 0.10   |
 
-
 ## Details of Non-Compliant Investments - Equity Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Details of Non-Compliant Investments - Debt Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 
-
 ## Details of Non-Compliant Investments - Money Market Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -5829,10 +5240,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 **Disclaimer:** This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
-
----
-
-
 
 Fund Managers' Report January-2026
 AMC Rating: "AM1" by VIS 26-Jan-26
@@ -5862,7 +5269,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                                                                                                                                                                              |
 | Leverage:                | NIL                                                                                                                                                                                                                                                                                                                            |
 
-
 ## INVESTMENT OBJECTIVE
 
 The objective of introducing Alfalah GHP Pension Fund is to provide individuals with a portable, individualized, funded (based on defined contribution) and flexible pension scheme which is managed by professional investment manager to assist them to plan and provide for their retirement. The design of the scheme empowers the participants to decide how much to invest in their pensions and how to invest it, as well as to continue investing in their pension accounts even if they change jobs.
@@ -5881,7 +5287,6 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 |         | M.F Fee | Regulatory Fee | Trustee Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -5895,9 +5300,7 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | DSF     | 0.00%   | 0.36%          | 2.72% 0.41%            | 0.70%                | 8.77%                | 1.20%          | 14.16%                | 13.75%                   |
 | MMSF    | 0.00%   | 0.22%          | 2.71% 0.41%            | 0.32%                | 4.09%                | 0.56%          | 8.30%                 | 7.90%                    |
 
-
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-***AMF Mgt Fee has been revised from Jul 1, 2025 through 3rd supplemental OD
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \***AMF Mgt Fee has been revised from Jul 1, 2025 through 3rd supplemental OD
 
 ## ALFALAH GHP EQUITY SUB FUND
 
@@ -5909,13 +5312,11 @@ The objective of introducing Alfalah GHP Pension Fund is to provide individuals 
 | FY26TD                   | 46.60% | -15.68% |
 | January-26               | 5.81%  | -6.23%  |
 
-
 Avg. Peer Group Return for Jan, 2026 was 8.06%
 
 | 365 Days | 61.19%  | -16.32% |
 | -------- | ------- | ------- |
 | 3-Year   | 352.82% | 123.46% |
-
 
 ### FUND STATISTICS
 
@@ -5925,14 +5326,12 @@ Avg. Peer Group Return for Jan, 2026 was 8.06%
 | NAV (PKR):                                         | 202.5 |
 | Portfolio Turnover Ratio                           | 0.0%  |
 
-
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
 | Category     | Percentage |
 | ------------ | ---------- |
 | Bank Balance | 75.16%     |
 | Others       | 24.84%     |
-
 
 Asset Allocation (as % of Total Assets) - Alfalah GHP Equity Sub Fund
 
@@ -5946,13 +5345,11 @@ Asset Allocation (as % of Total Assets) - Alfalah GHP Equity Sub Fund
 | FY26TD                   | 10.50% | -32.78%  |
 | January-26               | 9.76%  | -109.82% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 11.33%
 
 | 365 Days | 10.94% | -16.16% |
 | -------- | ------ | ------- |
 | 3-Year   | 16.73% | 5.68%   |
-
 
 ### FUND STATISTICS
 
@@ -5964,7 +5361,6 @@ Avg. Peer Group Return for Jan, 2026 was 11.33%
 | Duration                    | -     |
 | Modified Duration           | -     |
 
-
 | Asset Class | Dec   | Jan   |
 | ----------- | ----- | ----- |
 | Cash        | 60.8% | 47.6% |
@@ -5972,7 +5368,6 @@ Avg. Peer Group Return for Jan, 2026 was 11.33%
 | PIBs        | 0.0%  | 0.0%  |
 | T-Bills     | 0.0%  | 0.0%  |
 | Others      | 39.2% | 52.4% |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) - Alfalah GHP Debt Sub Fund
 
@@ -5986,13 +5381,11 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) - Alfalah GHP Debt Sub Fund
 | FY26TD                   | 10.56% | -169.77%  |
 | January-26               | 9.95%  | -1177.42% |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.01%
 
 | 365 Days | 10.92% | -100.00% |
 | -------- | ------ | -------- |
 | 3-Year   | 16.38% | -100.00% |
-
 
 ### FUND STATISTICS
 
@@ -6004,14 +5397,12 @@ Avg. Peer Group Return for Jan, 2026 was 9.01%
 | Duration                    | -     |
 | Modified Duration           | -     |
 
-
 | Asset Category | Dec   | Jan   |
 | -------------- | ----- | ----- |
 | Cash           | 93.5% | 88.4% |
 | PIBs           | 0.0%  | 0.0%  |
 | T-Bills        | 0.0%  | 0.0%  |
 | Others         | 6.5%  | 11.6% |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -6021,20 +5412,17 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | -    | -    | -                         | -                         | -                        | -              | -            |
 
-
 ## Details of Non-Compliant Investments - Debt Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | -    | -    | -                         | -                         | -                        | -              | -            |
 
-
 ## Details of Non-Compliant Investments - Money Market Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
 | -    | -    | -                         | -                         | -                        | -              | -            |
-
 
 ## Disclaimer
 
@@ -6045,10 +5433,6 @@ SECP Complaints Handling
 www.sdms.secp.gov.pk
 
 All returns are calculated on NAV to NAV basis. Different types of charges/fees/load may be chargeable to the investors as per the offering documents. Past performance is not necessarily indicative of future results. The NAV based prices of units and any dividends/returns thereon are dependent on forces and factors affecting the capital markets. These may go up or down based on market conditions. Past performance is not necessarily indicative of future results.
-
----
-
-
 
 # Alfalah GHP KPK Employee Pension Fund
 
@@ -6079,7 +5463,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                                                 |
 | Leverage:                | NIL                                                                                                                                                               |
 
-
 ## INVESTMENT OBJECTIVE
 
 The objective of the Fund is to provide Employees with an individualized, funded (based on defined contribution) as well as flexible pension scheme which is managed by professional investment managers to assist them to plan and provide for their retirement. The design of the scheme empowers the Employees to invest their pensions as per their desired asset allocations.
@@ -6098,7 +5481,6 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## TOTAL EXPENSE RATIO BREAKUP
 
 |     | M.F Fee | Regulatory Fee | Trustee Fee | Levies & Taxes | Transaction Expenses | Third Party Expenses | Other Expenses | Total TER with Levies | Total TER without Levies |
@@ -6106,10 +5488,9 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | MTD | 0.00%   | 0.04%          | 0.15%       | 0.02%          | 0.01%                | 1.69%                | -1.35%         | 0.56%                 | 0.54%                    |
 | YTD | 0.00%   | 0.04%          | 0.15%       | 0.02%          | 0.01%                | 1.89%                | -1.31%         | 0.80%                 | 0.78%                    |
 
-
-* Calculated on 12-month trailing data.  
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.  
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## ALFALAH GHP MONEY MARKET SUB FUND
 
@@ -6121,12 +5502,10 @@ The objective of the Fund is to provide Employees with an individualized, funded
 | FY26TD                   | 10.56% | 9.68%  |
 | January-26               | 9.95%  | 8.64%  |
 
-
 Avg. Peer Group Return for Jan, 2026 was 9.01%
 
 | 365 Days | 10.92% | 10.63% |
 | -------- | ------ | ------ |
-
 
 ### ASSET ALLOCATION (AS % OF TOTAL ASSETS)
 
@@ -6138,7 +5517,6 @@ Avg. Peer Group Return for Jan, 2026 was 9.01%
 | PIBs           | 0.0%  | 0.0%  |
 | T-Bills        | 0.0%  | 88.2% |
 | Others         | 4.8%  | 5.1%  |
-
 
 ASSET ALLOCATION (AS % OF TOTAL ASSETS) - Comparison between Dec and Jan
 
@@ -6152,12 +5530,10 @@ ASSET ALLOCATION (AS % OF TOTAL ASSETS) - Comparison between Dec and Jan
 | Duration                    | 0.15   |
 | Modified Duration           | 0.14   |
 
-
 ### Details of Non-Compliant Investments - Money Market Sub Fund
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6168,10 +5544,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 Disclaimer: This publication is for informational purpose only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. The NAV based prices of units and any dividends/returns thereon are dependant on forces and factors affecting the capital markets. These may go up down based on market conditions. Past performance is not necessarily indicative of future results.
-
----
-
-
 
 **Alfalah Investments**
 
@@ -6188,10 +5560,6 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 
 #WealthUnlocked
 
----
-
-
-
 # Investment Plans Summary Report for January 2026
 
 **Alfalah Investments** - RATED AM1 by VIS & PACRA
@@ -6205,7 +5573,6 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Cumulative Net Assets (CIS)                         | 24,539,672,531                  |
 | Risk Profile (CIS)                                  | Plan Specific                   |
 
-
 ## CIS Level Expense Breakdown:
 
 | Audit Fee                   | 224,631    |
@@ -6214,7 +5581,6 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Rating Fee                  | 15,628     |
 | Formation Cost Amortization | -          |
 | Other Expenses              | 54,545,516 |
-
 
 ## Investment Plan Overview:
 
@@ -6228,15 +5594,8 @@ Disclaimer: This publication is for informational purpose only and nothing herei
 | Stable Return Fund Plan-VI  | 25-Oct-23      | 26-Jul-24     | Moderate     | N/A        | Matured                 |
 | Stable Return Fund Plan-VII | 19-Jul-23      | 20-Oct-23     | Low          | N/A        | Matured                 |
 
-
-
-
----
-
-
-
-Alfalah Investments                                                        RATED AM1
-                                                                          by VIS & PACRA
+Alfalah Investments RATED AM1
+by VIS & PACRA
 
 | Investment Plan Name          | Date of Launch | Maturity Date | Risk Profile    | Net Assets     | Status (Active/Matured) |
 | ----------------------------- | -------------- | ------------- | --------------- | -------------- | ----------------------- |
@@ -6260,16 +5619,9 @@ Alfalah Investments                                                        RATED
 | Stable Return Fund Plan-XXV   | 12-Nov-25      | 09-Feb-26     | Medium          | 11,025,310,932 | Active                  |
 | Stable Return Fund Plan-XXVI  | 19-Nov-25      | 12-Nov-26     | Medium          | 1,027,728,453  | Active                  |
 
-
-
-
----
-
-
-
 Fund Managers' Report January-2026
-Alfalah Stable Return Fund - Plan XX                                                                                                                                                                                                        AMC Rating: "AM1" by VIS 26-Jan-26
-                                                                                                                                                                                                                                             AMC rating: "AM1" by PACRA 29-August-25
+Alfalah Stable Return Fund - Plan XX AMC Rating: "AM1" by VIS 26-Jan-26
+AMC rating: "AM1" by PACRA 29-August-25
 
 ## FUND INFORMATION
 
@@ -6293,7 +5645,6 @@ Alfalah Stable Return Fund - Plan XX                                            
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
 ## INVESTMENT OBJECTIVE
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
@@ -6312,7 +5663,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class | Dec   | Jan   |
@@ -6322,11 +5672,9 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | T-Bills     | 0.0%  | 5.1%  |
 | Others      | 0.7%  | 0.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+**Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -6335,7 +5683,6 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 1.00%   | 0.08%          | 0.06%                  | 0.19%                | 0.21%                | 0.01%          | 22.99%                | 24.54%                   | 24.35% |
 | YTD                         | 0.99%   | 0.08%          | 0.06%                  | 0.16%                | 0.02%                | 0.01%          | 1.62%                 | 2.92%                    | 2.77%  |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XX |
@@ -6343,7 +5690,6 @@ ASSET ALLOCATION (% of Total Assets)
 | Since Inception Return\*\* | 11.41% | 11.54%    |
 | FY26TD                     | 11.41% | 10.20%    |
 | January-26                 | 11.41% | 6.51%     |
-
 
 ## FUND STATISTICS
 
@@ -6357,7 +5703,6 @@ ASSET ALLOCATION (% of Total Assets)
 | YTM                                                | 10.4%  |
 | Duration                                           | 0.00   |
 | Modified Duration                                  | 0.00   |
-
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
@@ -6373,7 +5718,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.2% |
 
-
 ## MONTHLY PERFORMANCE (%)
 
 | Month  | BM     | ASRF - XX |
@@ -6385,7 +5729,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 11.41% | 20.52%    |
 | Jan-26 | 11.41% | 6.51%     |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah Stable Return Fund - Plan XX vs Benchmark (BM)
 
 ## Credit Quality (% of Total Assets)
@@ -6395,12 +5738,10 @@ MONTHLY PERFORMANCE (%) - Alfalah Stable Return Fund - Plan XX vs Benchmark (BM)
 | Govt. Securities (Rated AAA) | 99.6%      |
 | NR                           | 0.2%       |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6412,11 +5753,8 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 # Fund Managers' Report January-2026
+
 # Alfalah Stable Return Fund - Plan XXI
 
 AMC Rating: "AM1" by VIS 26-Jan-26  
@@ -6433,7 +5771,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Target Return:** 6 Month Coupon Rate Of GOP Ijara Sukuk Issue 29 October 2021 (+/-) 10 Basis  
 **Risk Profile:** Medium  
-**Management Fee***:** up to 1.50% per annum of the average daily net assets  
+**Management Fee\***:** up to 1.50% per annum of the average daily net assets  
 **Min. Initial Investment:** PKR 500/-  
 **Min. Suseq. Investment:** NA  
 **Auditor:** Yousuf Adil Chartered Accountants  
@@ -6441,10 +5779,10 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-Off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -6473,7 +5811,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | T-Bills                  | 0.0%  | 0.0%  |
 | Others                   | 1.9%  | 2.7%  |
 
-
 ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset categories
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -6483,7 +5820,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | MTD                         | 0.20%   | 0.08%          | 0.06%       | 0.04%          | 0.00%                | 0.02%                | 0.00%          | 0.39%                 | 0.35%                    |
 | YTD                         | 0.20%   | 0.08%          | 0.06%       | 0.04%          | 0.00%                | 0.02%                | 0.00%          | 0.39%                 | 0.35%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXI |
@@ -6491,7 +5827,6 @@ ASSET ALLOCATION (% of Total Assets) comparing Dec and Jan across various asset 
 | Since Inception Return\*\* | 11.41% | 10.28%     |
 | FY26TD                     | 11.41% | 10.12%     |
 | January-26                 | 11.41% | 11.54%     |
-
 
 ## FUND STATISTICS
 
@@ -6519,7 +5854,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 2.7% |
 
-
 ## MONTHLY PERFORMANCE (%)
 
 | Month  | BM     | ASRF - XXI |
@@ -6531,7 +5865,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 11.41% | 10.83%     |
 | Jan-26 | 11.41% | 11.54%     |
 
-
 MONTHLY PERFORMANCE (%) - Alfalah Stable Return Fund - Plan XXI
 
 ## Credit Quality (% of Total Assets)
@@ -6541,12 +5874,10 @@ MONTHLY PERFORMANCE (%) - Alfalah Stable Return Fund - Plan XXI
 | Govt. Securities (Rated AAA) | 97.2%      |
 | NR                           | 2.7%       |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6557,10 +5888,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -6591,7 +5918,6 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
 ## INVESTMENT OBJECTIVE
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
@@ -6610,7 +5936,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 | Asset Category           | Dec   | Jan   |
 | ------------------------ | ----- | ----- |
 | Cash                     | 0.1%  | 0.1%  |
@@ -6619,11 +5944,10 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Govt. Backed/ Gov. Guar. | 0.0%  | 0.0%  |
 | Others                   | 0.0%  | 0.0%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -6632,14 +5956,12 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.09%   | 0.08%          | 0.06%       | 0.02%          | 0.00%                | 0.02%                | 0.00%          | 0.26%                 | 0.24%                    |
 | YTD                         | 0.09%   | 0.08%          | 0.06%       | 0.02%          | 0.01%                | 0.02%                | 0.00%          | 0.27%                 | 0.25%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXII |
 | -------------------------- | ------ | ----------- |
 | Since Inception Return\*\* | 10.97% | 10.99%      |
 | January-26                 | 10.97% | 9.91%       |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -6652,7 +5974,6 @@ ASSET ALLOCATION (% of Total Assets)
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.0% |
-
 
 ## FUND STATISTICS
 
@@ -6667,7 +5988,6 @@ ASSET ALLOCATION (% of Total Assets)
 | Duration                                           | 0.59   |
 | Modified Duration                                  | 0.53   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 ## MONTHLY PERFORMANCE (%)
@@ -6678,7 +5998,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Dec-25 | 10.97% | 15.58%      |
 | Jan-26 | 10.97% | 9.91%       |
 
-
 MONTHLY PERFORMANCE (%)
 
 ## Credit Quality (% of Total Assets)
@@ -6688,12 +6007,10 @@ MONTHLY PERFORMANCE (%)
 | Govt. Securities (Rated AAA) | 99.9%      |
 | NR                           | 0.0%       |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6704,10 +6021,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contigent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 # Fund Managers' Report January-2026
 
@@ -6727,7 +6040,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Pricing: | Forward Day |
 | Target Return | 10.78% - 10.88% |
 | Risk Profile: | Medium |
-| Management Fee***: | up to 1.00% per annum of the average daily net assets |
+| Management Fee\*\*\*: | up to 1.00% per annum of the average daily net assets |
 | Min. Initial Investment: | PKR 500/- |
 | Min. Suseq. Investment: | NA |
 | Auditor: | Yousuf Adil Chartered Accountants |
@@ -6737,9 +6050,9 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time: | 9:00 am - 4:00 pm |
 | Leverage: | NIL |
 
-* Calculated on 12-month trailing data.  
-**Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.  
+  **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
+  \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -6766,7 +6079,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Govt. Backed/ Gov. Guar. | 0.0%  | 0.0%  |
 | Others                   | 0.0%  | 0.0%  |
 
-
 ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across asset categories
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -6776,14 +6088,12 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across asse
 | MTD                         | 0.10% | 0.08%          | 0.06%       | 0.02%          | 0.00%                | 0.01%                | 0.00%          | 0.26%                 | 0.24%                    |
 | YTD                         | 0.10% | 0.08%          | 0.06%       | 0.03%          | 0.02%                | 0.01%                | 0.00%          | 0.28%                 | 0.25%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXIII |
 | -------------------------- | ------ | ------------ |
 | Since Inception Return\*\* | 11.50% | 11.75%       |
 | January-26                 | 11.50% | 9.73%        |
-
 
 ## FUND STATISTICS
 
@@ -6795,14 +6105,13 @@ Portfolio Turnover Ratio: 0.0%
 Wtd. Average Maturity (Years): 0.67  
 YTM: 10.3%  
 Duration: 0.67  
-Modified Duration: 0.60  
+Modified Duration: 0.60
 
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 | Month  | BM     | ASRF - XXIII |
 | ------ | ------ | ------------ |
 | Jan-26 | 11.50% | 9.73%        |
-
 
 MONTHLY PERFORMANCE (%) for Jan-26
 
@@ -6818,7 +6127,6 @@ MONTHLY PERFORMANCE (%) for Jan-26
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.0% |
 
-
 ## Credit Quality (% of Total Assets)
 
 | Rating                       | Percentage |
@@ -6826,12 +6134,10 @@ MONTHLY PERFORMANCE (%) for Jan-26
 | Govt. Securities (Rated AAA) | 99.9%      |
 | NR                           | 0.0%       |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6842,10 +6148,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -6876,7 +6178,6 @@ AMC Rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
 ## INVESTMENT OBJECTIVE
 
 Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to generate returns on investment as per the respective Investment Plan by investing in avenues such as government securities, cash in bank account, money market placements, deposits, certificate of deposits, certificate of musharakahs.
@@ -6895,7 +6196,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Class              | Dec   | Jan   |
@@ -6906,12 +6206,10 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | T-Bills                  | 99.9% | 99.9% |
 | Others                   | 0.0%  | 0.0%  |
 
-
 ASSET ALLOCATION (% of Total Assets) showing Dec and Jan values for various asset classes
 
-* Calculated on 12-month trailing data.
-** Since inception return is calculated on Compounded Annual Growth Rate (CAGR).
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+- Calculated on 12-month trailing data.
+  ** Since inception return is calculated on Compounded Annual Growth Rate (CAGR). \*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## TOTAL EXPENSE RATIO BREAKUP
 
@@ -6920,14 +6218,12 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan values for various asse
 | MTD                         | 0.22%   | 0.08%          | 0.06%       | 0.21%          | 0.00%                | 0.04%                | 0.00%          | 0.60%                 | 0.39%                    |
 | YTD                         | 0.17%   | 0.08%          | 0.06%       | 0.09%          | 0.01%                | 0.04%                | 0.00%          | 0.43%                 | 0.35%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXIV |
 | -------------------------- | ------ | ----------- |
 | Since Inception Return\*\* | 11.17% | 11.24%      |
 | January-26                 | 11.17% | 10.07%      |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -6940,7 +6236,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan values for various asse
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.0% |
-
 
 ## FUND STATISTICS
 
@@ -6955,7 +6250,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan values for various asse
 | Duration                                           | 0.39   |
 | Modified Duration                                  | 0.35   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 ## Credit Quality (% of Total Assets)
@@ -6965,12 +6259,10 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | Govt. Securities (Rated AAA) | 99.9%      |
 | NR                           | 0.0%       |
 
-
 | Series      | Performance (%) |
 | ----------- | --------------- |
 | BM          | 11.17%          |
 | ASRF - XXIV | 10.07%          |
-
 
 MONTHLY PERFORMANCE (%) for Jan-26
 
@@ -6978,7 +6270,6 @@ MONTHLY PERFORMANCE (%) for Jan-26
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -6990,11 +6281,8 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 # Fund Managers' Report January-2026
+
 # Alfalah Stable Return Fund - Plan XXV
 
 AMC Rating: "AM1" by VIS 26-Jan-26  
@@ -7011,7 +6299,7 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Pricing:** Forward Day  
 **Target Return:** 10.70% - 10.80%  
 **Risk Profile:** Medium  
-**Management Fee***:** up to 1.00% per annum of the average daily net assets  
+**Management Fee\***:** up to 1.00% per annum of the average daily net assets  
 **Min. Initial Investment:** PKR 500/-  
 **Min. Suseq. Investment:** NA  
 **Auditor:** Yousuf Adil Chartered Accountants  
@@ -7019,10 +6307,10 @@ AMC rating: "AM1" by PACRA 29-August-25
 **Listing:** Pakistan Stock Exchange  
 **Dealing Days:** Monday - Friday  
 **Cut-Off Time:** 9:00 am - 4:00 pm  
-**Leverage:** NIL
+**Leverage:\*\* NIL
 
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -7052,7 +6340,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | T-Bills                  | 90.2% | 90.2% |
 | Others                   | 0.1%  | 0.2%  |
 
-
 ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across asset categories
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -7062,14 +6349,12 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across asse
 | MTD                         | 0.03%   | 0.07%          | 0.05%       | 0.03%          | 0.00%                | 0.00%                | 0.00%          | 0.19%                 | 0.16%                    |
 | YTD                         | 0.03%   | 0.07%          | 0.05%       | 0.02%          | 0.00%                | 0.00%                | 0.00%          | 0.18%                 | 0.16%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXV |
 | -------------------------- | ------ | ---------- |
 | Since Inception Return\*\* | 10.92% | 10.81%     |
 | January-26                 | 10.92% | 10.23%     |
-
 
 ## PORTFOLIO CREDIT QUALITY (as % of Total Assets)
 
@@ -7082,7 +6367,6 @@ ASSET ALLOCATION (% of Total Assets) showing Dec and Jan comparisons across asse
 | AA-                          | 0.0%  | BBB  | 0.0% |
 | A+                           | 9.6%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.2% |
-
 
 ## FUND STATISTICS
 
@@ -7102,7 +6386,6 @@ Amount invested by fund of funds is Rs. 0.0 million substracted from total
 | ------ | ------ | ---------- |
 | Jan-26 | 10.92% | 10.23%     |
 
-
 Grouped bar chart showing Monthly Performance (%) for BM and ASRF - XXV in Jan-26.
 
 ## Credit Quality (% of Total Assets)
@@ -7112,14 +6395,12 @@ Grouped bar chart showing Monthly Performance (%) for BM and ASRF - XXV in Jan-2
 | Govt. Securities (Rated AAA) | 90.2%                      |
 | A+                           | 9.6%                       |
 
-
 Credit Quality (% of Total Assets)
 
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -7130,10 +6411,6 @@ Email: complaint@alfalahamc.com | Call us at 0300-0707417, +92 111 090 090
 www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
-
----
-
-
 
 Fund Managers' Report January-2026
 
@@ -7164,9 +6441,8 @@ AMC rating: "AM1" by PACRA 29-August-25
 | Cut-Off Time:            | 9:00 am - 4:00 pm                                                                                                                |
 | Leverage:                | NIL                                                                                                                              |
 
-
 **Since inception return is calculated on Compounded Annual Growth Rate (CAGR).  
-*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
+\*** Management fee of the fund has been amended from Oct 28, 2023 through 12th supplemental OD with consent of the SECP.
 
 ## INVESTMENT OBJECTIVE
 
@@ -7186,7 +6462,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | Salman Jawaid         | Fund manager Fixed Income Funds |
 | Anil Kumar, CFA       | Fund manager Equity Funds       |
 
-
 ## ASSET ALLOCATION (% of Total Assets)
 
 | Asset Category           | Dec   | Jan   |
@@ -7197,7 +6472,6 @@ Alfalah Stable Return Fund is an Open-ended Fixed Return Fund that aims to gener
 | T-Bills                  | 99.0% | 99.9% |
 | Others                   | 0.0%  | 0.0%  |
 
-
 ASSET ALLOCATION (% of Total Assets)
 
 ## TOTAL EXPENSE RATIO BREAKUP
@@ -7207,14 +6481,12 @@ ASSET ALLOCATION (% of Total Assets)
 | MTD                         | 0.06%   | 0.08%          | 0.06%       | 0.02%          | 0.00%                | 0.05%                | 0.00%          | 0.26%                 | 0.24%                    |
 | YTD                         | 0.04%   | 0.08%          | 0.06%       | 0.02%          | 0.01%                | 0.05%                | 0.00%          | 0.25%                 | 0.23%                    |
 
-
 ## FUND PERFORMANCE
 
 |                            | BM     | ASRF - XXVI |
 | -------------------------- | ------ | ----------- |
 | Since Inception Return\*\* | 11.33% | 13.68%      |
 | January-26                 | 11.33% | 9.56%       |
-
 
 ## FUND STATISTICS
 
@@ -7229,13 +6501,11 @@ ASSET ALLOCATION (% of Total Assets)
 | Duration                                           | 0.78   |
 | Modified Duration                                  | 0.71   |
 
-
 Amount invested by fund of funds is Rs. 0.0 million substracted from total
 
 | Month  | BM     | ASRF - XXVI |
 | ------ | ------ | ----------- |
 | Jan-26 | 11.33% | 9.56%       |
-
 
 MONTHLY PERFORMANCE (%)
 
@@ -7250,19 +6520,16 @@ MONTHLY PERFORMANCE (%)
 | A+                           | 0.0%  | IG   | 0.0% |
 | A                            | 0.0%  | NR   | 0.0% |
 
-
 ## Credit Quality (% of Total Assets)
 
 | Govt. Securities (Rated AAA) | 99.9% |
 | ---------------------------- | ----- |
 | NR                           | 0.0%  |
 
-
 ## Details of Non-Compliant Investments
 
 | Name | Type | Value Before Provisioning | Provisioning Held, If any | Value after Provisioning | % Gross Assets | % Net Assets |
 | ---- | ---- | ------------------------- | ------------------------- | ------------------------ | -------------- | ------------ |
-
 
 ## Disclaimer
 
@@ -7274,10 +6541,6 @@ www.sdms.secp.gov.pk
 
 This publication is for informational purposes only and nothing herein should be construed as a solicitation, recommendation or an offer to buy or sell any fund. All investments in mutual funds are subject to market risks. Past performance is not necessarily indicative of future results. Please read the Offering Document to understand the investment policies and risks involved. All returns are calculated assuming reinvested dividends. Performance data does not include the cost incurred directly by an investor in the form of sales load etc. Please be advised that the sales load (including Front End Load, Back End Load and Contingent Load) up to 3.00% or 1.50% as may be applicable, may be charged on the investment and/or upon redemption of funds, at the discretion of the management company.
 
----
-
-
-
 # Alfalah Investments
 
 **RATED AM1**  
@@ -7287,9 +6550,7 @@ This publication is for informational purposes only and nothing herein should be
 
 # FINANCIAL SUMMIT
 
-----
-
-**Alfalah Asset Management limited**
+- **Alfalah Asset Management limited**
 
 Islamic Chamber Of Commerce Industry & Agriculture Building,  
 2nd Floor ST-2/A Block 9, KDA Scheme 5, Clifton,Karachi
